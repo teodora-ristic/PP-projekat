@@ -1,0 +1,43 @@
+INFO  19:23:58,091 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:23:58,165 - #2 program
+INFO  19:23:58,165 - #47 test301
+INFO  19:23:58,166 - #6 const
+INFO  19:23:58,167 - #47 int
+INFO  19:23:58,167 - #47 nula
+INFO  19:23:58,167 - #29 =
+INFO  19:23:58,167 - #45 0
+INFO  19:23:58,167 - #34 ;
+INFO  19:23:58,168 - #6 const
+INFO  19:23:58,168 - #47 int
+INFO  19:23:58,168 - #47 jedan
+INFO  19:23:58,169 - #29 =
+INFO  19:23:58,169 - #45 1
+INFO  19:23:58,169 - #34 ;
+INFO  19:23:58,169 - #6 const
+INFO  19:23:58,169 - #47 int
+INFO  19:23:58,169 - #47 pet
+INFO  19:23:58,169 - #29 =
+INFO  19:23:58,169 - #45 5
+INFO  19:23:58,169 - #34 ;
+INFO  19:23:58,169 - #47 int
+INFO  19:23:58,169 - #47 niz
+INFO  19:23:58,170 - #40 [
+INFO  19:23:58,170 - #41 ]
+INFO  19:23:58,170 - #34 ;
+INFO  19:23:58,170 - #47 char
+INFO  19:23:58,170 - #47 nizch
+INFO  19:23:58,171 - #40 [
+INFO  19:23:58,171 - #41 ]
+INFO  19:23:58,171 - #34 ;
+INFO  19:23:58,171 - #47 int
+INFO  19:23:58,171 - #47 mat
+INFO  19:23:58,171 - #40 [
+INFO  19:23:58,171 - #41 ]
+INFO  19:23:58,171 - #40 [
+INFO  19:23:58,171 - #41 ]
+INFO  19:23:58,171 - #34 ;
+INFO  19:23:58,171 - #47 int
+INFO  19:23:58,171 - #34 ;
+ERROR 19:23:58,172 - 
+Sintaksna greska na liniji 13
+ERROR 19:23:58,172 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

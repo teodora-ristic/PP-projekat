@@ -1,0 +1,70 @@
+INFO  21:06:53,505 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:06:53,579 - #2 program
+INFO  21:06:53,579 - #47 test301
+INFO  21:06:53,579 - #6 const
+INFO  21:06:53,581 - #47 int
+INFO  21:06:53,581 - #47 nula
+INFO  21:06:53,583 - #29 =
+INFO  21:06:53,584 - #45 0
+INFO  21:06:53,584 - #34 ;
+INFO  21:06:53,585 - #6 const
+INFO  21:06:53,587 - #47 int
+INFO  21:06:53,587 - #47 jedan
+INFO  21:06:53,588 - #29 =
+INFO  21:06:53,588 - #45 1
+INFO  21:06:53,588 - #34 ;
+INFO  21:06:53,588 - #6 const
+INFO  21:06:53,588 - #47 int
+INFO  21:06:53,588 - #47 pet
+INFO  21:06:53,589 - #29 =
+INFO  21:06:53,589 - #45 5
+INFO  21:06:53,589 - #34 ;
+INFO  21:06:53,589 - #47 int
+INFO  21:06:53,589 - #47 niz
+INFO  21:06:53,590 - #40 [
+INFO  21:06:53,590 - #41 ]
+INFO  21:06:53,590 - #34 ;
+INFO  21:06:53,594 - #47 char
+INFO  21:06:53,597 - #47 nizch
+INFO  21:06:53,597 - #40 [
+INFO  21:06:53,597 - #41 ]
+INFO  21:06:53,597 - #34 ;
+INFO  21:06:53,597 - #47 int
+INFO  21:06:53,597 - #47 mat
+INFO  21:06:53,597 - #40 [
+INFO  21:06:53,598 - #41 ]
+INFO  21:06:53,598 - #40 [
+INFO  21:06:53,598 - #41 ]
+INFO  21:06:53,598 - #34 ;
+INFO  21:06:53,599 - #47 int
+INFO  21:06:53,599 - #47 a
+INFO  21:06:53,599 - #34 ;
+INFO  21:06:53,600 - #42 {
+INFO  21:06:53,601 - #12 void
+INFO  21:06:53,603 - #47 main
+INFO  21:06:53,604 - #38 (
+INFO  21:06:53,606 - #39 )
+INFO  21:06:53,608 - #47 int
+INFO  21:06:53,611 - #47 bodovi
+INFO  21:06:53,611 - #34 ;
+INFO  21:06:53,612 - #47 bool
+INFO  21:06:53,612 - #47 bt
+INFO  21:06:53,612 - #34 ;
+INFO  21:06:53,612 - #42 {
+INFO  21:06:53,612 - #47 a
+INFO  21:06:53,614 - #29 =
+INFO  21:06:53,616 - #45 1
+INFO  21:06:53,618 - #34 ;
+INFO  21:06:53,624 - #43 }
+INFO  21:06:53,624 - #43 }
+INFO  21:06:53,642 - ===================================
+INFO  21:06:53,642 - Deklarisana konstanta nula na liniji 3
+INFO  21:06:53,642 - Deklarisana konstanta jedan na liniji 4
+INFO  21:06:53,642 - Deklarisana konstanta pet na liniji 5
+INFO  21:06:53,643 - Deklarisana promenljiva niz na liniji 7
+INFO  21:06:53,643 - Deklarisana promenljiva nizch na liniji 8
+INFO  21:06:53,643 - Deklarisana promenljiva mat na liniji 9
+INFO  21:06:53,643 - Deklarisana promenljiva a na liniji 11
+INFO  21:06:53,643 - Obradjuje se funkcija main na liniji 14
+INFO  21:06:53,643 - Deklarisana promenljiva bodovi na liniji 15
+INFO  21:06:53,643 - Deklarisana promenljiva bt na liniji 16

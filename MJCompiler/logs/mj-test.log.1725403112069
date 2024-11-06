@@ -1,0 +1,60 @@
+INFO  00:38:24,025 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:38:24,085 - #2 program
+INFO  00:38:24,085 - #47 test301
+INFO  00:38:24,085 - #6 const
+INFO  00:38:24,088 - #47 int
+INFO  00:38:24,088 - #47 nula
+INFO  00:38:24,090 - #29 =
+INFO  00:38:24,090 - #45 0
+INFO  00:38:24,090 - #34 ;
+INFO  00:38:24,093 - #6 const
+INFO  00:38:24,094 - #47 int
+INFO  00:38:24,095 - #47 jedan
+INFO  00:38:24,095 - #29 =
+INFO  00:38:24,095 - #45 1
+INFO  00:38:24,095 - #34 ;
+INFO  00:38:24,095 - #6 const
+INFO  00:38:24,095 - #47 int
+INFO  00:38:24,095 - #47 pet
+INFO  00:38:24,096 - #29 =
+INFO  00:38:24,096 - #45 5
+INFO  00:38:24,096 - #34 ;
+INFO  00:38:24,096 - #47 int
+INFO  00:38:24,096 - #47 niz
+INFO  00:38:24,097 - #40 [
+INFO  00:38:24,097 - #41 ]
+INFO  00:38:24,097 - #34 ;
+INFO  00:38:24,101 - #47 int
+INFO  00:38:24,102 - #47 a
+INFO  00:38:24,102 - #34 ;
+INFO  00:38:24,103 - #42 {
+INFO  00:38:24,103 - #12 void
+INFO  00:38:24,105 - #47 main
+INFO  00:38:24,106 - #38 (
+INFO  00:38:24,106 - #39 )
+INFO  00:38:24,108 - #42 {
+INFO  00:38:24,109 - #47 niz
+INFO  00:38:24,110 - #29 =
+INFO  00:38:24,110 - #8 new
+INFO  00:38:24,112 - #47 int
+INFO  00:38:24,112 - #40 [
+INFO  00:38:24,112 - #45 3
+INFO  00:38:24,112 - #41 ]
+INFO  00:38:24,116 - #34 ;
+INFO  00:38:24,116 - #47 niz
+INFO  00:38:24,118 - #40 [
+INFO  00:38:24,118 - #47 nula
+INFO  00:38:24,118 - #41 ]
+INFO  00:38:24,118 - #29 =
+INFO  00:38:24,118 - #47 jedan
+INFO  00:38:24,118 - #34 ;
+INFO  00:38:24,119 - #43 }
+INFO  00:38:24,119 - #43 }
+INFO  00:38:24,137 - ===================================
+INFO  00:38:24,137 - Deklarisana konstanta nula na liniji 3
+INFO  00:38:24,138 - Deklarisana konstanta jedan na liniji 4
+INFO  00:38:24,138 - Deklarisana konstanta pet na liniji 5
+INFO  00:38:24,138 - Deklarisana promenljiva niz na liniji 7
+INFO  00:38:24,138 - Deklarisana promenljiva a na liniji 8
+INFO  00:38:24,138 - Obradjuje se funkcija main na liniji 11
+INFO  00:38:24,138 - ===================================

@@ -1,0 +1,22 @@
+INFO  03:42:36,782 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  03:42:36,854 - #2 program
+INFO  03:42:36,854 - #47 test301
+INFO  03:42:36,855 - #42 {
+INFO  03:42:36,857 - #12 void
+INFO  03:42:36,858 - #47 main
+INFO  03:42:36,860 - #38 (
+INFO  03:42:36,861 - #39 )
+INFO  03:42:36,862 - #47 int
+INFO  03:42:36,863 - #47 bodovi
+INFO  03:42:36,864 - #34 ;
+INFO  03:42:36,867 - #42 {
+INFO  03:42:36,868 - #47 bodovi
+INFO  03:42:36,869 - #29 =
+INFO  03:42:36,871 - #47 bodovi
+INFO  03:42:36,872 - #31 +
+INFO  03:42:36,875 - #45 1
+INFO  03:42:36,877 - #34 ;
+INFO  03:42:36,879 - #43 }
+INFO  03:42:36,880 - #43 }
+INFO  03:42:36,894 - ===================================
+INFO  03:42:36,895 - Deklarisana promenljiva bodovi na liniji 6

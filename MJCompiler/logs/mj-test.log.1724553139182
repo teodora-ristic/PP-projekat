@@ -1,0 +1,79 @@
+INFO  04:31:53,071 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  04:31:53,121 - #2 program
+INFO  04:31:53,121 - #47 test301
+INFO  04:31:53,121 - #6 const
+INFO  04:31:53,122 - #47 int
+INFO  04:31:53,122 - #47 nula
+INFO  04:31:53,123 - #29 =
+INFO  04:31:53,123 - #45 0
+INFO  04:31:53,123 - #34 ;
+INFO  04:31:53,124 - #6 const
+INFO  04:31:53,124 - #47 int
+INFO  04:31:53,125 - #47 jedan
+INFO  04:31:53,125 - #29 =
+INFO  04:31:53,125 - #45 1
+INFO  04:31:53,125 - #34 ;
+INFO  04:31:53,125 - #6 const
+INFO  04:31:53,125 - #47 int
+INFO  04:31:53,125 - #47 pet
+INFO  04:31:53,125 - #29 =
+INFO  04:31:53,125 - #45 5
+INFO  04:31:53,125 - #34 ;
+INFO  04:31:53,125 - #47 int
+INFO  04:31:53,125 - #47 niz
+INFO  04:31:53,125 - #40 [
+INFO  04:31:53,126 - #41 ]
+INFO  04:31:53,126 - #34 ;
+INFO  04:31:53,127 - #47 char
+INFO  04:31:53,128 - #47 nizch
+INFO  04:31:53,128 - #40 [
+INFO  04:31:53,128 - #41 ]
+INFO  04:31:53,128 - #34 ;
+INFO  04:31:53,128 - #47 int
+INFO  04:31:53,128 - #47 mat
+INFO  04:31:53,128 - #40 [
+INFO  04:31:53,128 - #41 ]
+INFO  04:31:53,129 - #40 [
+INFO  04:31:53,129 - #41 ]
+INFO  04:31:53,129 - #34 ;
+INFO  04:31:53,130 - #47 int
+INFO  04:31:53,130 - #47 a
+INFO  04:31:53,130 - #34 ;
+INFO  04:31:53,132 - #42 {
+INFO  04:31:53,132 - #12 void
+INFO  04:31:53,133 - #47 main
+INFO  04:31:53,133 - #38 (
+INFO  04:31:53,134 - #39 )
+INFO  04:31:53,135 - #47 int
+INFO  04:31:53,136 - #47 bodovi
+INFO  04:31:53,136 - #34 ;
+INFO  04:31:53,136 - #47 bool
+INFO  04:31:53,136 - #47 bt
+INFO  04:31:53,136 - #34 ;
+INFO  04:31:53,136 - #42 {
+INFO  04:31:53,136 - #9 print
+INFO  04:31:53,137 - #38 (
+INFO  04:31:53,137 - #40 [
+ERROR 04:31:53,137 - 
+Sintaksna greska na liniji 18
+INFO  04:31:53,137 - #45 1
+INFO  04:31:53,137 - #36 ,
+INFO  04:31:53,137 - #45 2
+INFO  04:31:53,139 - #41 ]
+INFO  04:31:53,139 - #39 )
+INFO  04:31:53,139 - #34 ;
+INFO  04:31:53,139 - #43 }
+INFO  04:31:53,139 - #43 }
+ERROR 04:31:53,139 - Izvrsen oporavak od greske prilikom dodele do ; u liniji 18
+INFO  04:31:53,144 - ===================================
+INFO  04:31:53,145 - Deklarisana konstanta nula na liniji 3
+INFO  04:31:53,145 - Deklarisana konstanta jedan na liniji 4
+INFO  04:31:53,145 - Deklarisana konstanta pet na liniji 5
+INFO  04:31:53,145 - Deklarisana promenljiva niz na liniji 7
+INFO  04:31:53,145 - Deklarisana promenljiva nizch na liniji 8
+INFO  04:31:53,145 - Deklarisana promenljiva mat na liniji 9
+INFO  04:31:53,145 - Deklarisana promenljiva a na liniji 11
+INFO  04:31:53,145 - Deklarisana promenljiva bodovi na liniji 15
+INFO  04:31:53,145 - Deklarisana promenljiva bt na liniji 16
+INFO  04:31:53,145 - ===================================
+ERROR 04:31:53,147 - Parsiranje NIJE uspesno zavrseno!

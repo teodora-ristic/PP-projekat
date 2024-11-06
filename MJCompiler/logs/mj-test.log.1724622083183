@@ -1,0 +1,428 @@
+INFO  23:40:27,042 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:40:27,090 - #2 program
+INFO  23:40:27,090 - #47 test301
+INFO  23:40:27,090 - #6 const
+INFO  23:40:27,092 - #47 int
+INFO  23:40:27,092 - #47 nula
+INFO  23:40:27,093 - #29 =
+INFO  23:40:27,093 - #45 0
+INFO  23:40:27,093 - #34 ;
+INFO  23:40:27,096 - #6 const
+INFO  23:40:27,097 - #47 int
+INFO  23:40:27,097 - #47 jedan
+INFO  23:40:27,097 - #29 =
+INFO  23:40:27,097 - #45 1
+INFO  23:40:27,097 - #34 ;
+INFO  23:40:27,097 - #6 const
+INFO  23:40:27,097 - #47 int
+INFO  23:40:27,097 - #47 pet
+INFO  23:40:27,097 - #29 =
+INFO  23:40:27,097 - #45 5
+INFO  23:40:27,098 - #34 ;
+INFO  23:40:27,098 - #47 int
+INFO  23:40:27,098 - #47 niz
+INFO  23:40:27,099 - #40 [
+INFO  23:40:27,099 - #41 ]
+INFO  23:40:27,099 - #34 ;
+INFO  23:40:27,100 - #47 char
+INFO  23:40:27,101 - #47 nizch
+INFO  23:40:27,101 - #40 [
+INFO  23:40:27,101 - #41 ]
+INFO  23:40:27,101 - #34 ;
+INFO  23:40:27,101 - #47 int
+INFO  23:40:27,101 - #47 mat
+INFO  23:40:27,101 - #40 [
+INFO  23:40:27,101 - #41 ]
+INFO  23:40:27,101 - #40 [
+INFO  23:40:27,101 - #41 ]
+INFO  23:40:27,102 - #34 ;
+INFO  23:40:27,103 - #47 int
+INFO  23:40:27,103 - #47 a
+INFO  23:40:27,103 - #34 ;
+INFO  23:40:27,104 - #42 {
+INFO  23:40:27,104 - #12 void
+INFO  23:40:27,105 - #47 main
+INFO  23:40:27,105 - #38 (
+INFO  23:40:27,106 - #39 )
+INFO  23:40:27,107 - #47 int
+INFO  23:40:27,108 - #47 bodovi
+INFO  23:40:27,109 - #34 ;
+INFO  23:40:27,109 - #47 bool
+INFO  23:40:27,109 - #47 bt
+INFO  23:40:27,109 - #34 ;
+INFO  23:40:27,109 - #42 {
+INFO  23:40:27,109 - #47 bodovi
+INFO  23:40:27,109 - #29 =
+INFO  23:40:27,111 - #45 0
+INFO  23:40:27,112 - #34 ;
+INFO  23:40:27,114 - #47 bodovi
+INFO  23:40:27,115 - #30 ++
+INFO  23:40:27,115 - #34 ;
+INFO  23:40:27,115 - #47 bodovi
+INFO  23:40:27,115 - #29 =
+INFO  23:40:27,115 - #47 bodovi
+INFO  23:40:27,115 - #31 +
+INFO  23:40:27,115 - #47 jedan
+INFO  23:40:27,117 - #34 ;
+INFO  23:40:27,117 - #47 bodovi
+INFO  23:40:27,117 - #29 =
+INFO  23:40:27,117 - #47 bodovi
+INFO  23:40:27,117 - #17 *
+INFO  23:40:27,117 - #47 pet
+INFO  23:40:27,118 - #34 ;
+INFO  23:40:27,118 - #47 bodovi
+INFO  23:40:27,118 - #32 --
+INFO  23:40:27,118 - #34 ;
+INFO  23:40:27,118 - #9 print
+INFO  23:40:27,118 - #38 (
+INFO  23:40:27,118 - #47 bodovi
+INFO  23:40:27,118 - #39 )
+INFO  23:40:27,118 - #34 ;
+INFO  23:40:27,118 - #47 niz
+INFO  23:40:27,118 - #29 =
+INFO  23:40:27,119 - #8 new
+INFO  23:40:27,119 - #47 int
+INFO  23:40:27,119 - #40 [
+INFO  23:40:27,119 - #45 3
+INFO  23:40:27,119 - #41 ]
+INFO  23:40:27,119 - #34 ;
+INFO  23:40:27,119 - #47 niz
+INFO  23:40:27,119 - #40 [
+INFO  23:40:27,119 - #47 nula
+INFO  23:40:27,119 - #41 ]
+INFO  23:40:27,119 - #29 =
+INFO  23:40:27,119 - #47 jedan
+INFO  23:40:27,119 - #34 ;
+INFO  23:40:27,119 - #47 niz
+INFO  23:40:27,119 - #40 [
+INFO  23:40:27,119 - #45 1
+INFO  23:40:27,119 - #41 ]
+INFO  23:40:27,119 - #29 =
+INFO  23:40:27,119 - #45 2
+INFO  23:40:27,120 - #34 ;
+INFO  23:40:27,120 - #47 niz
+INFO  23:40:27,120 - #40 [
+INFO  23:40:27,120 - #47 niz
+INFO  23:40:27,120 - #40 [
+INFO  23:40:27,120 - #47 jedan
+INFO  23:40:27,120 - #41 ]
+INFO  23:40:27,120 - #41 ]
+INFO  23:40:27,120 - #29 =
+INFO  23:40:27,120 - #47 niz
+INFO  23:40:27,120 - #40 [
+INFO  23:40:27,120 - #47 niz
+INFO  23:40:27,120 - #40 [
+INFO  23:40:27,120 - #45 0
+INFO  23:40:27,120 - #41 ]
+INFO  23:40:27,120 - #41 ]
+INFO  23:40:27,120 - #17 *
+INFO  23:40:27,120 - #45 3
+INFO  23:40:27,120 - #34 ;
+INFO  23:40:27,120 - #47 bodovi
+INFO  23:40:27,120 - #29 =
+INFO  23:40:27,120 - #47 niz
+INFO  23:40:27,120 - #40 [
+INFO  23:40:27,120 - #45 2
+INFO  23:40:27,120 - #41 ]
+INFO  23:40:27,120 - #18 /
+INFO  23:40:27,120 - #47 niz
+INFO  23:40:27,121 - #40 [
+INFO  23:40:27,121 - #45 0
+INFO  23:40:27,121 - #41 ]
+INFO  23:40:27,121 - #34 ;
+INFO  23:40:27,122 - #9 print
+INFO  23:40:27,122 - #38 (
+INFO  23:40:27,122 - #47 bodovi
+INFO  23:40:27,122 - #39 )
+INFO  23:40:27,122 - #34 ;
+INFO  23:40:27,122 - #9 print
+INFO  23:40:27,122 - #38 (
+INFO  23:40:27,122 - #47 niz
+INFO  23:40:27,122 - #40 [
+INFO  23:40:27,122 - #45 2
+INFO  23:40:27,122 - #41 ]
+INFO  23:40:27,122 - #39 )
+INFO  23:40:27,122 - #34 ;
+INFO  23:40:27,122 - #47 nizch
+INFO  23:40:27,122 - #29 =
+INFO  23:40:27,122 - #8 new
+INFO  23:40:27,122 - #47 char
+INFO  23:40:27,122 - #40 [
+INFO  23:40:27,122 - #45 3
+INFO  23:40:27,122 - #41 ]
+INFO  23:40:27,122 - #34 ;
+INFO  23:40:27,122 - #47 nizch
+INFO  23:40:27,123 - #40 [
+INFO  23:40:27,123 - #45 0
+INFO  23:40:27,123 - #41 ]
+INFO  23:40:27,123 - #29 =
+INFO  23:40:27,123 - #46 a
+INFO  23:40:27,123 - #34 ;
+INFO  23:40:27,123 - #47 nizch
+INFO  23:40:27,123 - #40 [
+INFO  23:40:27,123 - #47 jedan
+INFO  23:40:27,123 - #41 ]
+INFO  23:40:27,123 - #29 =
+INFO  23:40:27,123 - #46 b
+INFO  23:40:27,123 - #34 ;
+INFO  23:40:27,123 - #47 nizch
+INFO  23:40:27,123 - #40 [
+INFO  23:40:27,123 - #47 pet
+INFO  23:40:27,124 - #33 -
+INFO  23:40:27,124 - #45 3
+INFO  23:40:27,125 - #41 ]
+INFO  23:40:27,125 - #29 =
+INFO  23:40:27,125 - #46 c
+INFO  23:40:27,125 - #34 ;
+INFO  23:40:27,125 - #9 print
+INFO  23:40:27,125 - #38 (
+INFO  23:40:27,125 - #47 nizch
+INFO  23:40:27,125 - #40 [
+INFO  23:40:27,125 - #45 1
+INFO  23:40:27,125 - #41 ]
+INFO  23:40:27,125 - #39 )
+INFO  23:40:27,125 - #34 ;
+INFO  23:40:27,125 - #9 print
+INFO  23:40:27,125 - #38 (
+INFO  23:40:27,125 - #47 nizch
+INFO  23:40:27,125 - #40 [
+INFO  23:40:27,125 - #47 jedan
+INFO  23:40:27,125 - #17 *
+INFO  23:40:27,125 - #45 2
+INFO  23:40:27,125 - #41 ]
+INFO  23:40:27,125 - #39 )
+INFO  23:40:27,125 - #34 ;
+INFO  23:40:27,126 - #47 a
+INFO  23:40:27,126 - #29 =
+INFO  23:40:27,126 - #45 1
+INFO  23:40:27,126 - #34 ;
+INFO  23:40:27,126 - #10 read
+INFO  23:40:27,126 - #38 (
+INFO  23:40:27,126 - #47 bodovi
+INFO  23:40:27,126 - #39 )
+INFO  23:40:27,126 - #34 ;
+INFO  23:40:27,126 - #47 bodovi
+INFO  23:40:27,126 - #29 =
+INFO  23:40:27,126 - #33 -
+INFO  23:40:27,126 - #47 bodovi
+INFO  23:40:27,126 - #31 +
+INFO  23:40:27,126 - #38 (
+INFO  23:40:27,126 - #47 pet
+INFO  23:40:27,126 - #17 *
+INFO  23:40:27,127 - #47 a
+INFO  23:40:27,127 - #18 /
+INFO  23:40:27,127 - #45 2
+INFO  23:40:27,127 - #33 -
+INFO  23:40:27,127 - #47 jedan
+INFO  23:40:27,127 - #39 )
+INFO  23:40:27,127 - #17 *
+INFO  23:40:27,127 - #47 bodovi
+INFO  23:40:27,127 - #33 -
+INFO  23:40:27,127 - #38 (
+INFO  23:40:27,127 - #45 3
+INFO  23:40:27,127 - #19 %
+INFO  23:40:27,127 - #45 2
+INFO  23:40:27,128 - #31 +
+INFO  23:40:27,128 - #45 3
+INFO  23:40:27,128 - #17 *
+INFO  23:40:27,128 - #45 2
+INFO  23:40:27,128 - #33 -
+INFO  23:40:27,128 - #45 3
+INFO  23:40:27,128 - #39 )
+INFO  23:40:27,128 - #34 ;
+INFO  23:40:27,128 - #9 print
+INFO  23:40:27,128 - #38 (
+INFO  23:40:27,128 - #47 bodovi
+INFO  23:40:27,128 - #39 )
+INFO  23:40:27,128 - #34 ;
+INFO  23:40:27,128 - #47 mat
+INFO  23:40:27,128 - #29 =
+INFO  23:40:27,128 - #8 new
+INFO  23:40:27,128 - #47 int
+INFO  23:40:27,128 - #40 [
+INFO  23:40:27,130 - #45 2
+INFO  23:40:27,130 - #41 ]
+INFO  23:40:27,130 - #40 [
+INFO  23:40:27,130 - #45 3
+INFO  23:40:27,130 - #41 ]
+INFO  23:40:27,130 - #34 ;
+INFO  23:40:27,130 - #47 mat
+INFO  23:40:27,130 - #40 [
+INFO  23:40:27,130 - #47 nula
+INFO  23:40:27,130 - #41 ]
+INFO  23:40:27,130 - #40 [
+INFO  23:40:27,130 - #47 jedan
+INFO  23:40:27,130 - #33 -
+INFO  23:40:27,130 - #45 1
+INFO  23:40:27,130 - #41 ]
+INFO  23:40:27,130 - #29 =
+INFO  23:40:27,130 - #47 jedan
+INFO  23:40:27,130 - #34 ;
+INFO  23:40:27,130 - #47 mat
+INFO  23:40:27,130 - #40 [
+INFO  23:40:27,130 - #45 0
+INFO  23:40:27,130 - #41 ]
+INFO  23:40:27,130 - #40 [
+INFO  23:40:27,131 - #47 mat
+INFO  23:40:27,131 - #40 [
+INFO  23:40:27,131 - #45 0
+INFO  23:40:27,131 - #41 ]
+INFO  23:40:27,131 - #40 [
+INFO  23:40:27,131 - #45 0
+INFO  23:40:27,131 - #41 ]
+INFO  23:40:27,131 - #41 ]
+INFO  23:40:27,131 - #29 =
+INFO  23:40:27,131 - #45 2
+INFO  23:40:27,131 - #34 ;
+INFO  23:40:27,131 - #47 mat
+INFO  23:40:27,131 - #40 [
+INFO  23:40:27,131 - #45 0
+INFO  23:40:27,131 - #41 ]
+INFO  23:40:27,131 - #40 [
+INFO  23:40:27,131 - #47 mat
+INFO  23:40:27,131 - #40 [
+INFO  23:40:27,131 - #45 0
+INFO  23:40:27,131 - #41 ]
+INFO  23:40:27,131 - #40 [
+INFO  23:40:27,131 - #45 1
+INFO  23:40:27,131 - #41 ]
+INFO  23:40:27,131 - #41 ]
+INFO  23:40:27,131 - #29 =
+INFO  23:40:27,132 - #45 5
+INFO  23:40:27,132 - #34 ;
+INFO  23:40:27,132 - #47 mat
+INFO  23:40:27,132 - #40 [
+INFO  23:40:27,132 - #45 1
+INFO  23:40:27,132 - #41 ]
+INFO  23:40:27,132 - #40 [
+INFO  23:40:27,132 - #47 mat
+INFO  23:40:27,132 - #40 [
+INFO  23:40:27,132 - #45 0
+INFO  23:40:27,132 - #41 ]
+INFO  23:40:27,132 - #40 [
+INFO  23:40:27,132 - #45 0
+INFO  23:40:27,132 - #41 ]
+INFO  23:40:27,132 - #17 *
+INFO  23:40:27,132 - #45 2
+INFO  23:40:27,132 - #41 ]
+INFO  23:40:27,132 - #29 =
+INFO  23:40:27,132 - #45 4
+INFO  23:40:27,132 - #34 ;
+INFO  23:40:27,132 - #47 mat
+INFO  23:40:27,132 - #40 [
+INFO  23:40:27,132 - #47 mat
+INFO  23:40:27,132 - #40 [
+INFO  23:40:27,132 - #45 0
+INFO  23:40:27,132 - #41 ]
+INFO  23:40:27,132 - #40 [
+INFO  23:40:27,132 - #45 0
+INFO  23:40:27,132 - #41 ]
+INFO  23:40:27,132 - #41 ]
+INFO  23:40:27,132 - #40 [
+INFO  23:40:27,133 - #45 1
+INFO  23:40:27,133 - #41 ]
+INFO  23:40:27,133 - #29 =
+INFO  23:40:27,133 - #45 3
+INFO  23:40:27,133 - #34 ;
+INFO  23:40:27,133 - #47 mat
+INFO  23:40:27,133 - #40 [
+INFO  23:40:27,133 - #45 1
+INFO  23:40:27,133 - #41 ]
+INFO  23:40:27,133 - #40 [
+INFO  23:40:27,133 - #45 0
+INFO  23:40:27,133 - #41 ]
+INFO  23:40:27,133 - #29 =
+INFO  23:40:27,133 - #45 2
+INFO  23:40:27,133 - #34 ;
+INFO  23:40:27,133 - #9 print
+INFO  23:40:27,133 - #38 (
+INFO  23:40:27,133 - #47 mat
+INFO  23:40:27,133 - #40 [
+INFO  23:40:27,133 - #45 1
+INFO  23:40:27,133 - #41 ]
+INFO  23:40:27,133 - #40 [
+INFO  23:40:27,133 - #45 2
+INFO  23:40:27,133 - #41 ]
+INFO  23:40:27,133 - #39 )
+INFO  23:40:27,133 - #34 ;
+INFO  23:40:27,133 - #9 print
+INFO  23:40:27,133 - #38 (
+INFO  23:40:27,133 - #47 mat
+INFO  23:40:27,133 - #40 [
+INFO  23:40:27,133 - #45 0
+INFO  23:40:27,133 - #41 ]
+INFO  23:40:27,134 - #40 [
+INFO  23:40:27,134 - #45 2
+INFO  23:40:27,134 - #41 ]
+INFO  23:40:27,134 - #39 )
+INFO  23:40:27,134 - #34 ;
+INFO  23:40:27,134 - #43 }
+INFO  23:40:27,134 - #43 }
+INFO  23:40:27,141 - ===================================
+INFO  23:40:27,142 - Deklarisana konstanta nula na liniji 5
+INFO  23:40:27,142 - Deklarisana konstanta jedan na liniji 6
+INFO  23:40:27,142 - Deklarisana konstanta pet na liniji 7
+INFO  23:40:27,142 - Deklarisana promenljiva niz na liniji 9
+INFO  23:40:27,142 - Deklarisana promenljiva nizch na liniji 10
+INFO  23:40:27,142 - Deklarisana promenljiva mat na liniji 11
+INFO  23:40:27,142 - Deklarisana promenljiva a na liniji 13
+INFO  23:40:27,142 - Obradjuje se funkcija main na liniji 16
+INFO  23:40:27,142 - Deklarisana promenljiva bodovi na liniji 17
+INFO  23:40:27,142 - Deklarisana promenljiva bt na liniji 18
+ERROR 23:40:27,142 - Nekompatibilni tiplovi u operaciji dodele bodovi na liniji 20
+ERROR 23:40:27,142 - Greska na liniji 27 : expr nije int! 
+ERROR 23:40:27,142 - Nekompatibilni tiplovi u operaciji dodele niz na liniji 28
+ERROR 23:40:27,142 - Greska na liniji 29 : expr nije int! 
+ERROR 23:40:27,142 - Nekompatibilni tiplovi u operaciji dodele niz na liniji 29
+ERROR 23:40:27,142 - Greska na liniji 30 : expr nije int! 
+ERROR 23:40:27,142 - Greska na liniji 30 : expr nije int! 
+ERROR 23:40:27,142 - Greska na liniji 30 : expr nije int! 
+ERROR 23:40:27,142 - Greska na liniji 31 : expr nije int! 
+ERROR 23:40:27,142 - Greska na liniji 31 : expr nije int! 
+ERROR 23:40:27,142 - Nekompatibilni tiplovi u operaciji dodele bodovi na liniji 31
+ERROR 23:40:27,142 - Greska na liniji 33 : expr nije int! 
+ERROR 23:40:27,142 - Greska na liniji 33 : expr nije int, char ili bool! 
+ERROR 23:40:27,143 - Greska na liniji 36 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 37 : expr nije int! 
+ERROR 23:40:27,143 - Nekompatibilni tiplovi u operaciji dodele nizch na liniji 37
+ERROR 23:40:27,143 - Nekompatibilni tiplovi u operaciji dodele nizch na liniji 38
+ERROR 23:40:27,143 - Nekompatibilni tiplovi u operaciji dodele nizch na liniji 39
+ERROR 23:40:27,143 - Greska na liniji 40 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 40 : expr nije int, char ili bool! 
+ERROR 23:40:27,143 - Greska na liniji 41 : expr nije int, char ili bool! 
+ERROR 23:40:27,143 - Nekompatibilni tiplovi u operaciji dodele a na liniji 43
+ERROR 23:40:27,143 - Greska na liniji 59 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 12 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 48 : expr nije int! 
+ERROR 23:40:27,143 - Nekompatibilni tiplovi u operaciji dodele mat na liniji 49
+ERROR 23:40:27,143 - Greska na liniji 50 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 50 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 50 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 50 : expr nije int! 
+ERROR 23:40:27,143 - Nekompatibilni tiplovi u operaciji dodele mat na liniji 50
+ERROR 23:40:27,143 - Greska na liniji 51 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 51 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 51 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 51 : expr nije int! 
+ERROR 23:40:27,143 - Nekompatibilni tiplovi u operaciji dodele mat na liniji 51
+ERROR 23:40:27,143 - Greska na liniji 52 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 52 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 52 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 52 : expr nije int! 
+ERROR 23:40:27,143 - Nekompatibilni tiplovi u operaciji dodele mat na liniji 52
+ERROR 23:40:27,143 - Greska na liniji 53 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 53 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 53 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 53 : expr nije int! 
+ERROR 23:40:27,143 - Nekompatibilni tiplovi u operaciji dodele mat na liniji 53
+ERROR 23:40:27,143 - Greska na liniji 54 : expr nije int! 
+ERROR 23:40:27,143 - Greska na liniji 54 : expr nije int! 
+ERROR 23:40:27,144 - Nekompatibilni tiplovi u operaciji dodele mat na liniji 54
+ERROR 23:40:27,144 - Greska na liniji 56 : expr nije int! 
+ERROR 23:40:27,144 - Greska na liniji 56 : expr nije int! 
+ERROR 23:40:27,144 - Greska na liniji 56 : expr nije int, char ili bool! 
+ERROR 23:40:27,144 - Greska na liniji 57 : expr nije int! 
+ERROR 23:40:27,144 - Greska na liniji 57 : expr nije int! 
+ERROR 23:40:27,144 - Greska na liniji 57 : expr nije int, char ili bool! 
+INFO  23:40:27,144 - ===================================
+ERROR 23:40:27,145 - Parsiranje NIJE uspesno zavrseno!

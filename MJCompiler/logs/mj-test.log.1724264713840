@@ -1,0 +1,43 @@
+INFO  20:24:57,735 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:24:57,796 - #2 program
+INFO  20:24:57,796 - #47 test301
+INFO  20:24:57,796 - #6 const
+INFO  20:24:57,798 - #47 int
+INFO  20:24:57,798 - #47 nula
+INFO  20:24:57,798 - #29 =
+INFO  20:24:57,798 - #45 0
+INFO  20:24:57,798 - #34 ;
+INFO  20:24:57,798 - #6 const
+INFO  20:24:57,799 - #47 int
+INFO  20:24:57,799 - #47 jedan
+INFO  20:24:57,799 - #29 =
+INFO  20:24:57,799 - #45 1
+INFO  20:24:57,799 - #34 ;
+INFO  20:24:57,799 - #6 const
+INFO  20:24:57,799 - #47 int
+INFO  20:24:57,799 - #47 pet
+INFO  20:24:57,799 - #29 =
+INFO  20:24:57,799 - #45 5
+INFO  20:24:57,799 - #34 ;
+INFO  20:24:57,799 - #47 int
+INFO  20:24:57,799 - #47 niz
+INFO  20:24:57,801 - #40 [
+INFO  20:24:57,801 - #41 ]
+INFO  20:24:57,801 - #34 ;
+INFO  20:24:57,801 - #47 char
+INFO  20:24:57,801 - #47 nizch
+INFO  20:24:57,802 - #40 [
+INFO  20:24:57,802 - #41 ]
+INFO  20:24:57,802 - #34 ;
+INFO  20:24:57,802 - #47 int
+INFO  20:24:57,802 - #47 mat
+INFO  20:24:57,802 - #40 [
+INFO  20:24:57,802 - #41 ]
+INFO  20:24:57,802 - #40 [
+INFO  20:24:57,802 - #41 ]
+INFO  20:24:57,802 - #34 ;
+INFO  20:24:57,802 - #47 a
+INFO  20:24:57,802 - #34 ;
+ERROR 20:24:57,802 - 
+Sintaksna greska na liniji 13
+ERROR 20:24:57,803 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

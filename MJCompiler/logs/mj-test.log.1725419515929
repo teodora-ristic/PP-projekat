@@ -1,0 +1,79 @@
+INFO  05:10:54,110 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  05:10:54,173 - #2 program
+INFO  05:10:54,173 - #47 test301
+INFO  05:10:54,173 - #6 const
+INFO  05:10:54,176 - #47 int
+INFO  05:10:54,176 - #47 nula
+INFO  05:10:54,177 - #29 =
+INFO  05:10:54,178 - #45 0
+INFO  05:10:54,178 - #34 ;
+INFO  05:10:54,179 - #6 const
+INFO  05:10:54,180 - #47 int
+INFO  05:10:54,180 - #47 jedan
+INFO  05:10:54,180 - #29 =
+INFO  05:10:54,180 - #45 1
+INFO  05:10:54,180 - #34 ;
+INFO  05:10:54,181 - #6 const
+INFO  05:10:54,181 - #47 int
+INFO  05:10:54,181 - #47 pet
+INFO  05:10:54,181 - #29 =
+INFO  05:10:54,181 - #45 5
+INFO  05:10:54,181 - #34 ;
+INFO  05:10:54,181 - #47 int
+INFO  05:10:54,181 - #47 niz
+INFO  05:10:54,200 - #40 [
+INFO  05:10:54,200 - #41 ]
+INFO  05:10:54,200 - #34 ;
+INFO  05:10:54,203 - #47 char
+INFO  05:10:54,204 - #47 nizch
+INFO  05:10:54,204 - #40 [
+INFO  05:10:54,204 - #41 ]
+INFO  05:10:54,204 - #34 ;
+INFO  05:10:54,205 - #47 int
+INFO  05:10:54,205 - #47 mat
+INFO  05:10:54,205 - #40 [
+INFO  05:10:54,205 - #41 ]
+INFO  05:10:54,205 - #40 [
+INFO  05:10:54,205 - #41 ]
+INFO  05:10:54,205 - #34 ;
+INFO  05:10:54,207 - #47 int
+INFO  05:10:54,207 - #47 a
+INFO  05:10:54,207 - #34 ;
+INFO  05:10:54,208 - #42 {
+INFO  05:10:54,208 - #12 void
+INFO  05:10:54,209 - #47 main
+INFO  05:10:54,211 - #38 (
+INFO  05:10:54,212 - #39 )
+INFO  05:10:54,214 - #47 int
+INFO  05:10:54,215 - #47 bodovi
+INFO  05:10:54,215 - #34 ;
+INFO  05:10:54,215 - #47 bool
+INFO  05:10:54,215 - #47 bt
+INFO  05:10:54,216 - #34 ;
+INFO  05:10:54,216 - #42 {
+INFO  05:10:54,216 - #47 mat
+INFO  05:10:54,217 - #29 =
+INFO  05:10:54,217 - #8 new
+INFO  05:10:54,218 - #47 int
+INFO  05:10:54,218 - #40 [
+INFO  05:10:54,218 - #45 2
+INFO  05:10:54,219 - #41 ]
+INFO  05:10:54,221 - #40 [
+INFO  05:10:54,221 - #45 3
+INFO  05:10:54,221 - #41 ]
+INFO  05:10:54,222 - #34 ;
+INFO  05:10:54,222 - #43 }
+INFO  05:10:54,222 - #43 }
+INFO  05:10:54,235 - ===================================
+INFO  05:10:54,236 - Deklarisana konstanta nula na liniji 3
+INFO  05:10:54,236 - Deklarisana konstanta jedan na liniji 4
+INFO  05:10:54,236 - Deklarisana konstanta pet na liniji 5
+INFO  05:10:54,236 - Deklarisana promenljiva niz na liniji 7
+INFO  05:10:54,236 - Deklarisana promenljiva nizch na liniji 8
+INFO  05:10:54,236 - Deklarisana promenljiva mat na liniji 9
+INFO  05:10:54,236 - Deklarisana promenljiva a na liniji 11
+INFO  05:10:54,236 - Obradjuje se funkcija main na liniji 14
+INFO  05:10:54,236 - Deklarisana promenljiva bodovi na liniji 15
+INFO  05:10:54,236 - Deklarisana promenljiva bt na liniji 16
+INFO  05:10:54,238 - ===================================
+INFO  05:10:54,246 - Parsiranje uspesno zavrseno!

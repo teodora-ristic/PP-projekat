@@ -1,0 +1,68 @@
+INFO  09:51:57,694 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  09:51:57,761 - #2 program
+INFO  09:51:57,762 - #47 test301
+INFO  09:51:57,762 - #6 const
+INFO  09:51:57,764 - #47 int
+INFO  09:51:57,764 - #47 nula
+INFO  09:51:57,765 - #29 =
+INFO  09:51:57,765 - #45 0
+INFO  09:51:57,765 - #34 ;
+INFO  09:51:57,768 - #6 const
+INFO  09:51:57,769 - #47 int
+INFO  09:51:57,769 - #47 jedan
+INFO  09:51:57,770 - #29 =
+INFO  09:51:57,770 - #45 1
+INFO  09:51:57,770 - #34 ;
+INFO  09:51:57,770 - #6 const
+INFO  09:51:57,770 - #47 int
+INFO  09:51:57,770 - #47 pet
+INFO  09:51:57,770 - #29 =
+INFO  09:51:57,771 - #45 5
+INFO  09:51:57,771 - #34 ;
+INFO  09:51:57,771 - #47 int
+INFO  09:51:57,771 - #47 niz
+INFO  09:51:57,773 - #40 [
+INFO  09:51:57,773 - #41 ]
+INFO  09:51:57,773 - #34 ;
+INFO  09:51:57,776 - #47 int
+INFO  09:51:57,778 - #47 a
+INFO  09:51:57,778 - #34 ;
+INFO  09:51:57,779 - #42 {
+INFO  09:51:57,779 - #12 void
+INFO  09:51:57,781 - #47 main
+INFO  09:51:57,784 - #38 (
+INFO  09:51:57,787 - #39 )
+INFO  09:51:57,788 - #42 {
+INFO  09:51:57,789 - #47 niz
+INFO  09:51:57,790 - #29 =
+INFO  09:51:57,790 - #8 new
+INFO  09:51:57,792 - #47 int
+INFO  09:51:57,792 - #40 [
+INFO  09:51:57,792 - #45 3
+INFO  09:51:57,792 - #41 ]
+INFO  09:51:57,798 - #34 ;
+INFO  09:51:57,798 - #47 bodovi
+INFO  09:51:57,799 - #29 =
+INFO  09:51:57,799 - #47 niz
+INFO  09:51:57,799 - #40 [
+INFO  09:51:57,799 - #45 2
+INFO  09:51:57,799 - #41 ]
+INFO  09:51:57,799 - #18 /
+INFO  09:51:57,800 - #47 niz
+INFO  09:51:57,803 - #40 [
+INFO  09:51:57,803 - #45 0
+INFO  09:51:57,803 - #41 ]
+INFO  09:51:57,803 - #34 ;
+INFO  09:51:57,804 - #43 }
+INFO  09:51:57,804 - #43 }
+INFO  09:51:57,824 - ===================================
+INFO  09:51:57,824 - Deklarisana konstanta nula na liniji 3
+INFO  09:51:57,824 - Deklarisana konstanta jedan na liniji 4
+INFO  09:51:57,824 - Deklarisana konstanta pet na liniji 5
+INFO  09:51:57,824 - Deklarisana promenljiva niz na liniji 7
+INFO  09:51:57,824 - Deklarisana promenljiva a na liniji 8
+INFO  09:51:57,825 - Obradjuje se funkcija main na liniji 11
+ERROR 09:51:57,825 - Greska na liniji 15 : ime bodovi nije deklarisano! 
+ERROR 09:51:57,825 - Nekompatibilni tiplovi u operaciji dodele noObj na liniji 15
+INFO  09:51:57,825 - ===================================
+ERROR 09:51:57,826 - Parsiranje NIJE uspesno zavrseno!

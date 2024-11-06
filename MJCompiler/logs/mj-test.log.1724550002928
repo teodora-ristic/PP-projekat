@@ -1,0 +1,21 @@
+INFO  03:39:48,774 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  03:39:48,865 - #2 program
+INFO  03:39:48,865 - #47 test301
+INFO  03:39:48,865 - #42 {
+INFO  03:39:48,870 - #12 void
+INFO  03:39:48,871 - #47 main
+INFO  03:39:48,873 - #38 (
+INFO  03:39:48,874 - #39 )
+INFO  03:39:48,875 - #47 int
+INFO  03:39:48,877 - #47 bodovi
+INFO  03:39:48,878 - #34 ;
+INFO  03:39:48,882 - #42 {
+INFO  03:39:48,884 - #47 bodovi
+INFO  03:39:48,885 - #29 =
+INFO  03:39:48,888 - #47 bodovi
+INFO  03:39:48,889 - #31 +
+INFO  03:39:48,892 - #45 1
+INFO  03:39:48,894 - #34 ;
+INFO  03:39:48,896 - #43 }
+INFO  03:39:48,897 - #43 }
+INFO  03:39:48,908 - ===================================

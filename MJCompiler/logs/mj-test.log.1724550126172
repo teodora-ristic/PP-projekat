@@ -1,0 +1,100 @@
+INFO  03:41:17,910 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  03:41:17,986 - #2 program
+INFO  03:41:17,986 - #47 test301
+INFO  03:41:17,986 - #42 {
+INFO  03:41:17,989 - #12 void
+INFO  03:41:17,990 - #47 main
+INFO  03:41:17,991 - #38 (
+INFO  03:41:17,992 - #39 )
+INFO  03:41:17,993 - #47 int
+INFO  03:41:17,994 - #47 bodovi
+INFO  03:41:17,996 - #34 ;
+INFO  03:41:17,998 - #42 {
+INFO  03:41:18,000 - #47 bodovi
+INFO  03:41:18,001 - #29 =
+INFO  03:41:18,005 - #47 bodovi
+INFO  03:41:18,006 - #31 +
+INFO  03:41:18,011 - #45 1
+INFO  03:41:18,013 - #34 ;
+INFO  03:41:18,015 - #43 }
+INFO  03:41:18,016 - #43 }
+INFO  03:41:18,020 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  EmptyDecList(
+  ) [EmptyDecList]
+  ListMethodDecl(
+    EmptyMethodDeclList(
+    ) [EmptyMethodDeclList]
+    FormParsMethodDecl(
+      BeforeVoid(
+      ) [BeforeVoid]
+      MethodDeclName(
+       main
+      ) [MethodDeclName]
+      NoFormPars(
+      ) [NoFormPars]
+      ListVarDecl(
+        EmptyVarDeclList(
+        ) [EmptyVarDeclList]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          SingleVarDeclR(
+            VarDeclRSingle(
+             bodovi
+              NoBracketVarDeclR(
+              ) [NoBracketVarDeclR]
+            ) [VarDeclRSingle]
+          ) [SingleVarDeclR]
+        ) [VarDecl]
+      ) [ListVarDecl]
+      ListStatement(
+        EmptyStatementList(
+        ) [EmptyStatementList]
+        DesignatorStmt(
+          DesignatorStatementAssign(
+            Designator(
+             bodovi
+              EmptyDesignatorList(
+              ) [EmptyDesignatorList]
+            ) [Designator]
+            Assignop(
+            ) [Assignop]
+            ExprTerm(
+              Term(
+                DesignatorFactor(
+                  Designator(
+                   bodovi
+                    EmptyDesignatorList(
+                    ) [EmptyDesignatorList]
+                  ) [Designator]
+                ) [DesignatorFactor]
+                EmptyTermList(
+                ) [EmptyTermList]
+              ) [Term]
+              ListExpr(
+                EmptyExprList(
+                ) [EmptyExprList]
+                ExprR(
+                  AddopPlus(
+                  ) [AddopPlus]
+                  Term(
+                    NumFactor(
+                     1
+                    ) [NumFactor]
+                    EmptyTermList(
+                    ) [EmptyTermList]
+                  ) [Term]
+                ) [ExprR]
+              ) [ListExpr]
+            ) [ExprTerm]
+          ) [DesignatorStatementAssign]
+        ) [DesignatorStmt]
+      ) [ListStatement]
+    ) [FormParsMethodDecl]
+  ) [ListMethodDecl]
+) [Program]
+INFO  03:41:18,023 - ===================================

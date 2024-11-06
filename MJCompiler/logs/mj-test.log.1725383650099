@@ -1,0 +1,61 @@
+INFO  19:12:38,186 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:12:38,251 - #2 program
+INFO  19:12:38,251 - #47 test301
+INFO  19:12:38,252 - #6 const
+INFO  19:12:38,254 - #47 int
+INFO  19:12:38,254 - #47 nula
+INFO  19:12:38,255 - #29 =
+INFO  19:12:38,255 - #45 0
+INFO  19:12:38,255 - #34 ;
+INFO  19:12:38,257 - #6 const
+INFO  19:12:38,258 - #47 int
+INFO  19:12:38,259 - #47 jedan
+INFO  19:12:38,259 - #29 =
+INFO  19:12:38,259 - #45 1
+INFO  19:12:38,259 - #34 ;
+INFO  19:12:38,259 - #6 const
+INFO  19:12:38,259 - #47 int
+INFO  19:12:38,260 - #47 pet
+INFO  19:12:38,260 - #29 =
+INFO  19:12:38,260 - #45 5
+INFO  19:12:38,260 - #34 ;
+INFO  19:12:38,260 - #47 int
+INFO  19:12:38,260 - #47 niz
+INFO  19:12:38,261 - #40 [
+INFO  19:12:38,261 - #41 ]
+INFO  19:12:38,261 - #34 ;
+INFO  19:12:38,264 - #47 int
+INFO  19:12:38,265 - #47 a
+INFO  19:12:38,265 - #34 ;
+INFO  19:12:38,266 - #42 {
+INFO  19:12:38,267 - #12 void
+INFO  19:12:38,268 - #47 main
+INFO  19:12:38,269 - #38 (
+INFO  19:12:38,270 - #39 )
+INFO  19:12:38,271 - #42 {
+INFO  19:12:38,272 - #47 niz
+INFO  19:12:38,273 - #29 =
+INFO  19:12:38,274 - #8 new
+INFO  19:12:38,275 - #47 int
+INFO  19:12:38,275 - #40 [
+INFO  19:12:38,275 - #45 3
+INFO  19:12:38,275 - #41 ]
+INFO  19:12:38,279 - #34 ;
+INFO  19:12:38,280 - #47 a
+INFO  19:12:38,280 - #29 =
+INFO  19:12:38,280 - #47 niz
+INFO  19:12:38,280 - #40 [
+INFO  19:12:38,280 - #45 2
+INFO  19:12:38,280 - #41 ]
+INFO  19:12:38,282 - #34 ;
+INFO  19:12:38,282 - #43 }
+INFO  19:12:38,282 - #43 }
+INFO  19:12:38,300 - ===================================
+INFO  19:12:38,301 - Deklarisana konstanta nula na liniji 3
+INFO  19:12:38,301 - Deklarisana konstanta jedan na liniji 4
+INFO  19:12:38,301 - Deklarisana konstanta pet na liniji 5
+INFO  19:12:38,301 - Deklarisana promenljiva niz na liniji 7
+INFO  19:12:38,301 - Deklarisana promenljiva a na liniji 8
+INFO  19:12:38,301 - Obradjuje se funkcija main na liniji 11
+INFO  19:12:38,302 - ===================================
+INFO  19:12:38,309 - Parsiranje uspesno zavrseno!

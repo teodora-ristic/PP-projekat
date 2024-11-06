@@ -1,0 +1,70 @@
+INFO  04:28:04,115 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  04:28:04,166 - #2 program
+INFO  04:28:04,166 - #47 test301
+INFO  04:28:04,166 - #6 const
+INFO  04:28:04,167 - #47 int
+INFO  04:28:04,168 - #47 nula
+INFO  04:28:04,168 - #29 =
+INFO  04:28:04,169 - #45 0
+INFO  04:28:04,169 - #34 ;
+INFO  04:28:04,170 - #6 const
+INFO  04:28:04,171 - #47 int
+INFO  04:28:04,171 - #47 jedan
+INFO  04:28:04,171 - #29 =
+INFO  04:28:04,171 - #45 1
+INFO  04:28:04,171 - #34 ;
+INFO  04:28:04,171 - #6 const
+INFO  04:28:04,171 - #47 int
+INFO  04:28:04,171 - #47 pet
+INFO  04:28:04,171 - #29 =
+INFO  04:28:04,171 - #45 5
+INFO  04:28:04,171 - #34 ;
+INFO  04:28:04,171 - #47 int
+INFO  04:28:04,171 - #47 niz
+INFO  04:28:04,171 - #40 [
+INFO  04:28:04,171 - #41 ]
+INFO  04:28:04,171 - #34 ;
+INFO  04:28:04,174 - #47 char
+INFO  04:28:04,175 - #47 nizch
+INFO  04:28:04,175 - #40 [
+INFO  04:28:04,175 - #41 ]
+INFO  04:28:04,175 - #34 ;
+INFO  04:28:04,175 - #47 int
+INFO  04:28:04,175 - #47 mat
+INFO  04:28:04,175 - #40 [
+INFO  04:28:04,175 - #41 ]
+INFO  04:28:04,175 - #40 [
+INFO  04:28:04,175 - #41 ]
+INFO  04:28:04,175 - #34 ;
+INFO  04:28:04,176 - #47 int
+INFO  04:28:04,176 - #47 a
+INFO  04:28:04,176 - #34 ;
+INFO  04:28:04,177 - #42 {
+INFO  04:28:04,177 - #12 void
+INFO  04:28:04,178 - #47 main
+INFO  04:28:04,178 - #38 (
+INFO  04:28:04,179 - #39 )
+INFO  04:28:04,180 - #47 int
+INFO  04:28:04,180 - #47 bodovi
+INFO  04:28:04,181 - #34 ;
+INFO  04:28:04,181 - #47 bool
+INFO  04:28:04,181 - #47 bt
+INFO  04:28:04,181 - #34 ;
+INFO  04:28:04,181 - #42 {
+INFO  04:28:04,181 - #9 print
+INFO  04:28:04,181 - #38 (
+INFO  04:28:04,181 - #47 bodovi
+INFO  04:28:04,181 - #39 )
+INFO  04:28:04,184 - #34 ;
+INFO  04:28:04,184 - #43 }
+INFO  04:28:04,184 - #43 }
+INFO  04:28:04,191 - ===================================
+INFO  04:28:04,191 - Deklarisana konstanta nula na liniji 3
+INFO  04:28:04,191 - Deklarisana konstanta jedan na liniji 4
+INFO  04:28:04,191 - Deklarisana konstanta pet na liniji 5
+INFO  04:28:04,191 - Deklarisana promenljiva niz na liniji 7
+INFO  04:28:04,191 - Deklarisana promenljiva nizch na liniji 8
+INFO  04:28:04,191 - Deklarisana promenljiva mat na liniji 9
+INFO  04:28:04,191 - Deklarisana promenljiva a na liniji 12
+INFO  04:28:04,192 - Deklarisana promenljiva bodovi na liniji 16
+INFO  04:28:04,192 - Deklarisana promenljiva bt na liniji 17

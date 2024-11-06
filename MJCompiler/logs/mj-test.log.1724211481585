@@ -1,0 +1,51 @@
+INFO  05:30:37,303 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  05:30:37,351 - #2 program
+INFO  05:30:37,351 - #47 test301
+INFO  05:30:37,351 - #6 const
+INFO  05:30:37,351 - #47 int
+INFO  05:30:37,352 - #47 nula
+INFO  05:30:37,352 - #29 =
+INFO  05:30:37,352 - #45 0
+INFO  05:30:37,352 - #34 ;
+INFO  05:30:37,354 - #42 {
+INFO  05:30:37,354 - #12 void
+INFO  05:30:37,355 - #47 main
+INFO  05:30:37,355 - #38 (
+INFO  05:30:37,355 - #39 )
+INFO  05:30:37,355 - #42 {
+INFO  05:30:37,356 - #43 }
+INFO  05:30:37,356 - #43 }
+INFO  05:30:37,357 - ProgramDerived1(
+ test301
+  DeclListDerived1(
+    DeclListDerived2(
+    ) [DeclListDerived2]
+    DeclDerived1(
+      ConstDeclDerived1(
+        TypeDerived2(
+         int
+        ) [TypeDerived2]
+       nula
+        ConstDerived1(
+         0
+        ) [ConstDerived1]
+        ConstDeclListDerived2(
+        ) [ConstDeclListDerived2]
+      ) [ConstDeclDerived1]
+    ) [DeclDerived1]
+  ) [DeclListDerived1]
+  MethodDeclListDerived1(
+    MethodDeclListDerived2(
+    ) [MethodDeclListDerived2]
+    MethodDeclDerived2(
+      BeforeDerived2(
+      ) [BeforeDerived2]
+     main
+      VarDeclListDerived2(
+      ) [VarDeclListDerived2]
+      StatementListDerived2(
+      ) [StatementListDerived2]
+    ) [MethodDeclDerived2]
+  ) [MethodDeclListDerived1]
+) [ProgramDerived1]
+INFO  05:30:37,358 - ===================================

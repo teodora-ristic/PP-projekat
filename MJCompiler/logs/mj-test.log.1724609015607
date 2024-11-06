@@ -1,0 +1,69 @@
+INFO  20:01:02,145 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:01:02,227 - #2 program
+INFO  20:01:02,228 - #47 test301
+INFO  20:01:02,228 - #6 const
+INFO  20:01:02,230 - #47 int
+INFO  20:01:02,230 - #47 nula
+INFO  20:01:02,231 - #29 =
+INFO  20:01:02,231 - #45 0
+INFO  20:01:02,231 - #34 ;
+INFO  20:01:02,233 - #6 const
+INFO  20:01:02,234 - #47 int
+INFO  20:01:02,234 - #47 jedan
+INFO  20:01:02,235 - #29 =
+INFO  20:01:02,235 - #45 1
+INFO  20:01:02,235 - #34 ;
+INFO  20:01:02,235 - #6 const
+INFO  20:01:02,235 - #47 int
+INFO  20:01:02,235 - #47 pet
+INFO  20:01:02,235 - #29 =
+INFO  20:01:02,235 - #45 5
+INFO  20:01:02,235 - #34 ;
+INFO  20:01:02,236 - #47 int
+INFO  20:01:02,236 - #47 niz
+INFO  20:01:02,255 - #40 [
+INFO  20:01:02,255 - #41 ]
+INFO  20:01:02,256 - #34 ;
+INFO  20:01:02,259 - #47 char
+INFO  20:01:02,260 - #47 nizch
+INFO  20:01:02,260 - #40 [
+INFO  20:01:02,260 - #41 ]
+INFO  20:01:02,260 - #34 ;
+INFO  20:01:02,260 - #47 int
+INFO  20:01:02,261 - #47 mat
+INFO  20:01:02,261 - #40 [
+INFO  20:01:02,261 - #41 ]
+INFO  20:01:02,261 - #40 [
+INFO  20:01:02,261 - #41 ]
+INFO  20:01:02,261 - #34 ;
+INFO  20:01:02,261 - #47 int
+INFO  20:01:02,262 - #47 a
+INFO  20:01:02,262 - #34 ;
+INFO  20:01:02,262 - #42 {
+INFO  20:01:02,262 - #12 void
+INFO  20:01:02,264 - #47 ma
+INFO  20:01:02,266 - #38 (
+INFO  20:01:02,267 - #39 )
+INFO  20:01:02,269 - #47 int
+INFO  20:01:02,270 - #47 bodovi
+INFO  20:01:02,270 - #34 ;
+INFO  20:01:02,271 - #47 bool
+INFO  20:01:02,271 - #47 bt
+INFO  20:01:02,271 - #34 ;
+INFO  20:01:02,271 - #42 {
+INFO  20:01:02,271 - #43 }
+INFO  20:01:02,272 - #43 }
+INFO  20:01:02,284 - ===================================
+INFO  20:01:02,285 - Deklarisana konstanta nula na liniji 3
+INFO  20:01:02,285 - Deklarisana konstanta jedan na liniji 4
+INFO  20:01:02,285 - Deklarisana konstanta pet na liniji 5
+INFO  20:01:02,285 - Deklarisana promenljiva niz na liniji 7
+INFO  20:01:02,285 - Deklarisana promenljiva nizch na liniji 8
+INFO  20:01:02,285 - Deklarisana promenljiva mat na liniji 9
+INFO  20:01:02,285 - Deklarisana promenljiva a na liniji 11
+INFO  20:01:02,285 - Obradjuje se funkcija ma na liniji 14
+INFO  20:01:02,285 - Deklarisana promenljiva bodovi na liniji 15
+INFO  20:01:02,285 - Deklarisana promenljiva bt na liniji 16
+ERROR 20:01:02,285 - Ne postoji main na liniji 1
+INFO  20:01:02,286 - ===================================
+ERROR 20:01:02,287 - Parsiranje NIJE uspesno zavrseno!

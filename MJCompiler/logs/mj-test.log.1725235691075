@@ -1,0 +1,416 @@
+INFO  02:07:17,935 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  02:07:18,008 - #2 program
+INFO  02:07:18,009 - #47 test301
+INFO  02:07:18,009 - #6 const
+INFO  02:07:18,011 - #47 int
+INFO  02:07:18,011 - #47 nula
+INFO  02:07:18,013 - #29 =
+INFO  02:07:18,013 - #45 0
+INFO  02:07:18,013 - #34 ;
+INFO  02:07:18,015 - #6 const
+INFO  02:07:18,016 - #47 int
+INFO  02:07:18,017 - #47 jedan
+INFO  02:07:18,017 - #29 =
+INFO  02:07:18,017 - #45 1
+INFO  02:07:18,017 - #34 ;
+INFO  02:07:18,017 - #6 const
+INFO  02:07:18,017 - #47 int
+INFO  02:07:18,017 - #47 pet
+INFO  02:07:18,017 - #29 =
+INFO  02:07:18,017 - #45 5
+INFO  02:07:18,017 - #34 ;
+INFO  02:07:18,018 - #47 int
+INFO  02:07:18,018 - #47 niz
+INFO  02:07:18,019 - #40 [
+INFO  02:07:18,019 - #41 ]
+INFO  02:07:18,019 - #34 ;
+INFO  02:07:18,024 - #47 char
+INFO  02:07:18,025 - #47 nizch
+INFO  02:07:18,025 - #40 [
+INFO  02:07:18,025 - #41 ]
+INFO  02:07:18,025 - #34 ;
+INFO  02:07:18,026 - #47 int
+INFO  02:07:18,026 - #47 mat
+INFO  02:07:18,026 - #40 [
+INFO  02:07:18,026 - #41 ]
+INFO  02:07:18,026 - #40 [
+INFO  02:07:18,026 - #41 ]
+INFO  02:07:18,026 - #34 ;
+INFO  02:07:18,027 - #47 int
+INFO  02:07:18,027 - #47 a
+INFO  02:07:18,029 - #34 ;
+INFO  02:07:18,030 - #42 {
+INFO  02:07:18,030 - #12 void
+INFO  02:07:18,031 - #47 main
+INFO  02:07:18,032 - #38 (
+INFO  02:07:18,034 - #39 )
+INFO  02:07:18,035 - #47 int
+INFO  02:07:18,037 - #47 bodovi
+INFO  02:07:18,037 - #34 ;
+INFO  02:07:18,037 - #47 bool
+INFO  02:07:18,037 - #47 bt
+INFO  02:07:18,037 - #34 ;
+INFO  02:07:18,038 - #42 {
+INFO  02:07:18,038 - #47 bodovi
+INFO  02:07:18,040 - #29 =
+INFO  02:07:18,040 - #45 0
+INFO  02:07:18,041 - #34 ;
+INFO  02:07:18,046 - #47 bodovi
+INFO  02:07:18,046 - #30 ++
+INFO  02:07:18,046 - #34 ;
+INFO  02:07:18,047 - #47 bodovi
+INFO  02:07:18,047 - #29 =
+INFO  02:07:18,047 - #47 bodovi
+INFO  02:07:18,047 - #31 +
+INFO  02:07:18,047 - #47 jedan
+INFO  02:07:18,050 - #34 ;
+INFO  02:07:18,050 - #47 bodovi
+INFO  02:07:18,051 - #29 =
+INFO  02:07:18,051 - #47 bodovi
+INFO  02:07:18,051 - #17 *
+INFO  02:07:18,051 - #47 pet
+INFO  02:07:18,054 - #34 ;
+INFO  02:07:18,054 - #47 bodovi
+INFO  02:07:18,054 - #32 --
+INFO  02:07:18,054 - #34 ;
+INFO  02:07:18,055 - #9 print
+INFO  02:07:18,055 - #38 (
+INFO  02:07:18,055 - #47 bodovi
+INFO  02:07:18,055 - #39 )
+INFO  02:07:18,055 - #34 ;
+INFO  02:07:18,055 - #47 niz
+INFO  02:07:18,055 - #29 =
+INFO  02:07:18,055 - #8 new
+INFO  02:07:18,055 - #47 int
+INFO  02:07:18,055 - #40 [
+INFO  02:07:18,056 - #45 3
+INFO  02:07:18,056 - #41 ]
+INFO  02:07:18,056 - #34 ;
+INFO  02:07:18,056 - #47 niz
+INFO  02:07:18,056 - #40 [
+INFO  02:07:18,056 - #47 nula
+INFO  02:07:18,056 - #41 ]
+INFO  02:07:18,056 - #29 =
+INFO  02:07:18,056 - #47 jedan
+INFO  02:07:18,056 - #34 ;
+INFO  02:07:18,057 - #47 niz
+INFO  02:07:18,057 - #40 [
+INFO  02:07:18,057 - #45 1
+INFO  02:07:18,057 - #41 ]
+INFO  02:07:18,057 - #29 =
+INFO  02:07:18,057 - #45 2
+INFO  02:07:18,057 - #34 ;
+INFO  02:07:18,057 - #47 niz
+INFO  02:07:18,057 - #40 [
+INFO  02:07:18,057 - #47 niz
+INFO  02:07:18,057 - #40 [
+INFO  02:07:18,057 - #47 jedan
+INFO  02:07:18,057 - #41 ]
+INFO  02:07:18,057 - #41 ]
+INFO  02:07:18,057 - #29 =
+INFO  02:07:18,058 - #47 niz
+INFO  02:07:18,058 - #40 [
+INFO  02:07:18,058 - #47 niz
+INFO  02:07:18,058 - #40 [
+INFO  02:07:18,058 - #45 0
+INFO  02:07:18,058 - #41 ]
+INFO  02:07:18,058 - #41 ]
+INFO  02:07:18,058 - #17 *
+INFO  02:07:18,058 - #45 3
+INFO  02:07:18,058 - #34 ;
+INFO  02:07:18,058 - #47 bodovi
+INFO  02:07:18,058 - #29 =
+INFO  02:07:18,058 - #47 niz
+INFO  02:07:18,058 - #40 [
+INFO  02:07:18,058 - #45 2
+INFO  02:07:18,059 - #41 ]
+INFO  02:07:18,059 - #18 /
+INFO  02:07:18,059 - #47 niz
+INFO  02:07:18,060 - #40 [
+INFO  02:07:18,060 - #45 0
+INFO  02:07:18,060 - #41 ]
+INFO  02:07:18,060 - #34 ;
+INFO  02:07:18,060 - #9 print
+INFO  02:07:18,060 - #38 (
+INFO  02:07:18,060 - #47 bodovi
+INFO  02:07:18,060 - #39 )
+INFO  02:07:18,061 - #34 ;
+INFO  02:07:18,061 - #9 print
+INFO  02:07:18,061 - #38 (
+INFO  02:07:18,061 - #47 niz
+INFO  02:07:18,061 - #40 [
+INFO  02:07:18,061 - #45 2
+INFO  02:07:18,061 - #41 ]
+INFO  02:07:18,061 - #39 )
+INFO  02:07:18,062 - #34 ;
+INFO  02:07:18,062 - #47 nizch
+INFO  02:07:18,062 - #29 =
+INFO  02:07:18,062 - #8 new
+INFO  02:07:18,062 - #47 char
+INFO  02:07:18,062 - #40 [
+INFO  02:07:18,062 - #45 3
+INFO  02:07:18,062 - #41 ]
+INFO  02:07:18,062 - #34 ;
+INFO  02:07:18,062 - #47 nizch
+INFO  02:07:18,062 - #40 [
+INFO  02:07:18,063 - #45 0
+INFO  02:07:18,063 - #41 ]
+INFO  02:07:18,063 - #29 =
+INFO  02:07:18,063 - #46 a
+INFO  02:07:18,063 - #34 ;
+INFO  02:07:18,063 - #47 nizch
+INFO  02:07:18,063 - #40 [
+INFO  02:07:18,063 - #47 jedan
+INFO  02:07:18,063 - #41 ]
+INFO  02:07:18,064 - #29 =
+INFO  02:07:18,064 - #46 b
+INFO  02:07:18,064 - #34 ;
+INFO  02:07:18,064 - #47 nizch
+INFO  02:07:18,064 - #40 [
+INFO  02:07:18,064 - #47 pet
+INFO  02:07:18,064 - #33 -
+INFO  02:07:18,064 - #45 3
+INFO  02:07:18,065 - #41 ]
+INFO  02:07:18,065 - #29 =
+INFO  02:07:18,065 - #46 c
+INFO  02:07:18,065 - #34 ;
+INFO  02:07:18,065 - #9 print
+INFO  02:07:18,065 - #38 (
+INFO  02:07:18,065 - #47 nizch
+INFO  02:07:18,065 - #40 [
+INFO  02:07:18,065 - #45 1
+INFO  02:07:18,065 - #41 ]
+INFO  02:07:18,065 - #39 )
+INFO  02:07:18,065 - #34 ;
+INFO  02:07:18,067 - #9 print
+INFO  02:07:18,067 - #38 (
+INFO  02:07:18,067 - #47 nizch
+INFO  02:07:18,067 - #40 [
+INFO  02:07:18,067 - #47 jedan
+INFO  02:07:18,067 - #17 *
+INFO  02:07:18,067 - #45 2
+INFO  02:07:18,067 - #41 ]
+INFO  02:07:18,067 - #39 )
+INFO  02:07:18,067 - #34 ;
+INFO  02:07:18,067 - #47 a
+INFO  02:07:18,067 - #29 =
+INFO  02:07:18,067 - #45 1
+INFO  02:07:18,067 - #34 ;
+INFO  02:07:18,067 - #10 read
+INFO  02:07:18,067 - #38 (
+INFO  02:07:18,067 - #47 bodovi
+INFO  02:07:18,067 - #39 )
+INFO  02:07:18,068 - #34 ;
+INFO  02:07:18,068 - #47 bodovi
+INFO  02:07:18,068 - #29 =
+INFO  02:07:18,068 - #33 -
+INFO  02:07:18,068 - #47 bodovi
+INFO  02:07:18,068 - #31 +
+INFO  02:07:18,068 - #38 (
+INFO  02:07:18,068 - #47 pet
+INFO  02:07:18,068 - #17 *
+INFO  02:07:18,068 - #47 a
+INFO  02:07:18,068 - #18 /
+INFO  02:07:18,068 - #45 2
+INFO  02:07:18,068 - #33 -
+INFO  02:07:18,069 - #47 jedan
+INFO  02:07:18,069 - #39 )
+INFO  02:07:18,069 - #17 *
+INFO  02:07:18,069 - #47 bodovi
+INFO  02:07:18,069 - #33 -
+INFO  02:07:18,069 - #38 (
+INFO  02:07:18,070 - #45 3
+INFO  02:07:18,070 - #19 %
+INFO  02:07:18,070 - #45 2
+INFO  02:07:18,071 - #31 +
+INFO  02:07:18,071 - #45 3
+INFO  02:07:18,071 - #17 *
+INFO  02:07:18,071 - #45 2
+INFO  02:07:18,071 - #33 -
+INFO  02:07:18,071 - #45 3
+INFO  02:07:18,071 - #39 )
+INFO  02:07:18,071 - #34 ;
+INFO  02:07:18,072 - #9 print
+INFO  02:07:18,072 - #38 (
+INFO  02:07:18,072 - #47 bodovi
+INFO  02:07:18,072 - #39 )
+INFO  02:07:18,072 - #34 ;
+INFO  02:07:18,072 - #47 mat
+INFO  02:07:18,072 - #29 =
+INFO  02:07:18,072 - #8 new
+INFO  02:07:18,072 - #47 int
+INFO  02:07:18,072 - #40 [
+INFO  02:07:18,072 - #45 2
+INFO  02:07:18,072 - #41 ]
+INFO  02:07:18,072 - #40 [
+INFO  02:07:18,072 - #45 3
+INFO  02:07:18,072 - #41 ]
+INFO  02:07:18,072 - #34 ;
+INFO  02:07:18,073 - #47 mat
+INFO  02:07:18,073 - #40 [
+INFO  02:07:18,073 - #47 nula
+INFO  02:07:18,073 - #41 ]
+INFO  02:07:18,073 - #40 [
+INFO  02:07:18,073 - #47 jedan
+INFO  02:07:18,073 - #33 -
+INFO  02:07:18,073 - #45 1
+INFO  02:07:18,074 - #41 ]
+INFO  02:07:18,074 - #29 =
+INFO  02:07:18,074 - #47 jedan
+INFO  02:07:18,074 - #34 ;
+INFO  02:07:18,074 - #47 mat
+INFO  02:07:18,074 - #40 [
+INFO  02:07:18,074 - #45 0
+INFO  02:07:18,074 - #41 ]
+INFO  02:07:18,075 - #40 [
+INFO  02:07:18,075 - #47 mat
+INFO  02:07:18,075 - #40 [
+INFO  02:07:18,075 - #45 0
+INFO  02:07:18,075 - #41 ]
+INFO  02:07:18,075 - #40 [
+INFO  02:07:18,075 - #45 0
+INFO  02:07:18,075 - #41 ]
+INFO  02:07:18,075 - #41 ]
+INFO  02:07:18,075 - #29 =
+INFO  02:07:18,076 - #45 2
+INFO  02:07:18,076 - #34 ;
+INFO  02:07:18,076 - #47 mat
+INFO  02:07:18,076 - #40 [
+INFO  02:07:18,076 - #45 0
+INFO  02:07:18,076 - #41 ]
+INFO  02:07:18,076 - #40 [
+INFO  02:07:18,076 - #47 mat
+INFO  02:07:18,076 - #40 [
+INFO  02:07:18,076 - #45 0
+INFO  02:07:18,076 - #41 ]
+INFO  02:07:18,076 - #40 [
+INFO  02:07:18,076 - #45 1
+INFO  02:07:18,076 - #41 ]
+INFO  02:07:18,078 - #41 ]
+INFO  02:07:18,078 - #29 =
+INFO  02:07:18,078 - #45 5
+INFO  02:07:18,078 - #34 ;
+INFO  02:07:18,078 - #47 mat
+INFO  02:07:18,078 - #40 [
+INFO  02:07:18,078 - #45 1
+INFO  02:07:18,078 - #41 ]
+INFO  02:07:18,078 - #40 [
+INFO  02:07:18,078 - #47 mat
+INFO  02:07:18,078 - #40 [
+INFO  02:07:18,078 - #45 0
+INFO  02:07:18,078 - #41 ]
+INFO  02:07:18,078 - #40 [
+INFO  02:07:18,078 - #45 0
+INFO  02:07:18,078 - #41 ]
+INFO  02:07:18,078 - #17 *
+INFO  02:07:18,078 - #45 2
+INFO  02:07:18,078 - #41 ]
+INFO  02:07:18,078 - #29 =
+INFO  02:07:18,079 - #45 4
+INFO  02:07:18,079 - #34 ;
+INFO  02:07:18,079 - #47 mat
+INFO  02:07:18,079 - #40 [
+INFO  02:07:18,079 - #47 mat
+INFO  02:07:18,079 - #40 [
+INFO  02:07:18,079 - #46 a
+INFO  02:07:18,079 - #41 ]
+INFO  02:07:18,079 - #40 [
+INFO  02:07:18,079 - #45 0
+INFO  02:07:18,079 - #41 ]
+INFO  02:07:18,079 - #41 ]
+INFO  02:07:18,079 - #40 [
+INFO  02:07:18,080 - #45 1
+INFO  02:07:18,080 - #41 ]
+INFO  02:07:18,080 - #29 =
+INFO  02:07:18,080 - #45 3
+INFO  02:07:18,080 - #34 ;
+INFO  02:07:18,080 - #47 mat
+INFO  02:07:18,080 - #40 [
+INFO  02:07:18,080 - #45 1
+INFO  02:07:18,080 - #41 ]
+INFO  02:07:18,080 - #40 [
+INFO  02:07:18,080 - #45 0
+INFO  02:07:18,080 - #41 ]
+INFO  02:07:18,080 - #29 =
+INFO  02:07:18,080 - #45 2
+INFO  02:07:18,080 - #34 ;
+INFO  02:07:18,080 - #9 print
+INFO  02:07:18,080 - #38 (
+INFO  02:07:18,080 - #47 mat
+INFO  02:07:18,080 - #40 [
+INFO  02:07:18,080 - #45 1
+INFO  02:07:18,080 - #41 ]
+INFO  02:07:18,080 - #40 [
+INFO  02:07:18,081 - #45 2
+INFO  02:07:18,081 - #41 ]
+INFO  02:07:18,081 - #39 )
+INFO  02:07:18,081 - #34 ;
+INFO  02:07:18,081 - #9 print
+INFO  02:07:18,081 - #38 (
+INFO  02:07:18,081 - #47 mat
+INFO  02:07:18,081 - #40 [
+INFO  02:07:18,081 - #45 0
+INFO  02:07:18,081 - #41 ]
+INFO  02:07:18,081 - #40 [
+INFO  02:07:18,081 - #45 2
+INFO  02:07:18,081 - #41 ]
+INFO  02:07:18,081 - #39 )
+INFO  02:07:18,081 - #34 ;
+INFO  02:07:18,081 - #43 }
+INFO  02:07:18,081 - #43 }
+INFO  02:07:18,093 - ===================================
+INFO  02:07:18,094 - Deklarisana konstanta nula na liniji 3
+INFO  02:07:18,094 - Deklarisana konstanta jedan na liniji 4
+INFO  02:07:18,094 - Deklarisana konstanta pet na liniji 5
+INFO  02:07:18,094 - Deklarisana promenljiva niz na liniji 7
+INFO  02:07:18,094 - Deklarisana promenljiva nizch na liniji 8
+INFO  02:07:18,094 - Deklarisana promenljiva mat na liniji 9
+INFO  02:07:18,094 - Deklarisana promenljiva a na liniji 11
+INFO  02:07:18,094 - Obradjuje se funkcija main na liniji 14
+INFO  02:07:18,095 - Deklarisana promenljiva bodovi na liniji 15
+INFO  02:07:18,095 - Deklarisana promenljiva bt na liniji 16
+INFO  02:07:18,095 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 18
+INFO  02:07:18,095 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 18
+INFO  02:07:18,095 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 20
+INFO  02:07:18,095 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 20
+INFO  02:07:18,095 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 21
+INFO  02:07:18,095 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 21
+INFO  02:07:18,095 - des rs.etf.pp1.symboltable.concepts.Struct@37574691 na liniji 25
+INFO  02:07:18,095 - expr rs.etf.pp1.symboltable.concepts.Struct@25359ed8 na liniji 25
+INFO  02:07:18,095 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 26
+INFO  02:07:18,095 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 26
+INFO  02:07:18,096 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 27
+INFO  02:07:18,096 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 27
+INFO  02:07:18,096 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 28
+INFO  02:07:18,096 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 28
+INFO  02:07:18,096 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 29
+INFO  02:07:18,097 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 29
+INFO  02:07:18,097 - des rs.etf.pp1.symboltable.concepts.Struct@21a947fe na liniji 34
+INFO  02:07:18,097 - expr rs.etf.pp1.symboltable.concepts.Struct@5606c0b na liniji 34
+INFO  02:07:18,097 - des rs.etf.pp1.symboltable.concepts.Struct@80ec1f8 na liniji 35
+INFO  02:07:18,097 - expr rs.etf.pp1.symboltable.concepts.Struct@80ec1f8 na liniji 35
+INFO  02:07:18,097 - des rs.etf.pp1.symboltable.concepts.Struct@80ec1f8 na liniji 36
+INFO  02:07:18,097 - expr rs.etf.pp1.symboltable.concepts.Struct@80ec1f8 na liniji 36
+INFO  02:07:18,097 - des rs.etf.pp1.symboltable.concepts.Struct@80ec1f8 na liniji 37
+INFO  02:07:18,097 - expr rs.etf.pp1.symboltable.concepts.Struct@80ec1f8 na liniji 37
+INFO  02:07:18,097 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 41
+INFO  02:07:18,097 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 41
+INFO  02:07:18,097 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 43
+INFO  02:07:18,097 - expr null na liniji 43
+INFO  02:07:18,098 - des rs.etf.pp1.symboltable.concepts.Struct@1445d7f na liniji 46
+INFO  02:07:18,098 - expr rs.etf.pp1.symboltable.concepts.Struct@6a396c1e na liniji 46
+INFO  02:07:18,098 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 47
+INFO  02:07:18,098 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 47
+INFO  02:07:18,098 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 48
+INFO  02:07:18,098 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 48
+INFO  02:07:18,098 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 49
+INFO  02:07:18,098 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 49
+INFO  02:07:18,098 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 50
+INFO  02:07:18,098 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 50
+ERROR 02:07:18,098 - Greska na liniji 51 : expr nije int! 
+INFO  02:07:18,098 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 51
+INFO  02:07:18,098 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 51
+INFO  02:07:18,098 - des rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 52
+INFO  02:07:18,098 - expr rs.etf.pp1.symboltable.concepts.Struct@6a79c292 na liniji 52
+INFO  02:07:18,098 - ===================================
+ERROR 02:07:18,100 - Parsiranje NIJE uspesno zavrseno!

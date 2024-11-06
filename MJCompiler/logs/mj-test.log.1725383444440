@@ -1,0 +1,63 @@
+INFO  09:55:29,808 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  09:55:29,870 - #2 program
+INFO  09:55:29,870 - #47 test301
+INFO  09:55:29,870 - #6 const
+INFO  09:55:29,873 - #47 int
+INFO  09:55:29,873 - #47 nula
+INFO  09:55:29,874 - #29 =
+INFO  09:55:29,874 - #45 0
+INFO  09:55:29,874 - #34 ;
+INFO  09:55:29,877 - #6 const
+INFO  09:55:29,878 - #47 int
+INFO  09:55:29,878 - #47 jedan
+INFO  09:55:29,878 - #29 =
+INFO  09:55:29,878 - #45 1
+INFO  09:55:29,878 - #34 ;
+INFO  09:55:29,879 - #6 const
+INFO  09:55:29,879 - #47 int
+INFO  09:55:29,879 - #47 pet
+INFO  09:55:29,879 - #29 =
+INFO  09:55:29,879 - #45 5
+INFO  09:55:29,879 - #34 ;
+INFO  09:55:29,879 - #47 int
+INFO  09:55:29,880 - #47 niz
+INFO  09:55:29,899 - #40 [
+INFO  09:55:29,899 - #41 ]
+INFO  09:55:29,899 - #34 ;
+INFO  09:55:29,903 - #47 int
+INFO  09:55:29,904 - #47 a
+INFO  09:55:29,904 - #34 ;
+INFO  09:55:29,905 - #42 {
+INFO  09:55:29,906 - #12 void
+INFO  09:55:29,907 - #47 main
+INFO  09:55:29,909 - #38 (
+INFO  09:55:29,910 - #39 )
+INFO  09:55:29,911 - #42 {
+INFO  09:55:29,912 - #47 niz
+INFO  09:55:29,912 - #29 =
+INFO  09:55:29,913 - #8 new
+INFO  09:55:29,914 - #47 int
+INFO  09:55:29,914 - #40 [
+INFO  09:55:29,914 - #45 3
+INFO  09:55:29,914 - #41 ]
+INFO  09:55:29,918 - #34 ;
+INFO  09:55:29,919 - #47 bodovi
+INFO  09:55:29,919 - #29 =
+INFO  09:55:29,919 - #47 niz
+INFO  09:55:29,919 - #40 [
+INFO  09:55:29,919 - #45 2
+INFO  09:55:29,919 - #41 ]
+INFO  09:55:29,919 - #34 ;
+INFO  09:55:29,920 - #43 }
+INFO  09:55:29,920 - #43 }
+INFO  09:55:29,932 - ===================================
+INFO  09:55:29,933 - Deklarisana konstanta nula na liniji 3
+INFO  09:55:29,933 - Deklarisana konstanta jedan na liniji 4
+INFO  09:55:29,933 - Deklarisana konstanta pet na liniji 5
+INFO  09:55:29,933 - Deklarisana promenljiva niz na liniji 7
+INFO  09:55:29,933 - Deklarisana promenljiva a na liniji 8
+INFO  09:55:29,933 - Obradjuje se funkcija main na liniji 11
+ERROR 09:55:29,933 - Greska na liniji 15 : ime bodovi nije deklarisano! 
+ERROR 09:55:29,933 - Nekompatibilni tiplovi u operaciji dodele noObj na liniji 15
+INFO  09:55:29,934 - ===================================
+ERROR 09:55:29,934 - Parsiranje NIJE uspesno zavrseno!

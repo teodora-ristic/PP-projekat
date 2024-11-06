@@ -1,0 +1,268 @@
+INFO  23:27:46,371 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:27:46,417 - #2 program
+INFO  23:27:46,417 - #47 test301
+INFO  23:27:46,417 - #6 const
+INFO  23:27:46,418 - #47 int
+INFO  23:27:46,419 - #47 nula
+INFO  23:27:46,419 - #29 =
+INFO  23:27:46,419 - #45 0
+INFO  23:27:46,419 - #34 ;
+INFO  23:27:46,420 - #6 const
+INFO  23:27:46,421 - #47 int
+INFO  23:27:46,421 - #47 jedan
+INFO  23:27:46,421 - #29 =
+INFO  23:27:46,421 - #45 1
+INFO  23:27:46,422 - #34 ;
+INFO  23:27:46,422 - #6 const
+INFO  23:27:46,422 - #47 int
+INFO  23:27:46,422 - #47 pet
+INFO  23:27:46,422 - #29 =
+INFO  23:27:46,422 - #45 5
+INFO  23:27:46,422 - #34 ;
+INFO  23:27:46,422 - #47 int
+INFO  23:27:46,422 - #47 niz
+INFO  23:27:46,423 - #40 [
+INFO  23:27:46,423 - #41 ]
+INFO  23:27:46,423 - #34 ;
+INFO  23:27:46,425 - #47 char
+INFO  23:27:46,426 - #47 nizch
+INFO  23:27:46,426 - #40 [
+INFO  23:27:46,426 - #41 ]
+INFO  23:27:46,426 - #34 ;
+INFO  23:27:46,427 - #47 int
+INFO  23:27:46,427 - #47 mat
+INFO  23:27:46,427 - #40 [
+INFO  23:27:46,427 - #41 ]
+INFO  23:27:46,427 - #40 [
+INFO  23:27:46,427 - #41 ]
+INFO  23:27:46,427 - #34 ;
+INFO  23:27:46,427 - #47 int
+INFO  23:27:46,428 - #47 a
+INFO  23:27:46,428 - #34 ;
+INFO  23:27:46,428 - #47 float
+INFO  23:27:46,428 - #47 x
+INFO  23:27:46,428 - #29 =
+ERROR 23:27:46,428 - 
+Sintaksna greska na liniji 14
+INFO  23:27:46,429 - #45 1
+INFO  23:27:46,429 - #37 .
+INFO  23:27:46,429 - #45 1
+INFO  23:27:46,429 - #34 ;
+INFO  23:27:46,429 - #42 {
+INFO  23:27:46,429 - #12 void
+INFO  23:27:46,429 - #47 main
+ERROR 23:27:46,430 - Izvrsen oporavak od greske prilikom deklaracije promenljive do ; u liniji 14
+INFO  23:27:46,432 - #38 (
+INFO  23:27:46,432 - #39 )
+INFO  23:27:46,433 - #47 int
+INFO  23:27:46,434 - #47 bodovi
+INFO  23:27:46,434 - #34 ;
+INFO  23:27:46,434 - #47 bool
+INFO  23:27:46,434 - #47 bt
+INFO  23:27:46,434 - #34 ;
+INFO  23:27:46,434 - #42 {
+INFO  23:27:46,434 - #9 print
+INFO  23:27:46,435 - #38 (
+INFO  23:27:46,435 - #47 x
+INFO  23:27:46,435 - #39 )
+INFO  23:27:46,437 - #34 ;
+INFO  23:27:46,438 - #43 }
+INFO  23:27:46,438 - #43 }
+INFO  23:27:46,440 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  ListDecl(
+    ListDecl(
+      ListDecl(
+        ListDecl(
+          ListDecl(
+            ListDecl(
+              ListDecl(
+                ListDecl(
+                  EmptyDecList(
+                  ) [EmptyDecList]
+                  DeclConst(
+                    ConstDecl(
+                      Type(
+                       int
+                      ) [Type]
+                      SingleConstDecl(
+                        ConstDeclSingle(
+                         nula
+                          Num(
+                           0
+                          ) [Num]
+                        ) [ConstDeclSingle]
+                      ) [SingleConstDecl]
+                    ) [ConstDecl]
+                  ) [DeclConst]
+                ) [ListDecl]
+                DeclConst(
+                  ConstDecl(
+                    Type(
+                     int
+                    ) [Type]
+                    SingleConstDecl(
+                      ConstDeclSingle(
+                       jedan
+                        Num(
+                         1
+                        ) [Num]
+                      ) [ConstDeclSingle]
+                    ) [SingleConstDecl]
+                  ) [ConstDecl]
+                ) [DeclConst]
+              ) [ListDecl]
+              DeclConst(
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  SingleConstDecl(
+                    ConstDeclSingle(
+                     pet
+                      Num(
+                       5
+                      ) [Num]
+                    ) [ConstDeclSingle]
+                  ) [SingleConstDecl]
+                ) [ConstDecl]
+              ) [DeclConst]
+            ) [ListDecl]
+            DeclVar(
+              VarDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleVarDeclR(
+                  VarDeclRSingle(
+                   niz
+                    BracketVarDeclR(
+                    ) [BracketVarDeclR]
+                  ) [VarDeclRSingle]
+                ) [SingleVarDeclR]
+              ) [VarDecl]
+            ) [DeclVar]
+          ) [ListDecl]
+          DeclVar(
+            VarDecl(
+              Type(
+               char
+              ) [Type]
+              SingleVarDeclR(
+                VarDeclRSingle(
+                 nizch
+                  BracketVarDeclR(
+                  ) [BracketVarDeclR]
+                ) [VarDeclRSingle]
+              ) [SingleVarDeclR]
+            ) [VarDecl]
+          ) [DeclVar]
+        ) [ListDecl]
+        DeclVar(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDeclR(
+              VarDeclRSingle(
+               mat
+                DoubleBracketVarDeclR(
+                ) [DoubleBracketVarDeclR]
+              ) [VarDeclRSingle]
+            ) [SingleVarDeclR]
+          ) [VarDecl]
+        ) [DeclVar]
+      ) [ListDecl]
+      DeclVar(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          SingleVarDeclR(
+            VarDeclRSingle(
+             a
+              NoBracketVarDeclR(
+              ) [NoBracketVarDeclR]
+            ) [VarDeclRSingle]
+          ) [SingleVarDeclR]
+        ) [VarDecl]
+      ) [DeclVar]
+    ) [ListDecl]
+    DeclVar(
+      VarDecl(
+        Type(
+         float
+        ) [Type]
+        ErrorSingleVarDeclR(
+        ) [ErrorSingleVarDeclR]
+      ) [VarDecl]
+    ) [DeclVar]
+  ) [ListDecl]
+  ListMethodDecl(
+    EmptyMethodDeclList(
+    ) [EmptyMethodDeclList]
+    MethodDecl(
+      BeforeVoid(
+      ) [BeforeVoid]
+      MethodDeclName(
+       main
+      ) [MethodDeclName]
+      NoFormPars(
+      ) [NoFormPars]
+      ListVarDecl(
+        ListVarDecl(
+          EmptyVarDeclList(
+          ) [EmptyVarDeclList]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDeclR(
+              VarDeclRSingle(
+               bodovi
+                NoBracketVarDeclR(
+                ) [NoBracketVarDeclR]
+              ) [VarDeclRSingle]
+            ) [SingleVarDeclR]
+          ) [VarDecl]
+        ) [ListVarDecl]
+        VarDecl(
+          Type(
+           bool
+          ) [Type]
+          SingleVarDeclR(
+            VarDeclRSingle(
+             bt
+              NoBracketVarDeclR(
+              ) [NoBracketVarDeclR]
+            ) [VarDeclRSingle]
+          ) [SingleVarDeclR]
+        ) [VarDecl]
+      ) [ListVarDecl]
+      ListStatement(
+        EmptyStatementList(
+        ) [EmptyStatementList]
+        PrintStmt(
+          ExprTerm(
+            Term(
+              DesignatorFactor(
+                Designator(
+                 x
+                  EmptyDesignatorList(
+                  ) [EmptyDesignatorList]
+                ) [Designator]
+              ) [DesignatorFactor]
+              EmptyTermList(
+              ) [EmptyTermList]
+            ) [Term]
+            EmptyExprList(
+            ) [EmptyExprList]
+          ) [ExprTerm]
+        ) [PrintStmt]
+      ) [ListStatement]
+    ) [MethodDecl]
+  ) [ListMethodDecl]
+) [Program]
+INFO  23:27:46,440 - ===================================

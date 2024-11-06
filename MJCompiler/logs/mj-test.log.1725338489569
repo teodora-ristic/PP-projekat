@@ -1,0 +1,102 @@
+INFO  06:40:37,158 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  06:40:37,208 - #2 program
+INFO  06:40:37,208 - #47 test301
+INFO  06:40:37,208 - #6 const
+INFO  06:40:37,209 - #47 int
+INFO  06:40:37,211 - #47 nula
+INFO  06:40:37,211 - #29 =
+INFO  06:40:37,211 - #45 0
+INFO  06:40:37,211 - #34 ;
+INFO  06:40:37,212 - #6 const
+INFO  06:40:37,213 - #47 int
+INFO  06:40:37,215 - #47 jedan
+INFO  06:40:37,215 - #29 =
+INFO  06:40:37,215 - #45 1
+INFO  06:40:37,215 - #34 ;
+INFO  06:40:37,215 - #6 const
+INFO  06:40:37,215 - #47 int
+INFO  06:40:37,215 - #47 pet
+INFO  06:40:37,215 - #29 =
+INFO  06:40:37,215 - #45 5
+INFO  06:40:37,215 - #34 ;
+INFO  06:40:37,215 - #47 int
+INFO  06:40:37,215 - #47 niz
+INFO  06:40:37,216 - #40 [
+INFO  06:40:37,216 - #41 ]
+INFO  06:40:37,216 - #34 ;
+INFO  06:40:37,218 - #47 char
+INFO  06:40:37,219 - #47 nizch
+INFO  06:40:37,219 - #40 [
+INFO  06:40:37,219 - #41 ]
+INFO  06:40:37,220 - #34 ;
+INFO  06:40:37,220 - #47 int
+INFO  06:40:37,220 - #47 mat
+INFO  06:40:37,220 - #40 [
+INFO  06:40:37,220 - #41 ]
+INFO  06:40:37,220 - #40 [
+INFO  06:40:37,220 - #41 ]
+INFO  06:40:37,220 - #34 ;
+INFO  06:40:37,221 - #47 int
+INFO  06:40:37,221 - #47 a
+INFO  06:40:37,221 - #34 ;
+INFO  06:40:37,222 - #42 {
+INFO  06:40:37,222 - #12 void
+INFO  06:40:37,223 - #47 main
+INFO  06:40:37,224 - #38 (
+INFO  06:40:37,224 - #39 )
+INFO  06:40:37,225 - #47 int
+INFO  06:40:37,226 - #47 bodovi
+INFO  06:40:37,226 - #34 ;
+INFO  06:40:37,226 - #47 bool
+INFO  06:40:37,226 - #47 bt
+INFO  06:40:37,226 - #34 ;
+INFO  06:40:37,227 - #42 {
+INFO  06:40:37,227 - #47 bodovi
+INFO  06:40:37,228 - #29 =
+INFO  06:40:37,228 - #45 0
+INFO  06:40:37,229 - #34 ;
+INFO  06:40:37,232 - #47 bodovi
+INFO  06:40:37,232 - #30 ++
+INFO  06:40:37,232 - #34 ;
+INFO  06:40:37,232 - #47 bodovi
+INFO  06:40:37,232 - #29 =
+INFO  06:40:37,232 - #47 bodovi
+INFO  06:40:37,232 - #31 +
+INFO  06:40:37,232 - #47 jedan
+INFO  06:40:37,234 - #34 ;
+INFO  06:40:37,234 - #47 bodovi
+INFO  06:40:37,234 - #29 =
+INFO  06:40:37,234 - #47 bodovi
+INFO  06:40:37,234 - #17 *
+INFO  06:40:37,234 - #47 pet
+INFO  06:40:37,237 - #34 ;
+INFO  06:40:37,237 - #47 bodovi
+INFO  06:40:37,237 - #29 =
+INFO  06:40:37,237 - #47 bodovi
+INFO  06:40:37,237 - #31 +
+INFO  06:40:37,237 - #47 jedan
+INFO  06:40:37,237 - #34 ;
+INFO  06:40:37,237 - #47 bodovi
+INFO  06:40:37,237 - #29 =
+INFO  06:40:37,237 - #47 bodovi
+INFO  06:40:37,237 - #33 -
+INFO  06:40:37,237 - #47 jedan
+INFO  06:40:37,238 - #34 ;
+INFO  06:40:37,238 - #47 bodovi
+INFO  06:40:37,238 - #32 --
+INFO  06:40:37,238 - #34 ;
+INFO  06:40:37,238 - #43 }
+INFO  06:40:37,238 - #43 }
+INFO  06:40:37,247 - ===================================
+INFO  06:40:37,248 - Deklarisana konstanta nula na liniji 3
+INFO  06:40:37,248 - Deklarisana konstanta jedan na liniji 4
+INFO  06:40:37,248 - Deklarisana konstanta pet na liniji 5
+INFO  06:40:37,248 - Deklarisana promenljiva niz na liniji 7
+INFO  06:40:37,248 - Deklarisana promenljiva nizch na liniji 8
+INFO  06:40:37,248 - Deklarisana promenljiva mat na liniji 9
+INFO  06:40:37,248 - Deklarisana promenljiva a na liniji 11
+INFO  06:40:37,248 - Obradjuje se funkcija main na liniji 14
+INFO  06:40:37,248 - Deklarisana promenljiva bodovi na liniji 15
+INFO  06:40:37,248 - Deklarisana promenljiva bt na liniji 16
+INFO  06:40:37,248 - ===================================
+INFO  06:40:37,256 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,77 @@
+INFO  04:29:29,749 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  04:29:29,790 - #2 program
+INFO  04:29:29,790 - #47 test301
+INFO  04:29:29,790 - #6 const
+INFO  04:29:29,791 - #47 int
+INFO  04:29:29,791 - #47 nula
+INFO  04:29:29,792 - #29 =
+INFO  04:29:29,792 - #45 0
+INFO  04:29:29,792 - #34 ;
+INFO  04:29:29,794 - #6 const
+INFO  04:29:29,794 - #47 int
+INFO  04:29:29,794 - #47 jedan
+INFO  04:29:29,794 - #29 =
+INFO  04:29:29,794 - #45 1
+INFO  04:29:29,795 - #34 ;
+INFO  04:29:29,795 - #6 const
+INFO  04:29:29,795 - #47 int
+INFO  04:29:29,795 - #47 pet
+INFO  04:29:29,795 - #29 =
+INFO  04:29:29,795 - #45 5
+INFO  04:29:29,795 - #34 ;
+INFO  04:29:29,795 - #47 int
+INFO  04:29:29,795 - #47 niz
+INFO  04:29:29,796 - #40 [
+INFO  04:29:29,796 - #41 ]
+INFO  04:29:29,796 - #34 ;
+INFO  04:29:29,798 - #47 char
+INFO  04:29:29,799 - #47 nizch
+INFO  04:29:29,799 - #40 [
+INFO  04:29:29,799 - #41 ]
+INFO  04:29:29,799 - #34 ;
+INFO  04:29:29,799 - #47 int
+INFO  04:29:29,799 - #47 mat
+INFO  04:29:29,799 - #40 [
+INFO  04:29:29,799 - #41 ]
+INFO  04:29:29,799 - #40 [
+INFO  04:29:29,799 - #41 ]
+INFO  04:29:29,799 - #34 ;
+INFO  04:29:29,800 - #47 float
+INFO  04:29:29,800 - #47 b
+INFO  04:29:29,800 - #34 ;
+INFO  04:29:29,801 - #47 int
+INFO  04:29:29,801 - #47 a
+INFO  04:29:29,801 - #34 ;
+INFO  04:29:29,801 - #42 {
+INFO  04:29:29,801 - #12 void
+INFO  04:29:29,801 - #47 main
+INFO  04:29:29,804 - #38 (
+INFO  04:29:29,805 - #39 )
+INFO  04:29:29,806 - #47 int
+INFO  04:29:29,806 - #47 bodovi
+INFO  04:29:29,806 - #34 ;
+INFO  04:29:29,806 - #47 bool
+INFO  04:29:29,806 - #47 bt
+INFO  04:29:29,806 - #34 ;
+INFO  04:29:29,807 - #42 {
+INFO  04:29:29,807 - #9 print
+INFO  04:29:29,807 - #38 (
+INFO  04:29:29,807 - #47 b
+INFO  04:29:29,807 - #39 )
+INFO  04:29:29,810 - #34 ;
+INFO  04:29:29,810 - #43 }
+INFO  04:29:29,811 - #43 }
+INFO  04:29:29,818 - ===================================
+INFO  04:29:29,819 - Deklarisana konstanta nula na liniji 3
+INFO  04:29:29,819 - Deklarisana konstanta jedan na liniji 4
+INFO  04:29:29,819 - Deklarisana konstanta pet na liniji 5
+INFO  04:29:29,819 - Deklarisana promenljiva niz na liniji 7
+INFO  04:29:29,819 - Deklarisana promenljiva nizch na liniji 8
+INFO  04:29:29,819 - Deklarisana promenljiva mat na liniji 9
+ERROR 04:29:29,819 - Nije pronadjen tip float u tabeli simbola! 
+INFO  04:29:29,819 - Deklarisana promenljiva b na liniji 11
+INFO  04:29:29,820 - Deklarisana promenljiva a na liniji 12
+INFO  04:29:29,820 - Deklarisana promenljiva bodovi na liniji 16
+INFO  04:29:29,820 - Deklarisana promenljiva bt na liniji 17
+INFO  04:29:29,820 - ===================================
+ERROR 04:29:29,820 - Parsiranje NIJE uspesno zavrseno!

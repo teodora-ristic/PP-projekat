@@ -1,0 +1,75 @@
+INFO  21:28:19,760 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:28:19,834 - #2 program
+INFO  21:28:19,834 - #47 test301
+INFO  21:28:19,834 - #6 const
+INFO  21:28:19,837 - #47 int
+INFO  21:28:19,837 - #47 nula
+INFO  21:28:19,838 - #29 =
+INFO  21:28:19,839 - #45 0
+INFO  21:28:19,839 - #34 ;
+INFO  21:28:19,840 - #6 const
+INFO  21:28:19,842 - #47 int
+INFO  21:28:19,842 - #47 jedan
+INFO  21:28:19,842 - #29 =
+INFO  21:28:19,842 - #45 1
+INFO  21:28:19,842 - #34 ;
+INFO  21:28:19,843 - #6 const
+INFO  21:28:19,843 - #47 int
+INFO  21:28:19,843 - #47 pet
+INFO  21:28:19,843 - #29 =
+INFO  21:28:19,843 - #45 5
+INFO  21:28:19,843 - #34 ;
+INFO  21:28:19,843 - #47 int
+INFO  21:28:19,844 - #47 niz
+INFO  21:28:19,846 - #40 [
+INFO  21:28:19,846 - #41 ]
+INFO  21:28:19,846 - #34 ;
+INFO  21:28:19,849 - #47 char
+INFO  21:28:19,850 - #47 nizch
+INFO  21:28:19,850 - #40 [
+INFO  21:28:19,850 - #41 ]
+INFO  21:28:19,850 - #34 ;
+INFO  21:28:19,851 - #47 int
+INFO  21:28:19,851 - #47 mat
+INFO  21:28:19,851 - #40 [
+INFO  21:28:19,851 - #41 ]
+INFO  21:28:19,851 - #40 [
+INFO  21:28:19,851 - #41 ]
+INFO  21:28:19,851 - #34 ;
+INFO  21:28:19,852 - #47 int
+INFO  21:28:19,852 - #47 a
+INFO  21:28:19,852 - #34 ;
+INFO  21:28:19,853 - #42 {
+INFO  21:28:19,854 - #12 void
+INFO  21:28:19,855 - #47 main
+INFO  21:28:19,856 - #38 (
+INFO  21:28:19,858 - #39 )
+INFO  21:28:19,859 - #47 int
+INFO  21:28:19,861 - #47 bodovi
+INFO  21:28:19,861 - #34 ;
+INFO  21:28:19,861 - #47 bool
+INFO  21:28:19,861 - #47 bt
+INFO  21:28:19,861 - #34 ;
+INFO  21:28:19,861 - #42 {
+INFO  21:28:19,861 - #10 read
+INFO  21:28:19,863 - #38 (
+INFO  21:28:19,863 - #39 )
+ERROR 21:28:19,863 - 
+Sintaksna greska na liniji 18
+INFO  21:28:19,863 - #34 ;
+INFO  21:28:19,863 - #43 }
+INFO  21:28:19,863 - #43 }
+ERROR 21:28:19,865 - Izvrsen oporavak od greske prilikom dodele do ; u liniji 18
+INFO  21:28:19,879 - ===================================
+INFO  21:28:19,879 - Deklarisana konstanta nula na liniji 3
+INFO  21:28:19,880 - Deklarisana konstanta jedan na liniji 4
+INFO  21:28:19,880 - Deklarisana konstanta pet na liniji 5
+INFO  21:28:19,880 - Deklarisana promenljiva niz na liniji 7
+INFO  21:28:19,880 - Deklarisana promenljiva nizch na liniji 8
+INFO  21:28:19,880 - Deklarisana promenljiva mat na liniji 9
+INFO  21:28:19,880 - Deklarisana promenljiva a na liniji 11
+INFO  21:28:19,880 - Obradjuje se funkcija main na liniji 14
+INFO  21:28:19,880 - Deklarisana promenljiva bodovi na liniji 15
+INFO  21:28:19,880 - Deklarisana promenljiva bt na liniji 16
+INFO  21:28:19,880 - ===================================
+ERROR 21:28:19,882 - Parsiranje NIJE uspesno zavrseno!

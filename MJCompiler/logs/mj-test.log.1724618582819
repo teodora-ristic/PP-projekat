@@ -1,0 +1,98 @@
+INFO  22:41:52,315 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:41:52,361 - #2 program
+INFO  22:41:52,361 - #47 test301
+INFO  22:41:52,362 - #6 const
+INFO  22:41:52,363 - #47 int
+INFO  22:41:52,363 - #47 nula
+INFO  22:41:52,364 - #29 =
+INFO  22:41:52,364 - #45 0
+INFO  22:41:52,364 - #34 ;
+INFO  22:41:52,365 - #6 const
+INFO  22:41:52,367 - #47 int
+INFO  22:41:52,367 - #47 jedan
+INFO  22:41:52,367 - #29 =
+INFO  22:41:52,367 - #45 1
+INFO  22:41:52,367 - #34 ;
+INFO  22:41:52,367 - #6 const
+INFO  22:41:52,367 - #47 int
+INFO  22:41:52,367 - #47 pet
+INFO  22:41:52,367 - #29 =
+INFO  22:41:52,367 - #45 5
+INFO  22:41:52,368 - #34 ;
+INFO  22:41:52,368 - #47 int
+INFO  22:41:52,368 - #47 niz
+INFO  22:41:52,369 - #40 [
+INFO  22:41:52,369 - #41 ]
+INFO  22:41:52,370 - #34 ;
+INFO  22:41:52,371 - #47 char
+INFO  22:41:52,373 - #47 nizch
+INFO  22:41:52,373 - #40 [
+INFO  22:41:52,373 - #41 ]
+INFO  22:41:52,373 - #34 ;
+INFO  22:41:52,373 - #47 int
+INFO  22:41:52,373 - #47 mat
+INFO  22:41:52,373 - #40 [
+INFO  22:41:52,374 - #41 ]
+INFO  22:41:52,374 - #40 [
+INFO  22:41:52,374 - #41 ]
+INFO  22:41:52,374 - #34 ;
+INFO  22:41:52,374 - #47 int
+INFO  22:41:52,374 - #47 a
+INFO  22:41:52,374 - #34 ;
+INFO  22:41:52,375 - #42 {
+INFO  22:41:52,375 - #12 void
+INFO  22:41:52,376 - #47 main
+INFO  22:41:52,377 - #38 (
+INFO  22:41:52,377 - #39 )
+INFO  22:41:52,378 - #47 int
+INFO  22:41:52,379 - #47 bodovi
+INFO  22:41:52,379 - #34 ;
+INFO  22:41:52,380 - #47 bool
+INFO  22:41:52,380 - #47 bt
+INFO  22:41:52,380 - #34 ;
+INFO  22:41:52,380 - #42 {
+INFO  22:41:52,380 - #47 bodovi
+INFO  22:41:52,381 - #29 =
+INFO  22:41:52,382 - #45 0
+INFO  22:41:52,382 - #34 ;
+INFO  22:41:52,384 - #47 bodovi
+INFO  22:41:52,385 - #30 ++
+INFO  22:41:52,385 - #34 ;
+INFO  22:41:52,385 - #47 bodovi
+INFO  22:41:52,385 - #29 =
+INFO  22:41:52,385 - #47 bodovi
+INFO  22:41:52,385 - #31 +
+INFO  22:41:52,385 - #47 jedan
+INFO  22:41:52,386 - #34 ;
+INFO  22:41:52,386 - #47 bodovi
+INFO  22:41:52,386 - #29 =
+INFO  22:41:52,386 - #47 bodovi
+INFO  22:41:52,386 - #17 *
+INFO  22:41:52,386 - #47 pet
+INFO  22:41:52,387 - #34 ;
+INFO  22:41:52,387 - #47 bodovi
+INFO  22:41:52,387 - #32 --
+INFO  22:41:52,387 - #34 ;
+INFO  22:41:52,387 - #9 print
+INFO  22:41:52,387 - #38 (
+INFO  22:41:52,387 - #47 bodovi
+INFO  22:41:52,387 - #39 )
+INFO  22:41:52,387 - #34 ;
+INFO  22:41:52,387 - #43 }
+INFO  22:41:52,389 - #43 }
+INFO  22:41:52,395 - ===================================
+INFO  22:41:52,396 - Deklarisana konstanta nula na liniji 5
+INFO  22:41:52,396 - Deklarisana konstanta jedan na liniji 6
+INFO  22:41:52,396 - Deklarisana konstanta pet na liniji 7
+INFO  22:41:52,396 - Deklarisana promenljiva niz na liniji 9
+INFO  22:41:52,396 - Deklarisana promenljiva nizch na liniji 10
+INFO  22:41:52,396 - Deklarisana promenljiva mat na liniji 11
+INFO  22:41:52,396 - Deklarisana promenljiva a na liniji 13
+INFO  22:41:52,396 - Obradjuje se funkcija main na liniji 16
+INFO  22:41:52,396 - Deklarisana promenljiva bodovi na liniji 17
+INFO  22:41:52,396 - Deklarisana promenljiva bt na liniji 18
+INFO  22:41:52,396 - Tip rs.etf.pp1.symboltable.concepts.Struct@11e21d0e na liniji 20
+INFO  22:41:52,396 - D tip rs.etf.pp1.symboltable.concepts.Struct@1dd02175 na liniji 20
+INFO  22:41:52,396 - Tip null na liniji 20
+INFO  22:41:52,396 - Tip rs.etf.pp1.symboltable.concepts.Struct@1dd02175 na liniji 22
+INFO  22:41:52,396 - Tip rs.etf.pp1.symboltable.concepts.Struct@1dd02175 na liniji 22

@@ -1,0 +1,74 @@
+INFO  02:48:10,438 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  02:48:10,519 - #2 program
+INFO  02:48:10,519 - #47 test301
+INFO  02:48:10,519 - #6 const
+INFO  02:48:10,522 - #47 int
+INFO  02:48:10,522 - #47 nula
+INFO  02:48:10,523 - #29 =
+INFO  02:48:10,524 - #45 0
+INFO  02:48:10,524 - #34 ;
+INFO  02:48:10,526 - #6 const
+INFO  02:48:10,528 - #47 int
+INFO  02:48:10,529 - #47 nula
+INFO  02:48:10,529 - #29 =
+INFO  02:48:10,529 - #45 3
+INFO  02:48:10,529 - #34 ;
+INFO  02:48:10,529 - #6 const
+INFO  02:48:10,529 - #47 int
+INFO  02:48:10,529 - #47 jedan
+INFO  02:48:10,530 - #29 =
+INFO  02:48:10,530 - #45 1
+INFO  02:48:10,530 - #34 ;
+INFO  02:48:10,530 - #6 const
+INFO  02:48:10,530 - #47 int
+INFO  02:48:10,549 - #47 pet
+INFO  02:48:10,549 - #29 =
+INFO  02:48:10,549 - #45 5
+INFO  02:48:10,549 - #34 ;
+INFO  02:48:10,549 - #47 int
+INFO  02:48:10,550 - #47 niz
+INFO  02:48:10,550 - #40 [
+INFO  02:48:10,550 - #41 ]
+INFO  02:48:10,550 - #34 ;
+INFO  02:48:10,553 - #47 char
+INFO  02:48:10,554 - #47 nizch
+INFO  02:48:10,554 - #40 [
+INFO  02:48:10,554 - #41 ]
+INFO  02:48:10,555 - #34 ;
+INFO  02:48:10,555 - #47 int
+INFO  02:48:10,555 - #47 mat
+INFO  02:48:10,555 - #40 [
+INFO  02:48:10,555 - #41 ]
+INFO  02:48:10,555 - #40 [
+INFO  02:48:10,555 - #41 ]
+INFO  02:48:10,555 - #34 ;
+INFO  02:48:10,557 - #47 int
+INFO  02:48:10,557 - #47 a
+INFO  02:48:10,557 - #34 ;
+INFO  02:48:10,558 - #42 {
+INFO  02:48:10,560 - #12 void
+INFO  02:48:10,561 - #47 main
+INFO  02:48:10,562 - #38 (
+INFO  02:48:10,563 - #39 )
+INFO  02:48:10,564 - #47 int
+INFO  02:48:10,564 - #47 bodovi
+INFO  02:48:10,565 - #34 ;
+INFO  02:48:10,565 - #47 bool
+INFO  02:48:10,565 - #47 bt
+INFO  02:48:10,565 - #34 ;
+INFO  02:48:10,565 - #42 {
+INFO  02:48:10,565 - #43 }
+INFO  02:48:10,566 - #43 }
+INFO  02:48:10,579 - ===================================
+INFO  02:48:10,580 - Deklarisana konstanta nula na liniji 3
+ERROR 02:48:10,580 - Vec postoji konstanta sa zadatim imenomnula na liniji 4
+INFO  02:48:10,580 - Deklarisana konstanta jedan na liniji 5
+INFO  02:48:10,580 - Deklarisana konstanta pet na liniji 6
+INFO  02:48:10,580 - Deklarisana promenljiva niz na liniji 8
+INFO  02:48:10,580 - Deklarisana promenljiva nizch na liniji 9
+INFO  02:48:10,581 - Deklarisana promenljiva mat na liniji 10
+INFO  02:48:10,581 - Deklarisana promenljiva a na liniji 12
+INFO  02:48:10,581 - Deklarisana promenljiva bodovi na liniji 17
+INFO  02:48:10,581 - Deklarisana promenljiva bt na liniji 18
+INFO  02:48:10,581 - ===================================
+ERROR 02:48:10,582 - Parsiranje NIJE uspesno zavrseno!

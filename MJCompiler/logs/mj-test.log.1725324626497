@@ -1,0 +1,52 @@
+INFO  02:49:39,997 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  02:49:40,093 - #2 program
+INFO  02:49:40,094 - #47 test301
+INFO  02:49:40,094 - #47 int
+INFO  02:49:40,096 - #47 niz
+INFO  02:49:40,098 - #40 [
+INFO  02:49:40,098 - #41 ]
+INFO  02:49:40,098 - #34 ;
+INFO  02:49:40,103 - #47 char
+INFO  02:49:40,106 - #47 nizch
+INFO  02:49:40,106 - #40 [
+INFO  02:49:40,106 - #41 ]
+INFO  02:49:40,106 - #34 ;
+INFO  02:49:40,107 - #47 int
+INFO  02:49:40,107 - #47 mat
+INFO  02:49:40,107 - #40 [
+INFO  02:49:40,107 - #41 ]
+INFO  02:49:40,107 - #40 [
+INFO  02:49:40,107 - #41 ]
+INFO  02:49:40,108 - #34 ;
+INFO  02:49:40,109 - #47 int
+INFO  02:49:40,110 - #47 a
+INFO  02:49:40,110 - #34 ;
+INFO  02:49:40,112 - #42 {
+INFO  02:49:40,112 - #12 void
+INFO  02:49:40,113 - #47 main
+INFO  02:49:40,114 - #38 (
+INFO  02:49:40,116 - #39 )
+INFO  02:49:40,117 - #47 int
+INFO  02:49:40,118 - #47 bodovi
+INFO  02:49:40,118 - #34 ;
+INFO  02:49:40,118 - #47 bool
+INFO  02:49:40,119 - #47 bt
+INFO  02:49:40,119 - #34 ;
+INFO  02:49:40,119 - #42 {
+INFO  02:49:40,119 - #9 print
+INFO  02:49:40,120 - #38 (
+INFO  02:49:40,120 - #45 1
+INFO  02:49:40,120 - #39 )
+INFO  02:49:40,125 - #34 ;
+INFO  02:49:40,125 - #43 }
+INFO  02:49:40,126 - #43 }
+INFO  02:49:40,143 - ===================================
+INFO  02:49:40,143 - Deklarisana promenljiva niz na liniji 5
+INFO  02:49:40,145 - Deklarisana promenljiva nizch na liniji 6
+INFO  02:49:40,145 - Deklarisana promenljiva mat na liniji 7
+INFO  02:49:40,145 - Deklarisana promenljiva a na liniji 9
+INFO  02:49:40,145 - Obradjuje se funkcija main na liniji 12
+INFO  02:49:40,145 - Deklarisana promenljiva bodovi na liniji 13
+INFO  02:49:40,145 - Deklarisana promenljiva bt na liniji 14
+INFO  02:49:40,145 - ===================================
+INFO  02:49:40,152 - Parsiranje uspesno zavrseno!

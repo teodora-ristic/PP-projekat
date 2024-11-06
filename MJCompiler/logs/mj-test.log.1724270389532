@@ -1,0 +1,226 @@
+INFO  21:30:44,254 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:30:44,332 - #2 program
+INFO  21:30:44,332 - #47 test301
+INFO  21:30:44,332 - #6 const
+INFO  21:30:44,333 - #47 int
+INFO  21:30:44,334 - #47 nula
+INFO  21:30:44,334 - #29 =
+INFO  21:30:44,334 - #45 0
+INFO  21:30:44,334 - #34 ;
+INFO  21:30:44,334 - #6 const
+INFO  21:30:44,335 - #47 int
+INFO  21:30:44,335 - #47 jedan
+INFO  21:30:44,335 - #29 =
+INFO  21:30:44,335 - #45 1
+INFO  21:30:44,335 - #34 ;
+INFO  21:30:44,335 - #6 const
+INFO  21:30:44,335 - #47 int
+INFO  21:30:44,335 - #47 pet
+INFO  21:30:44,335 - #29 =
+INFO  21:30:44,335 - #45 5
+INFO  21:30:44,335 - #34 ;
+INFO  21:30:44,336 - #47 int
+INFO  21:30:44,336 - #47 niz
+INFO  21:30:44,337 - #40 [
+INFO  21:30:44,337 - #41 ]
+INFO  21:30:44,337 - #34 ;
+INFO  21:30:44,338 - #47 char
+INFO  21:30:44,338 - #47 nizch
+INFO  21:30:44,338 - #40 [
+INFO  21:30:44,338 - #41 ]
+INFO  21:30:44,338 - #34 ;
+INFO  21:30:44,338 - #47 int
+INFO  21:30:44,338 - #47 mat
+INFO  21:30:44,338 - #40 [
+INFO  21:30:44,338 - #41 ]
+INFO  21:30:44,338 - #40 [
+INFO  21:30:44,338 - #41 ]
+INFO  21:30:44,338 - #34 ;
+INFO  21:30:44,339 - #47 int
+INFO  21:30:44,339 - #47 a
+INFO  21:30:44,339 - #34 ;
+INFO  21:30:44,339 - #42 {
+INFO  21:30:44,339 - #12 void
+INFO  21:30:44,340 - #47 main
+INFO  21:30:44,341 - #38 (
+INFO  21:30:44,341 - #39 )
+INFO  21:30:44,341 - #47 int
+INFO  21:30:44,341 - #47 bodovi
+INFO  21:30:44,341 - #34 ;
+INFO  21:30:44,342 - #47 bool
+INFO  21:30:44,342 - #47 bt
+INFO  21:30:44,342 - #34 ;
+INFO  21:30:44,342 - #42 {
+INFO  21:30:44,342 - #9 print
+INFO  21:30:44,342 - #38 (
+INFO  21:30:44,343 - #47 bodovi
+INFO  21:30:44,343 - #39 )
+INFO  21:30:44,345 - #9 print
+ERROR 21:30:44,345 - 
+Sintaksna greska na liniji 21
+INFO  21:30:44,345 - #38 (
+INFO  21:30:44,345 - #47 niz
+INFO  21:30:44,345 - #40 [
+INFO  21:30:44,345 - #45 2
+INFO  21:30:44,346 - #41 ]
+INFO  21:30:44,346 - #39 )
+INFO  21:30:44,346 - #34 ;
+INFO  21:30:44,346 - #43 }
+INFO  21:30:44,346 - #43 }
+ERROR 21:30:44,346 - Izvrsen oporavak od greske prilikom dodele do ; u liniji 20
+INFO  21:30:44,347 - ProgramDerived1(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclListDerived1(
+    DeclListDerived1(
+      DeclListDerived1(
+        DeclListDerived1(
+          DeclListDerived1(
+            DeclListDerived1(
+              DeclListDerived1(
+                DeclListDerived2(
+                ) [DeclListDerived2]
+                DeclDerived1(
+                  ConstDeclDerived1(
+                    TypeDerived2(
+                     int
+                    ) [TypeDerived2]
+                    ConstDeclListDerived3(
+                      ConstDeclSingleDerived1(
+                       nula
+                        ConstDerived1(
+                         0
+                        ) [ConstDerived1]
+                      ) [ConstDeclSingleDerived1]
+                    ) [ConstDeclListDerived3]
+                  ) [ConstDeclDerived1]
+                ) [DeclDerived1]
+              ) [DeclListDerived1]
+              DeclDerived1(
+                ConstDeclDerived1(
+                  TypeDerived2(
+                   int
+                  ) [TypeDerived2]
+                  ConstDeclListDerived3(
+                    ConstDeclSingleDerived1(
+                     jedan
+                      ConstDerived1(
+                       1
+                      ) [ConstDerived1]
+                    ) [ConstDeclSingleDerived1]
+                  ) [ConstDeclListDerived3]
+                ) [ConstDeclDerived1]
+              ) [DeclDerived1]
+            ) [DeclListDerived1]
+            DeclDerived1(
+              ConstDeclDerived1(
+                TypeDerived2(
+                 int
+                ) [TypeDerived2]
+                ConstDeclListDerived3(
+                  ConstDeclSingleDerived1(
+                   pet
+                    ConstDerived1(
+                     5
+                    ) [ConstDerived1]
+                  ) [ConstDeclSingleDerived1]
+                ) [ConstDeclListDerived3]
+              ) [ConstDeclDerived1]
+            ) [DeclDerived1]
+          ) [DeclListDerived1]
+          DeclDerived2(
+            VarDeclDerived1(
+              TypeDerived2(
+               int
+              ) [TypeDerived2]
+              VarDeclRListDerived3(
+                VarDeclRDerived1(
+                 niz
+                ) [VarDeclRDerived1]
+              ) [VarDeclRListDerived3]
+            ) [VarDeclDerived1]
+          ) [DeclDerived2]
+        ) [DeclListDerived1]
+        DeclDerived2(
+          VarDeclDerived1(
+            TypeDerived2(
+             char
+            ) [TypeDerived2]
+            VarDeclRListDerived3(
+              VarDeclRDerived1(
+               nizch
+              ) [VarDeclRDerived1]
+            ) [VarDeclRListDerived3]
+          ) [VarDeclDerived1]
+        ) [DeclDerived2]
+      ) [DeclListDerived1]
+      DeclDerived2(
+        VarDeclDerived1(
+          TypeDerived2(
+           int
+          ) [TypeDerived2]
+          VarDeclRListDerived3(
+            VarDeclRDerived3(
+             mat
+            ) [VarDeclRDerived3]
+          ) [VarDeclRListDerived3]
+        ) [VarDeclDerived1]
+      ) [DeclDerived2]
+    ) [DeclListDerived1]
+    DeclDerived2(
+      VarDeclDerived1(
+        TypeDerived2(
+         int
+        ) [TypeDerived2]
+        VarDeclRListDerived3(
+          VarDeclRDerived2(
+           a
+          ) [VarDeclRDerived2]
+        ) [VarDeclRListDerived3]
+      ) [VarDeclDerived1]
+    ) [DeclDerived2]
+  ) [DeclListDerived1]
+  MethodDeclListDerived1(
+    MethodDeclListDerived2(
+    ) [MethodDeclListDerived2]
+    MethodDeclDerived2(
+      BeforeDerived2(
+      ) [BeforeDerived2]
+     main
+      VarDeclListDerived1(
+        VarDeclListDerived1(
+          VarDeclListDerived2(
+          ) [VarDeclListDerived2]
+          VarDeclDerived1(
+            TypeDerived2(
+             int
+            ) [TypeDerived2]
+            VarDeclRListDerived3(
+              VarDeclRDerived2(
+               bodovi
+              ) [VarDeclRDerived2]
+            ) [VarDeclRListDerived3]
+          ) [VarDeclDerived1]
+        ) [VarDeclListDerived1]
+        VarDeclDerived1(
+          TypeDerived2(
+           bool
+          ) [TypeDerived2]
+          VarDeclRListDerived3(
+            VarDeclRDerived2(
+             bt
+            ) [VarDeclRDerived2]
+          ) [VarDeclRListDerived3]
+        ) [VarDeclDerived1]
+      ) [VarDeclListDerived1]
+      StatementListDerived1(
+        StatementListDerived2(
+        ) [StatementListDerived2]
+        StatementDerived5(
+        ) [StatementDerived5]
+      ) [StatementListDerived1]
+    ) [MethodDeclDerived2]
+  ) [MethodDeclListDerived1]
+) [ProgramDerived1]
+INFO  21:30:44,348 - ===================================

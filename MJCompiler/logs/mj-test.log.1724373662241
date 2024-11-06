@@ -1,0 +1,47 @@
+INFO  02:40:05,545 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  02:40:05,594 - #2 program
+INFO  02:40:05,594 - #47 test301
+INFO  02:40:05,594 - #6 const
+INFO  02:40:05,596 - #47 int
+INFO  02:40:05,596 - #47 nula
+INFO  02:40:05,597 - #29 =
+INFO  02:40:05,597 - #45 0
+INFO  02:40:05,597 - #34 ;
+INFO  02:40:05,598 - #6 const
+INFO  02:40:05,599 - #47 int
+INFO  02:40:05,600 - #47 jedan
+INFO  02:40:05,600 - #29 =
+INFO  02:40:05,600 - #45 1
+INFO  02:40:05,600 - #34 ;
+INFO  02:40:05,600 - #6 const
+INFO  02:40:05,600 - #47 int
+INFO  02:40:05,600 - #47 pet
+INFO  02:40:05,600 - #29 =
+INFO  02:40:05,600 - #45 5
+INFO  02:40:05,600 - #34 ;
+INFO  02:40:05,600 - #47 int
+INFO  02:40:05,600 - #47 niz
+INFO  02:40:05,601 - #40 [
+INFO  02:40:05,601 - #41 ]
+INFO  02:40:05,601 - #34 ;
+INFO  02:40:05,603 - #47 char
+INFO  02:40:05,604 - #47 nizch
+INFO  02:40:05,605 - #40 [
+INFO  02:40:05,605 - #41 ]
+INFO  02:40:05,605 - #34 ;
+INFO  02:40:05,605 - #47 int
+INFO  02:40:05,605 - #47 mat
+INFO  02:40:05,605 - #40 [
+INFO  02:40:05,605 - #41 ]
+INFO  02:40:05,605 - #40 [
+INFO  02:40:05,605 - #41 ]
+INFO  02:40:05,605 - #34 ;
+INFO  02:40:05,607 - #47 int
+INFO  02:40:05,607 - #47 a
+INFO  02:40:05,607 - #34 ;
+INFO  02:40:05,608 - #42 {
+INFO  02:40:05,608 - #12 void
+INFO  02:40:05,608 - #47 main
+ERROR 02:40:05,609 - 
+Sintaksna greska na liniji 14
+ERROR 02:40:05,609 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

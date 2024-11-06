@@ -1,0 +1,77 @@
+INFO  04:16:36,748 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  04:16:36,828 - #2 program
+INFO  04:16:36,829 - #47 test301
+INFO  04:16:36,829 - #6 const
+INFO  04:16:36,832 - #47 int
+INFO  04:16:36,833 - #47 nula
+INFO  04:16:36,833 - #29 =
+INFO  04:16:36,834 - #45 0
+INFO  04:16:36,834 - #34 ;
+INFO  04:16:36,835 - #6 const
+INFO  04:16:36,837 - #47 int
+INFO  04:16:36,837 - #47 jedan
+INFO  04:16:36,837 - #29 =
+INFO  04:16:36,837 - #45 1
+INFO  04:16:36,837 - #34 ;
+INFO  04:16:36,837 - #6 const
+INFO  04:16:36,838 - #47 int
+INFO  04:16:36,838 - #47 pet
+INFO  04:16:36,838 - #29 =
+INFO  04:16:36,838 - #45 5
+INFO  04:16:36,838 - #34 ;
+INFO  04:16:36,838 - #47 int
+INFO  04:16:36,838 - #47 niz
+INFO  04:16:36,839 - #40 [
+INFO  04:16:36,839 - #41 ]
+INFO  04:16:36,839 - #34 ;
+INFO  04:16:36,841 - #47 char
+INFO  04:16:36,842 - #47 nizch
+INFO  04:16:36,843 - #40 [
+INFO  04:16:36,843 - #41 ]
+INFO  04:16:36,843 - #34 ;
+INFO  04:16:36,843 - #47 int
+INFO  04:16:36,843 - #47 mat
+INFO  04:16:36,843 - #40 [
+INFO  04:16:36,843 - #41 ]
+INFO  04:16:36,843 - #40 [
+INFO  04:16:36,843 - #41 ]
+INFO  04:16:36,843 - #34 ;
+INFO  04:16:36,845 - #47 int
+INFO  04:16:36,845 - #47 a
+INFO  04:16:36,845 - #34 ;
+INFO  04:16:36,846 - #42 {
+INFO  04:16:36,846 - #12 void
+INFO  04:16:36,847 - #47 main
+INFO  04:16:36,849 - #38 (
+INFO  04:16:36,850 - #39 )
+INFO  04:16:36,851 - #47 int
+INFO  04:16:36,853 - #47 bodovi
+INFO  04:16:36,853 - #34 ;
+INFO  04:16:36,853 - #47 bool
+INFO  04:16:36,853 - #47 bt
+INFO  04:16:36,853 - #34 ;
+INFO  04:16:36,854 - #42 {
+INFO  04:16:36,854 - #47 a
+INFO  04:16:36,855 - #29 =
+INFO  04:16:36,857 - #45 2
+INFO  04:16:36,859 - #34 ;
+INFO  04:16:36,863 - #43 }
+INFO  04:16:36,863 - #43 }
+INFO  04:16:36,876 - ===================================
+INFO  04:16:36,876 - Deklarisana konstanta nula na liniji 5
+INFO  04:16:36,876 - Deklarisana konstanta jedan na liniji 6
+INFO  04:16:36,877 - Deklarisana konstanta pet na liniji 7
+INFO  04:16:36,877 - Deklarisana promenljiva niz na liniji 9
+INFO  04:16:36,877 - Deklarisana promenljiva nizch na liniji 10
+INFO  04:16:36,877 - Deklarisana promenljiva mat na liniji 11
+INFO  04:16:36,877 - Deklarisana promenljiva a na liniji 13
+INFO  04:16:36,877 - Obradjuje se funkcija main na liniji 16
+INFO  04:16:36,877 - Deklarisana promenljiva bodovi na liniji 17
+INFO  04:16:36,877 - Deklarisana promenljiva bt na liniji 18
+INFO  04:16:36,878 - tip designars.etf.pp1.symboltable.concepts.Struct@701fc37a na liniji 20
+INFO  04:16:36,878 - tip expr rs.etf.pp1.symboltable.concepts.Struct@4148db48 na liniji 20
+INFO  04:16:36,878 - tip t 1 rs.etf.pp1.symboltable.concepts.Struct@701fc37a na liniji 20
+INFO  04:16:36,878 - tip t 2 rs.etf.pp1.symboltable.concepts.Struct@4148db48 na liniji 20
+ERROR 04:16:36,878 - Nekompatibilni tiplovi u operaciji dodele a na liniji 20
+INFO  04:16:36,878 - ===================================
+ERROR 04:16:36,879 - Parsiranje NIJE uspesno zavrseno!

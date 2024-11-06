@@ -1,0 +1,230 @@
+INFO  09:47:21,485 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  09:47:21,564 - #2 program
+INFO  09:47:21,564 - #47 test301
+INFO  09:47:21,565 - #6 const
+INFO  09:47:21,567 - #47 int
+INFO  09:47:21,567 - #47 nula
+INFO  09:47:21,569 - #29 =
+INFO  09:47:21,569 - #45 0
+INFO  09:47:21,569 - #34 ;
+INFO  09:47:21,571 - #6 const
+INFO  09:47:21,572 - #47 int
+INFO  09:47:21,572 - #47 jedan
+INFO  09:47:21,572 - #29 =
+INFO  09:47:21,572 - #45 1
+INFO  09:47:21,572 - #34 ;
+INFO  09:47:21,572 - #6 const
+INFO  09:47:21,573 - #47 int
+INFO  09:47:21,573 - #47 pet
+INFO  09:47:21,573 - #29 =
+INFO  09:47:21,573 - #45 5
+INFO  09:47:21,573 - #34 ;
+INFO  09:47:21,573 - #47 int
+INFO  09:47:21,573 - #47 niz
+INFO  09:47:21,574 - #40 [
+INFO  09:47:21,574 - #41 ]
+INFO  09:47:21,574 - #34 ;
+INFO  09:47:21,577 - #47 int
+INFO  09:47:21,579 - #47 a
+INFO  09:47:21,579 - #34 ;
+INFO  09:47:21,580 - #42 {
+INFO  09:47:21,581 - #12 void
+INFO  09:47:21,582 - #47 main
+INFO  09:47:21,583 - #38 (
+INFO  09:47:21,585 - #39 )
+INFO  09:47:21,586 - #42 {
+INFO  09:47:21,587 - #47 niz
+INFO  09:47:21,589 - #29 =
+INFO  09:47:21,589 - #8 new
+INFO  09:47:21,591 - #47 int
+INFO  09:47:21,591 - #40 [
+INFO  09:47:21,591 - #45 3
+INFO  09:47:21,591 - #41 ]
+INFO  09:47:21,596 - #34 ;
+INFO  09:47:21,597 - #47 niz
+INFO  09:47:21,598 - #40 [
+INFO  09:47:21,598 - #45 1
+INFO  09:47:21,598 - #41 ]
+INFO  09:47:21,599 - #29 =
+INFO  09:47:21,599 - #47 jedan
+INFO  09:47:21,599 - #34 ;
+INFO  09:47:21,600 - #43 }
+INFO  09:47:21,601 - #43 }
+INFO  09:47:21,606 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  ListDecl(
+    ListDecl(
+      ListDecl(
+        ListDecl(
+          ListDecl(
+            EmptyDecList(
+            ) [EmptyDecList]
+            DeclConst(
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleConstDecl(
+                  ConstDeclSingle(
+                   nula
+                    Num(
+                     0
+                    ) [Num]
+                  ) [ConstDeclSingle]
+                ) [SingleConstDecl]
+              ) [ConstDecl]
+            ) [DeclConst]
+          ) [ListDecl]
+          DeclConst(
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              SingleConstDecl(
+                ConstDeclSingle(
+                 jedan
+                  Num(
+                   1
+                  ) [Num]
+                ) [ConstDeclSingle]
+              ) [SingleConstDecl]
+            ) [ConstDecl]
+          ) [DeclConst]
+        ) [ListDecl]
+        DeclConst(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            SingleConstDecl(
+              ConstDeclSingle(
+               pet
+                Num(
+                 5
+                ) [Num]
+              ) [ConstDeclSingle]
+            ) [SingleConstDecl]
+          ) [ConstDecl]
+        ) [DeclConst]
+      ) [ListDecl]
+      DeclVar(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          SingleVarDeclR(
+            VarDeclRSingle(
+             niz
+              BracketVarDeclR(
+              ) [BracketVarDeclR]
+            ) [VarDeclRSingle]
+          ) [SingleVarDeclR]
+        ) [VarDecl]
+      ) [DeclVar]
+    ) [ListDecl]
+    DeclVar(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDeclR(
+          VarDeclRSingle(
+           a
+            NoBracketVarDeclR(
+            ) [NoBracketVarDeclR]
+          ) [VarDeclRSingle]
+        ) [SingleVarDeclR]
+      ) [VarDecl]
+    ) [DeclVar]
+  ) [ListDecl]
+  ListMethodDecl(
+    EmptyMethodDeclList(
+    ) [EmptyMethodDeclList]
+    MethodDecl(
+      BeforeVoid(
+      ) [BeforeVoid]
+      MethodDeclName(
+       main
+      ) [MethodDeclName]
+      NoFormPars(
+      ) [NoFormPars]
+      EmptyVarDeclList(
+      ) [EmptyVarDeclList]
+      ListStatement(
+        ListStatement(
+          EmptyStatementList(
+          ) [EmptyStatementList]
+          DesignatorStmt(
+            DesignatorStatementAssign(
+              DesignatorIdent(
+               niz
+              ) [DesignatorIdent]
+              Assignop(
+              ) [Assignop]
+              ExprTerm(
+                Term(
+                  NewFactorBracket(
+                    Type(
+                     int
+                    ) [Type]
+                    ExprTerm(
+                      Term(
+                        NumFactor(
+                         3
+                        ) [NumFactor]
+                        EmptyTermList(
+                        ) [EmptyTermList]
+                      ) [Term]
+                      EmptyExprList(
+                      ) [EmptyExprList]
+                    ) [ExprTerm]
+                  ) [NewFactorBracket]
+                  EmptyTermList(
+                  ) [EmptyTermList]
+                ) [Term]
+                EmptyExprList(
+                ) [EmptyExprList]
+              ) [ExprTerm]
+            ) [DesignatorStatementAssign]
+          ) [DesignatorStmt]
+        ) [ListStatement]
+        DesignatorStmt(
+          DesignatorStatementAssign(
+            DesignatorBracket(
+             niz
+              ExprTerm(
+                Term(
+                  NumFactor(
+                   1
+                  ) [NumFactor]
+                  EmptyTermList(
+                  ) [EmptyTermList]
+                ) [Term]
+                EmptyExprList(
+                ) [EmptyExprList]
+              ) [ExprTerm]
+            ) [DesignatorBracket]
+            Assignop(
+            ) [Assignop]
+            ExprTerm(
+              Term(
+                DesignatorFactor(
+                  DesignatorIdent(
+                   jedan
+                  ) [DesignatorIdent]
+                ) [DesignatorFactor]
+                EmptyTermList(
+                ) [EmptyTermList]
+              ) [Term]
+              EmptyExprList(
+              ) [EmptyExprList]
+            ) [ExprTerm]
+          ) [DesignatorStatementAssign]
+        ) [DesignatorStmt]
+      ) [ListStatement]
+    ) [MethodDecl]
+  ) [ListMethodDecl]
+) [Program]
+INFO  09:47:21,606 - ===================================

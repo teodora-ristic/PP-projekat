@@ -1,0 +1,77 @@
+INFO  23:18:48,263 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:18:48,300 - #2 program
+INFO  23:18:48,300 - #47 test301
+INFO  23:18:48,300 - #6 const
+INFO  23:18:48,301 - #47 int
+INFO  23:18:48,301 - #47 nula
+INFO  23:18:48,302 - #29 =
+INFO  23:18:48,302 - #45 0
+INFO  23:18:48,302 - #34 ;
+INFO  23:18:48,303 - #6 const
+INFO  23:18:48,304 - #47 int
+INFO  23:18:48,304 - #47 jedan
+INFO  23:18:48,304 - #29 =
+INFO  23:18:48,304 - #45 1
+INFO  23:18:48,304 - #34 ;
+INFO  23:18:48,304 - #6 const
+INFO  23:18:48,304 - #47 int
+INFO  23:18:48,304 - #47 pet
+INFO  23:18:48,305 - #29 =
+INFO  23:18:48,305 - #45 5
+INFO  23:18:48,305 - #34 ;
+INFO  23:18:48,305 - #47 int
+INFO  23:18:48,305 - #47 niz
+INFO  23:18:48,305 - #40 [
+INFO  23:18:48,306 - #41 ]
+INFO  23:18:48,306 - #34 ;
+INFO  23:18:48,307 - #47 char
+INFO  23:18:48,308 - #47 nizch
+INFO  23:18:48,308 - #40 [
+INFO  23:18:48,308 - #41 ]
+INFO  23:18:48,308 - #34 ;
+INFO  23:18:48,308 - #47 int
+INFO  23:18:48,308 - #47 mat
+INFO  23:18:48,308 - #40 [
+INFO  23:18:48,308 - #41 ]
+INFO  23:18:48,308 - #40 [
+INFO  23:18:48,308 - #41 ]
+INFO  23:18:48,308 - #34 ;
+INFO  23:18:48,309 - #47 int
+INFO  23:18:48,309 - #47 a
+INFO  23:18:48,309 - #34 ;
+INFO  23:18:48,310 - #42 {
+INFO  23:18:48,310 - #12 void
+INFO  23:18:48,311 - #47 main
+INFO  23:18:48,311 - #38 (
+INFO  23:18:48,312 - #39 )
+INFO  23:18:48,313 - #47 int
+INFO  23:18:48,314 - #47 bodovi
+INFO  23:18:48,314 - #34 ;
+INFO  23:18:48,314 - #47 bool
+INFO  23:18:48,314 - #47 bt
+INFO  23:18:48,314 - #34 ;
+INFO  23:18:48,314 - #42 {
+INFO  23:18:48,314 - #47 bodovi
+INFO  23:18:48,315 - #29 =
+INFO  23:18:48,317 - #47 bodovi
+INFO  23:18:48,318 - #31 +
+INFO  23:18:48,320 - #47 pet
+INFO  23:18:48,321 - #34 ;
+INFO  23:18:48,321 - #43 }
+INFO  23:18:48,321 - #43 }
+INFO  23:18:48,329 - ===================================
+INFO  23:18:48,330 - Deklarisana konstanta nula na liniji 5
+INFO  23:18:48,330 - Deklarisana konstanta jedan na liniji 6
+INFO  23:18:48,330 - Deklarisana konstanta pet na liniji 7
+INFO  23:18:48,330 - Deklarisana promenljiva niz na liniji 9
+INFO  23:18:48,330 - Deklarisana promenljiva nizch na liniji 10
+INFO  23:18:48,330 - Deklarisana promenljiva mat na liniji 11
+INFO  23:18:48,330 - Deklarisana promenljiva a na liniji 13
+INFO  23:18:48,330 - Obradjuje se funkcija main na liniji 16
+INFO  23:18:48,330 - Deklarisana promenljiva bodovi na liniji 17
+INFO  23:18:48,330 - Deklarisana promenljiva bt na liniji 18
+INFO  23:18:48,330 - Tip term rs.etf.pp1.symboltable.concepts.Struct@7fad8c79 na liniji 20
+INFO  23:18:48,330 - Tip term rs.etf.pp1.symboltable.concepts.Struct@7fad8c79 na liniji 20
+INFO  23:18:48,330 - Tip listexpr rs.etf.pp1.symboltable.concepts.Struct@7fad8c79 na liniji 11
+INFO  23:18:48,330 - Tip te rs.etf.pp1.symboltable.concepts.Struct@7fad8c79 na liniji 20
+INFO  23:18:48,330 - Tip t rs.etf.pp1.symboltable.concepts.Struct@7fad8c79 na liniji 20

@@ -1,0 +1,13 @@
+INFO  03:32:22,260 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  03:32:22,354 - #2 program
+INFO  03:32:22,355 - #47 MJProgram
+INFO  03:32:22,355 - #42 {
+INFO  03:32:22,356 - #43 }
+INFO  03:32:22,358 - ProgramDerived1(
+ MJProgram
+  DeclListDerived2(
+  ) [DeclListDerived2]
+  MethodDeclListDerived2(
+  ) [MethodDeclListDerived2]
+) [ProgramDerived1]
+INFO  03:32:22,359 - ===================================

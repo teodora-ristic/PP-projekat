@@ -1,0 +1,23 @@
+INFO  03:38:13,417 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  03:38:13,504 - #2 program
+INFO  03:38:13,504 - #47 test301
+INFO  03:38:13,504 - #42 {
+INFO  03:38:13,506 - #12 void
+INFO  03:38:13,508 - #47 main
+INFO  03:38:13,509 - #38 (
+INFO  03:38:13,511 - #39 )
+INFO  03:38:13,512 - #47 int
+INFO  03:38:13,513 - #47 bodovi
+INFO  03:38:13,515 - #34 ;
+INFO  03:38:13,518 - #42 {
+INFO  03:38:13,519 - #47 bodvi
+INFO  03:38:13,521 - #29 =
+INFO  03:38:13,523 - #47 bodovi
+INFO  03:38:13,525 - #31 +
+INFO  03:38:13,532 - #45 1
+INFO  03:38:13,534 - #34 ;
+INFO  03:38:13,538 - #43 }
+INFO  03:38:13,539 - #43 }
+INFO  03:38:13,556 - ===================================
+INFO  03:38:13,557 - Deklarisana promenljiva bodovi na liniji 6
+ERROR 03:38:13,576 - Greska na liniji 8 : ime bodvi nije deklarisano! 

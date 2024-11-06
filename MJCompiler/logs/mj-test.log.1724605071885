@@ -1,0 +1,60 @@
+INFO  18:56:35,955 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:56:36,016 - #2 program
+INFO  18:56:36,017 - #47 test301
+INFO  18:56:36,017 - #6 const
+INFO  18:56:36,019 - #47 int
+INFO  18:56:36,019 - #47 nula
+INFO  18:56:36,020 - #29 =
+INFO  18:56:36,021 - #45 0
+INFO  18:56:36,021 - #34 ;
+INFO  18:56:36,022 - #6 const
+INFO  18:56:36,023 - #47 int
+INFO  18:56:36,023 - #47 jedan
+INFO  18:56:36,023 - #29 =
+INFO  18:56:36,023 - #45 1
+INFO  18:56:36,023 - #34 ;
+INFO  18:56:36,024 - #6 const
+INFO  18:56:36,024 - #47 int
+INFO  18:56:36,024 - #47 pet
+INFO  18:56:36,024 - #29 =
+INFO  18:56:36,024 - #45 5
+INFO  18:56:36,024 - #34 ;
+INFO  18:56:36,024 - #47 int
+INFO  18:56:36,024 - #47 niz
+INFO  18:56:36,043 - #40 [
+INFO  18:56:36,043 - #41 ]
+INFO  18:56:36,043 - #34 ;
+INFO  18:56:36,046 - #47 char
+INFO  18:56:36,047 - #47 nizch
+INFO  18:56:36,047 - #40 [
+INFO  18:56:36,047 - #41 ]
+INFO  18:56:36,047 - #34 ;
+INFO  18:56:36,047 - #47 int
+INFO  18:56:36,047 - #47 mat
+INFO  18:56:36,047 - #40 [
+INFO  18:56:36,047 - #41 ]
+INFO  18:56:36,048 - #40 [
+INFO  18:56:36,048 - #41 ]
+INFO  18:56:36,048 - #34 ;
+INFO  18:56:36,049 - #47 int
+INFO  18:56:36,049 - #47 a
+INFO  18:56:36,049 - #34 ;
+INFO  18:56:36,050 - #42 {
+INFO  18:56:36,050 - #12 void
+INFO  18:56:36,051 - #47 main
+INFO  18:56:36,053 - #38 (
+INFO  18:56:36,054 - #39 )
+INFO  18:56:36,055 - #42 {
+INFO  18:56:36,057 - #43 }
+INFO  18:56:36,058 - #43 }
+INFO  18:56:36,073 - ===================================
+INFO  18:56:36,073 - Deklarisana konstanta nula na liniji 3
+INFO  18:56:36,074 - Deklarisana konstanta jedan na liniji 4
+INFO  18:56:36,074 - Deklarisana konstanta pet na liniji 5
+INFO  18:56:36,074 - Deklarisana promenljiva niz na liniji 7
+INFO  18:56:36,074 - Deklarisana promenljiva nizch na liniji 8
+INFO  18:56:36,074 - Deklarisana promenljiva mat na liniji 9
+INFO  18:56:36,074 - Deklarisana promenljiva a na liniji 11
+INFO  18:56:36,074 - Obradjuje se funkcija main na liniji 14
+INFO  18:56:36,074 - ===================================
+INFO  18:56:36,075 - Parsiranje uspesno zavrseno!

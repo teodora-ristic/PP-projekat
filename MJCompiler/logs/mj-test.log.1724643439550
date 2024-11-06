@@ -1,0 +1,90 @@
+INFO  05:36:59,404 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  05:36:59,459 - #2 program
+INFO  05:36:59,459 - #47 test301
+INFO  05:36:59,459 - #6 const
+INFO  05:36:59,462 - #47 int
+INFO  05:36:59,462 - #47 nula
+INFO  05:36:59,463 - #29 =
+INFO  05:36:59,464 - #45 0
+INFO  05:36:59,464 - #34 ;
+INFO  05:36:59,465 - #6 const
+INFO  05:36:59,466 - #47 int
+INFO  05:36:59,467 - #47 jedan
+INFO  05:36:59,467 - #29 =
+INFO  05:36:59,467 - #45 1
+INFO  05:36:59,467 - #34 ;
+INFO  05:36:59,467 - #6 const
+INFO  05:36:59,467 - #47 int
+INFO  05:36:59,467 - #47 pet
+INFO  05:36:59,467 - #29 =
+INFO  05:36:59,467 - #45 5
+INFO  05:36:59,467 - #34 ;
+INFO  05:36:59,467 - #47 int
+INFO  05:36:59,468 - #47 niz
+INFO  05:36:59,470 - #40 [
+INFO  05:36:59,470 - #41 ]
+INFO  05:36:59,470 - #34 ;
+INFO  05:36:59,472 - #47 char
+INFO  05:36:59,473 - #47 nizch
+INFO  05:36:59,474 - #40 [
+INFO  05:36:59,474 - #41 ]
+INFO  05:36:59,474 - #34 ;
+INFO  05:36:59,474 - #47 int
+INFO  05:36:59,474 - #47 mat
+INFO  05:36:59,474 - #40 [
+INFO  05:36:59,474 - #41 ]
+INFO  05:36:59,474 - #40 [
+INFO  05:36:59,474 - #41 ]
+INFO  05:36:59,474 - #34 ;
+INFO  05:36:59,476 - #47 int
+INFO  05:36:59,476 - #47 a
+INFO  05:36:59,476 - #34 ;
+INFO  05:36:59,478 - #42 {
+INFO  05:36:59,478 - #12 void
+INFO  05:36:59,479 - #47 main
+INFO  05:36:59,480 - #38 (
+INFO  05:36:59,482 - #39 )
+INFO  05:36:59,483 - #47 int
+INFO  05:36:59,484 - #47 bodovi
+INFO  05:36:59,484 - #34 ;
+INFO  05:36:59,484 - #47 bool
+INFO  05:36:59,484 - #47 bt
+INFO  05:36:59,484 - #34 ;
+INFO  05:36:59,484 - #42 {
+INFO  05:36:59,485 - #47 niz
+INFO  05:36:59,486 - #40 [
+INFO  05:36:59,487 - #45 1
+INFO  05:36:59,487 - #41 ]
+INFO  05:36:59,489 - #29 =
+INFO  05:36:59,491 - #47 jedan
+INFO  05:36:59,492 - #34 ;
+INFO  05:36:59,492 - #47 niz
+INFO  05:36:59,493 - #40 [
+INFO  05:36:59,493 - #45 1
+INFO  05:36:59,493 - #41 ]
+INFO  05:36:59,493 - #29 =
+INFO  05:36:59,493 - #45 2
+INFO  05:36:59,493 - #34 ;
+INFO  05:36:59,493 - #43 }
+INFO  05:36:59,493 - #43 }
+INFO  05:36:59,505 - ===================================
+INFO  05:36:59,505 - Deklarisana konstanta nula na liniji 5
+INFO  05:36:59,505 - Deklarisana konstanta jedan na liniji 6
+INFO  05:36:59,505 - Deklarisana konstanta pet na liniji 7
+INFO  05:36:59,506 - Deklarisana promenljiva niz na liniji 9
+INFO  05:36:59,506 - Deklarisana promenljiva nizch na liniji 10
+INFO  05:36:59,506 - Deklarisana promenljiva mat na liniji 11
+INFO  05:36:59,506 - Deklarisana promenljiva a na liniji 13
+INFO  05:36:59,506 - Obradjuje se funkcija main na liniji 15
+INFO  05:36:59,506 - Deklarisana promenljiva bodovi na liniji 16
+INFO  05:36:59,506 - Deklarisana promenljiva bt na liniji 17
+INFO  05:36:59,507 - niz rs.etf.pp1.symboltable.concepts.Struct@71a794e5 na liniji 21
+INFO  05:36:59,507 - te rs.etf.pp1.symboltable.concepts.Struct@76329302 na liniji 21
+INFO  05:36:59,507 - t rs.etf.pp1.symboltable.concepts.Struct@71a794e5 na liniji 21
+ERROR 05:36:59,507 - Nekompatibilni tiplovi u operaciji dodele niz na liniji 21
+INFO  05:36:59,507 - niz rs.etf.pp1.symboltable.concepts.Struct@71a794e5 na liniji 22
+INFO  05:36:59,507 - te rs.etf.pp1.symboltable.concepts.Struct@76329302 na liniji 22
+INFO  05:36:59,507 - t rs.etf.pp1.symboltable.concepts.Struct@71a794e5 na liniji 22
+ERROR 05:36:59,507 - Nekompatibilni tiplovi u operaciji dodele niz na liniji 22
+INFO  05:36:59,507 - ===================================
+ERROR 05:36:59,508 - Parsiranje NIJE uspesno zavrseno!

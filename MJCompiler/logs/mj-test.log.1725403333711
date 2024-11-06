@@ -1,0 +1,62 @@
+INFO  00:41:57,938 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:41:58,012 - #2 program
+INFO  00:41:58,013 - #47 test301
+INFO  00:41:58,013 - #6 const
+INFO  00:41:58,016 - #47 int
+INFO  00:41:58,017 - #47 nula
+INFO  00:41:58,018 - #29 =
+INFO  00:41:58,019 - #45 0
+INFO  00:41:58,019 - #34 ;
+INFO  00:41:58,021 - #6 const
+INFO  00:41:58,023 - #47 int
+INFO  00:41:58,023 - #47 jedan
+INFO  00:41:58,023 - #29 =
+INFO  00:41:58,023 - #45 1
+INFO  00:41:58,023 - #34 ;
+INFO  00:41:58,023 - #6 const
+INFO  00:41:58,024 - #47 int
+INFO  00:41:58,024 - #47 pet
+INFO  00:41:58,024 - #29 =
+INFO  00:41:58,024 - #45 5
+INFO  00:41:58,024 - #34 ;
+INFO  00:41:58,024 - #47 int
+INFO  00:41:58,024 - #47 niz
+INFO  00:41:58,043 - #40 [
+INFO  00:41:58,043 - #41 ]
+INFO  00:41:58,043 - #34 ;
+INFO  00:41:58,047 - #47 int
+INFO  00:41:58,048 - #47 a
+INFO  00:41:58,048 - #34 ;
+INFO  00:41:58,049 - #42 {
+INFO  00:41:58,050 - #12 void
+INFO  00:41:58,051 - #47 main
+INFO  00:41:58,052 - #38 (
+INFO  00:41:58,052 - #39 )
+INFO  00:41:58,053 - #42 {
+INFO  00:41:58,054 - #47 niz
+INFO  00:41:58,055 - #29 =
+INFO  00:41:58,055 - #8 new
+INFO  00:41:58,056 - #47 int
+INFO  00:41:58,057 - #40 [
+INFO  00:41:58,057 - #45 3
+INFO  00:41:58,057 - #41 ]
+INFO  00:41:58,061 - #34 ;
+INFO  00:41:58,061 - #47 niz
+INFO  00:41:58,061 - #40 [
+INFO  00:41:58,062 - #47 nula
+INFO  00:41:58,062 - #41 ]
+INFO  00:41:58,062 - #29 =
+INFO  00:41:58,063 - #47 jedan
+INFO  00:41:58,063 - #34 ;
+INFO  00:41:58,063 - #43 }
+INFO  00:41:58,063 - #43 }
+INFO  00:41:58,080 - ===================================
+INFO  00:41:58,080 - Deklarisana konstanta nula na liniji 3
+INFO  00:41:58,080 - Deklarisana konstanta jedan na liniji 4
+INFO  00:41:58,081 - Deklarisana konstanta pet na liniji 5
+INFO  00:41:58,081 - Deklarisana promenljiva niz na liniji 7
+INFO  00:41:58,081 - Deklarisana promenljiva a na liniji 8
+INFO  00:41:58,081 - Obradjuje se funkcija main na liniji 11
+ERROR 00:41:58,081 - Greska na liniji 15 : designator nije niz! 
+INFO  00:41:58,081 - ===================================
+ERROR 00:41:58,082 - Parsiranje NIJE uspesno zavrseno!

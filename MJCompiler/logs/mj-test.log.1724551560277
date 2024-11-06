@@ -1,0 +1,71 @@
+INFO  04:01:49,608 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  04:01:49,695 - #2 program
+INFO  04:01:49,695 - #47 test301
+INFO  04:01:49,695 - #6 const
+INFO  04:01:49,698 - #47 int
+INFO  04:01:49,698 - #47 nula
+INFO  04:01:49,699 - #29 =
+INFO  04:01:49,700 - #45 0
+INFO  04:01:49,700 - #34 ;
+INFO  04:01:49,702 - #6 const
+INFO  04:01:49,704 - #47 int
+INFO  04:01:49,704 - #47 jedan
+INFO  04:01:49,704 - #29 =
+INFO  04:01:49,704 - #45 1
+INFO  04:01:49,704 - #34 ;
+INFO  04:01:49,704 - #6 const
+INFO  04:01:49,705 - #47 int
+INFO  04:01:49,705 - #47 pet
+INFO  04:01:49,705 - #29 =
+INFO  04:01:49,705 - #45 5
+INFO  04:01:49,705 - #34 ;
+INFO  04:01:49,705 - #47 int
+INFO  04:01:49,705 - #47 niz
+INFO  04:01:49,707 - #40 [
+INFO  04:01:49,707 - #41 ]
+INFO  04:01:49,707 - #34 ;
+INFO  04:01:49,711 - #47 char
+INFO  04:01:49,712 - #47 nizch
+INFO  04:01:49,713 - #40 [
+INFO  04:01:49,713 - #41 ]
+INFO  04:01:49,713 - #34 ;
+INFO  04:01:49,713 - #47 int
+INFO  04:01:49,713 - #47 mat
+INFO  04:01:49,714 - #40 [
+INFO  04:01:49,714 - #41 ]
+INFO  04:01:49,714 - #40 [
+INFO  04:01:49,714 - #41 ]
+INFO  04:01:49,714 - #34 ;
+INFO  04:01:49,716 - #47 int
+INFO  04:01:49,716 - #47 a
+INFO  04:01:49,716 - #34 ;
+INFO  04:01:49,717 - #42 {
+INFO  04:01:49,718 - #12 void
+INFO  04:01:49,719 - #47 main
+INFO  04:01:49,721 - #38 (
+INFO  04:01:49,723 - #39 )
+INFO  04:01:49,725 - #47 int
+INFO  04:01:49,727 - #47 bodovi
+INFO  04:01:49,727 - #34 ;
+INFO  04:01:49,727 - #47 bool
+INFO  04:01:49,727 - #47 bt
+INFO  04:01:49,727 - #34 ;
+INFO  04:01:49,728 - #42 {
+INFO  04:01:49,728 - #47 bt
+INFO  04:01:49,729 - #30 ++
+INFO  04:01:49,733 - #34 ;
+INFO  04:01:49,733 - #43 }
+INFO  04:01:49,734 - #43 }
+INFO  04:01:49,746 - ===================================
+INFO  04:01:49,746 - Deklarisana konstanta nula na liniji 3
+INFO  04:01:49,746 - Deklarisana konstanta jedan na liniji 4
+INFO  04:01:49,746 - Deklarisana konstanta pet na liniji 5
+INFO  04:01:49,746 - Deklarisana promenljiva niz na liniji 7
+INFO  04:01:49,746 - Deklarisana promenljiva nizch na liniji 8
+INFO  04:01:49,746 - Deklarisana promenljiva mat na liniji 9
+INFO  04:01:49,747 - Deklarisana promenljiva a na liniji 11
+INFO  04:01:49,747 - Deklarisana promenljiva bodovi na liniji 15
+INFO  04:01:49,747 - Deklarisana promenljiva bt na liniji 16
+ERROR 04:01:49,747 - Greska na liniji 18 : designator nije ceo broj! 
+INFO  04:01:49,747 - ===================================
+ERROR 04:01:49,748 - Parsiranje NIJE uspesno zavrseno!

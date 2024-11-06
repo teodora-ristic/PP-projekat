@@ -1,0 +1,111 @@
+INFO  05:30:52,328 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  05:30:52,380 - #2 program
+INFO  05:30:52,381 - #47 test301
+INFO  05:30:52,381 - #6 const
+INFO  05:30:52,383 - #47 int
+INFO  05:30:52,383 - #47 nula
+INFO  05:30:52,383 - #29 =
+INFO  05:30:52,384 - #45 0
+INFO  05:30:52,384 - #34 ;
+INFO  05:30:52,385 - #6 const
+INFO  05:30:52,386 - #47 int
+INFO  05:30:52,386 - #47 jedan
+INFO  05:30:52,386 - #29 =
+INFO  05:30:52,386 - #45 1
+INFO  05:30:52,386 - #34 ;
+INFO  05:30:52,386 - #6 const
+INFO  05:30:52,387 - #47 int
+INFO  05:30:52,387 - #47 pet
+INFO  05:30:52,387 - #29 =
+INFO  05:30:52,387 - #45 5
+INFO  05:30:52,387 - #34 ;
+INFO  05:30:52,387 - #47 int
+INFO  05:30:52,387 - #47 niz
+INFO  05:30:52,390 - #40 [
+INFO  05:30:52,390 - #41 ]
+INFO  05:30:52,390 - #34 ;
+INFO  05:30:52,393 - #47 char
+INFO  05:30:52,394 - #47 nizch
+INFO  05:30:52,394 - #40 [
+INFO  05:30:52,394 - #41 ]
+INFO  05:30:52,394 - #34 ;
+INFO  05:30:52,394 - #47 int
+INFO  05:30:52,394 - #47 mat
+INFO  05:30:52,394 - #40 [
+INFO  05:30:52,394 - #41 ]
+INFO  05:30:52,394 - #40 [
+INFO  05:30:52,394 - #41 ]
+INFO  05:30:52,394 - #34 ;
+INFO  05:30:52,395 - #47 int
+INFO  05:30:52,395 - #47 a
+INFO  05:30:52,395 - #34 ;
+INFO  05:30:52,397 - #42 {
+INFO  05:30:52,397 - #12 void
+INFO  05:30:52,398 - #47 main
+INFO  05:30:52,398 - #38 (
+INFO  05:30:52,399 - #39 )
+INFO  05:30:52,401 - #47 int
+INFO  05:30:52,402 - #47 bodovi
+INFO  05:30:52,402 - #34 ;
+INFO  05:30:52,402 - #47 bool
+INFO  05:30:52,402 - #47 bt
+INFO  05:30:52,402 - #34 ;
+INFO  05:30:52,402 - #42 {
+INFO  05:30:52,402 - #47 bodovi
+INFO  05:30:52,403 - #29 =
+INFO  05:30:52,405 - #45 0
+INFO  05:30:52,406 - #34 ;
+INFO  05:30:52,411 - #47 bodovi
+INFO  05:30:52,411 - #30 ++
+INFO  05:30:52,411 - #34 ;
+INFO  05:30:52,411 - #47 bodovi
+INFO  05:30:52,411 - #29 =
+INFO  05:30:52,412 - #47 bodovi
+INFO  05:30:52,412 - #31 +
+INFO  05:30:52,412 - #47 jedan
+INFO  05:30:52,413 - #34 ;
+INFO  05:30:52,413 - #47 bodovi
+INFO  05:30:52,413 - #29 =
+INFO  05:30:52,414 - #47 bodovi
+INFO  05:30:52,414 - #17 *
+INFO  05:30:52,414 - #47 pet
+INFO  05:30:52,415 - #34 ;
+INFO  05:30:52,415 - #47 bodovi
+INFO  05:30:52,415 - #32 --
+INFO  05:30:52,415 - #34 ;
+INFO  05:30:52,415 - #9 print
+INFO  05:30:52,415 - #38 (
+INFO  05:30:52,415 - #47 bodovi
+INFO  05:30:52,415 - #39 )
+INFO  05:30:52,415 - #34 ;
+INFO  05:30:52,415 - #47 bt
+INFO  05:30:52,416 - #29 =
+INFO  05:30:52,416 - #8 new
+INFO  05:30:52,416 - #47 int
+INFO  05:30:52,416 - #40 [
+INFO  05:30:52,416 - #45 3
+INFO  05:30:52,416 - #41 ]
+INFO  05:30:52,416 - #34 ;
+INFO  05:30:52,416 - #43 }
+INFO  05:30:52,416 - #43 }
+INFO  05:30:52,428 - ===================================
+INFO  05:30:52,429 - Deklarisana konstanta nula na liniji 5
+INFO  05:30:52,429 - Deklarisana konstanta jedan na liniji 6
+INFO  05:30:52,429 - Deklarisana konstanta pet na liniji 7
+INFO  05:30:52,429 - Deklarisana promenljiva niz na liniji 9
+INFO  05:30:52,429 - Deklarisana promenljiva nizch na liniji 10
+INFO  05:30:52,429 - Deklarisana promenljiva mat na liniji 11
+INFO  05:30:52,429 - Deklarisana promenljiva a na liniji 13
+INFO  05:30:52,429 - Obradjuje se funkcija main na liniji 15
+INFO  05:30:52,429 - Deklarisana promenljiva bodovi na liniji 16
+INFO  05:30:52,429 - Deklarisana promenljiva bt na liniji 17
+INFO  05:30:52,430 - te rs.etf.pp1.symboltable.concepts.Struct@3e77a1ed na liniji 19
+INFO  05:30:52,430 - t rs.etf.pp1.symboltable.concepts.Struct@3e77a1ed na liniji 19
+INFO  05:30:52,430 - te rs.etf.pp1.symboltable.concepts.Struct@3e77a1ed na liniji 21
+INFO  05:30:52,430 - t rs.etf.pp1.symboltable.concepts.Struct@3e77a1ed na liniji 21
+INFO  05:30:52,430 - te rs.etf.pp1.symboltable.concepts.Struct@3e77a1ed na liniji 22
+INFO  05:30:52,430 - t rs.etf.pp1.symboltable.concepts.Struct@3e77a1ed na liniji 22
+INFO  05:30:52,430 - te rs.etf.pp1.symboltable.concepts.Struct@3ffcd140 na liniji 26
+INFO  05:30:52,430 - t null na liniji 26
+INFO  05:30:52,430 - ===================================
+INFO  05:30:52,431 - Parsiranje uspesno zavrseno!

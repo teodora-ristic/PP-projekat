@@ -1,0 +1,217 @@
+INFO  20:45:32,334 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:45:32,395 - #2 program
+INFO  20:45:32,396 - #47 test301
+INFO  20:45:32,396 - #6 const
+INFO  20:45:32,397 - #47 int
+INFO  20:45:32,397 - #47 nula
+INFO  20:45:32,397 - #29 =
+INFO  20:45:32,397 - #45 0
+INFO  20:45:32,397 - #34 ;
+ERROR 20:45:32,397 - 
+Sintaksna greska na liniji 5
+INFO  20:45:32,397 - #6 const
+INFO  20:45:32,397 - #47 int
+INFO  20:45:32,397 - #47 jedan
+ERROR 20:45:32,398 - Izvrsen oporavak do ; u liniji 5
+INFO  20:45:32,399 - #29 =
+INFO  20:45:32,399 - #45 1
+INFO  20:45:32,399 - #34 ;
+ERROR 20:45:32,399 - 
+Sintaksna greska na liniji 6
+INFO  20:45:32,399 - #6 const
+INFO  20:45:32,399 - #47 int
+INFO  20:45:32,400 - #47 pet
+ERROR 20:45:32,400 - Izvrsen oporavak do ; u liniji 6
+INFO  20:45:32,400 - #29 =
+INFO  20:45:32,400 - #45 5
+INFO  20:45:32,400 - #34 ;
+ERROR 20:45:32,400 - 
+Sintaksna greska na liniji 7
+INFO  20:45:32,400 - #47 int
+INFO  20:45:32,400 - #47 niz
+INFO  20:45:32,400 - #40 [
+ERROR 20:45:32,400 - Izvrsen oporavak do ; u liniji 7
+INFO  20:45:32,400 - #41 ]
+INFO  20:45:32,401 - #34 ;
+ERROR 20:45:32,401 - 
+Sintaksna greska na liniji 9
+INFO  20:45:32,401 - #47 char
+INFO  20:45:32,401 - #47 nizch
+INFO  20:45:32,401 - #40 [
+ERROR 20:45:32,401 - Izvrsen oporavak do ; u liniji 9
+INFO  20:45:32,402 - #41 ]
+INFO  20:45:32,402 - #34 ;
+ERROR 20:45:32,402 - 
+Sintaksna greska na liniji 10
+INFO  20:45:32,402 - #47 int
+INFO  20:45:32,402 - #47 mat
+INFO  20:45:32,402 - #40 [
+ERROR 20:45:32,402 - Izvrsen oporavak do ; u liniji 10
+INFO  20:45:32,402 - #41 ]
+INFO  20:45:32,402 - #40 [
+INFO  20:45:32,402 - #41 ]
+INFO  20:45:32,402 - #34 ;
+ERROR 20:45:32,402 - 
+Sintaksna greska na liniji 11
+INFO  20:45:32,402 - #47 int
+INFO  20:45:32,404 - #47 a
+INFO  20:45:32,404 - #36 ,
+ERROR 20:45:32,404 - Izvrsen oporavak do ; u liniji 11
+ERROR 20:45:32,404 - 
+Sintaksna greska na liniji 13
+INFO  20:45:32,404 - #34 ;
+INFO  20:45:32,404 - #42 {
+INFO  20:45:32,404 - #12 void
+INFO  20:45:32,404 - #47 main
+ERROR 20:45:32,404 - Izvrsen oporavak do ; u liniji 13
+INFO  20:45:32,406 - #38 (
+INFO  20:45:32,406 - #39 )
+INFO  20:45:32,406 - #47 int
+INFO  20:45:32,406 - #47 bodovi
+INFO  20:45:32,406 - #34 ;
+ERROR 20:45:32,406 - 
+Sintaksna greska na liniji 17
+INFO  20:45:32,406 - #47 bool
+INFO  20:45:32,406 - #47 bt
+INFO  20:45:32,406 - #34 ;
+ERROR 20:45:32,407 - Izvrsen oporavak do ; u liniji 17
+ERROR 20:45:32,407 - 
+Sintaksna greska na liniji 18
+INFO  20:45:32,407 - #42 {
+INFO  20:45:32,407 - #43 }
+INFO  20:45:32,407 - #43 }
+ERROR 20:45:32,407 - Izvrsen oporavak do ; u liniji 18
+INFO  20:45:32,408 - ProgramDerived1(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclListDerived1(
+    DeclListDerived1(
+      DeclListDerived1(
+        DeclListDerived1(
+          DeclListDerived1(
+            DeclListDerived1(
+              DeclListDerived1(
+                DeclListDerived2(
+                ) [DeclListDerived2]
+                DeclDerived1(
+                  ConstDeclDerived1(
+                    TypeDerived2(
+                     int
+                    ) [TypeDerived2]
+                   nula
+                    ConstDerived1(
+                     0
+                    ) [ConstDerived1]
+                    ConstDeclListDerived3(
+                    ) [ConstDeclListDerived3]
+                  ) [ConstDeclDerived1]
+                ) [DeclDerived1]
+              ) [DeclListDerived1]
+              DeclDerived1(
+                ConstDeclDerived1(
+                  TypeDerived2(
+                   int
+                  ) [TypeDerived2]
+                 jedan
+                  ConstDerived1(
+                   1
+                  ) [ConstDerived1]
+                  ConstDeclListDerived3(
+                  ) [ConstDeclListDerived3]
+                ) [ConstDeclDerived1]
+              ) [DeclDerived1]
+            ) [DeclListDerived1]
+            DeclDerived1(
+              ConstDeclDerived1(
+                TypeDerived2(
+                 int
+                ) [TypeDerived2]
+               pet
+                ConstDerived1(
+                 5
+                ) [ConstDerived1]
+                ConstDeclListDerived3(
+                ) [ConstDeclListDerived3]
+              ) [ConstDeclDerived1]
+            ) [DeclDerived1]
+          ) [DeclListDerived1]
+          DeclDerived2(
+            VarDeclDerived1(
+              TypeDerived2(
+               int
+              ) [TypeDerived2]
+             niz
+              VarDeclRListDerived3(
+              ) [VarDeclRListDerived3]
+            ) [VarDeclDerived1]
+          ) [DeclDerived2]
+        ) [DeclListDerived1]
+        DeclDerived2(
+          VarDeclDerived1(
+            TypeDerived2(
+             char
+            ) [TypeDerived2]
+           nizch
+            VarDeclRListDerived3(
+            ) [VarDeclRListDerived3]
+          ) [VarDeclDerived1]
+        ) [DeclDerived2]
+      ) [DeclListDerived1]
+      DeclDerived2(
+        VarDeclDerived3(
+          TypeDerived2(
+           int
+          ) [TypeDerived2]
+         mat
+          VarDeclRListDerived3(
+          ) [VarDeclRListDerived3]
+        ) [VarDeclDerived3]
+      ) [DeclDerived2]
+    ) [DeclListDerived1]
+    DeclDerived2(
+      VarDeclDerived2(
+        TypeDerived2(
+         int
+        ) [TypeDerived2]
+       a
+        VarDeclRListDerived3(
+        ) [VarDeclRListDerived3]
+      ) [VarDeclDerived2]
+    ) [DeclDerived2]
+  ) [DeclListDerived1]
+  MethodDeclListDerived1(
+    MethodDeclListDerived2(
+    ) [MethodDeclListDerived2]
+    MethodDeclDerived2(
+      BeforeDerived2(
+      ) [BeforeDerived2]
+     main
+      VarDeclListDerived1(
+        VarDeclListDerived1(
+          VarDeclListDerived2(
+          ) [VarDeclListDerived2]
+          VarDeclDerived2(
+            TypeDerived2(
+             int
+            ) [TypeDerived2]
+           bodovi
+            VarDeclRListDerived3(
+            ) [VarDeclRListDerived3]
+          ) [VarDeclDerived2]
+        ) [VarDeclListDerived1]
+        VarDeclDerived2(
+          TypeDerived2(
+           bool
+          ) [TypeDerived2]
+         bt
+          VarDeclRListDerived3(
+          ) [VarDeclRListDerived3]
+        ) [VarDeclDerived2]
+      ) [VarDeclListDerived1]
+      StatementListDerived2(
+      ) [StatementListDerived2]
+    ) [MethodDeclDerived2]
+  ) [MethodDeclListDerived1]
+) [ProgramDerived1]
+INFO  20:45:32,408 - ===================================

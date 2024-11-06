@@ -1,0 +1,73 @@
+INFO  04:13:17,891 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  04:13:17,952 - #2 program
+INFO  04:13:17,952 - #47 test301
+INFO  04:13:17,952 - #6 const
+INFO  04:13:17,955 - #47 int
+INFO  04:13:17,955 - #47 nula
+INFO  04:13:17,956 - #29 =
+INFO  04:13:17,956 - #45 0
+INFO  04:13:17,957 - #34 ;
+INFO  04:13:17,958 - #6 const
+INFO  04:13:17,958 - #47 int
+INFO  04:13:17,958 - #47 jedan
+INFO  04:13:17,960 - #29 =
+INFO  04:13:17,960 - #45 1
+INFO  04:13:17,960 - #34 ;
+INFO  04:13:17,960 - #6 const
+INFO  04:13:17,960 - #47 int
+INFO  04:13:17,960 - #47 pet
+INFO  04:13:17,960 - #29 =
+INFO  04:13:17,960 - #45 5
+INFO  04:13:17,960 - #34 ;
+INFO  04:13:17,960 - #47 int
+INFO  04:13:17,960 - #47 niz
+INFO  04:13:17,961 - #40 [
+INFO  04:13:17,961 - #41 ]
+INFO  04:13:17,961 - #34 ;
+INFO  04:13:17,962 - #47 char
+INFO  04:13:17,965 - #47 nizch
+INFO  04:13:17,965 - #40 [
+INFO  04:13:17,965 - #41 ]
+INFO  04:13:17,965 - #34 ;
+INFO  04:13:17,965 - #47 int
+INFO  04:13:17,965 - #47 mat
+INFO  04:13:17,965 - #40 [
+INFO  04:13:17,965 - #41 ]
+INFO  04:13:17,965 - #40 [
+INFO  04:13:17,966 - #41 ]
+INFO  04:13:17,966 - #34 ;
+INFO  04:13:17,967 - #47 int
+INFO  04:13:17,967 - #47 a
+INFO  04:13:17,967 - #34 ;
+INFO  04:13:17,968 - #42 {
+INFO  04:13:17,968 - #12 void
+INFO  04:13:17,969 - #47 main
+INFO  04:13:17,970 - #38 (
+INFO  04:13:17,971 - #39 )
+INFO  04:13:17,972 - #47 int
+INFO  04:13:17,973 - #47 bodovi
+INFO  04:13:17,974 - #34 ;
+INFO  04:13:17,974 - #47 bool
+INFO  04:13:17,974 - #47 bt
+INFO  04:13:17,974 - #34 ;
+INFO  04:13:17,974 - #42 {
+INFO  04:13:17,974 - #9 print
+INFO  04:13:17,975 - #38 (
+INFO  04:13:17,975 - #47 bodovi
+INFO  04:13:17,975 - #39 )
+INFO  04:13:17,980 - #34 ;
+INFO  04:13:17,980 - #43 }
+INFO  04:13:17,980 - #43 }
+INFO  04:13:17,991 - ===================================
+INFO  04:13:17,991 - Deklarisana konstanta nula na liniji 3
+INFO  04:13:17,991 - Deklarisana konstanta jedan na liniji 4
+INFO  04:13:17,991 - Deklarisana konstanta pet na liniji 5
+INFO  04:13:17,991 - Deklarisana promenljiva niz na liniji 7
+INFO  04:13:17,991 - Deklarisana promenljiva nizch na liniji 8
+INFO  04:13:17,991 - Deklarisana promenljiva mat na liniji 9
+INFO  04:13:17,991 - Deklarisana promenljiva a na liniji 12
+INFO  04:13:17,991 - Deklarisana promenljiva bodovi na liniji 16
+INFO  04:13:17,992 - Deklarisana promenljiva bt na liniji 17
+ERROR 04:13:17,992 - Greska na liniji 19 : expr nije int, char ili bool! null
+INFO  04:13:17,992 - ===================================
+ERROR 04:13:17,992 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,82 @@
+INFO  20:06:29,524 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:06:29,611 - #2 program
+INFO  20:06:29,612 - #47 test301
+INFO  20:06:29,612 - #6 const
+INFO  20:06:29,615 - #47 int
+INFO  20:06:29,615 - #47 nula
+INFO  20:06:29,617 - #29 =
+INFO  20:06:29,617 - #45 0
+INFO  20:06:29,617 - #34 ;
+INFO  20:06:29,618 - #6 const
+INFO  20:06:29,620 - #47 int
+INFO  20:06:29,620 - #47 jedan
+INFO  20:06:29,620 - #29 =
+INFO  20:06:29,621 - #45 1
+INFO  20:06:29,621 - #34 ;
+INFO  20:06:29,621 - #6 const
+INFO  20:06:29,621 - #47 int
+INFO  20:06:29,621 - #47 pet
+INFO  20:06:29,621 - #29 =
+INFO  20:06:29,621 - #45 5
+INFO  20:06:29,621 - #34 ;
+INFO  20:06:29,621 - #47 int
+INFO  20:06:29,622 - #47 niz
+INFO  20:06:29,641 - #40 [
+INFO  20:06:29,641 - #41 ]
+INFO  20:06:29,641 - #34 ;
+INFO  20:06:29,644 - #47 char
+INFO  20:06:29,645 - #47 nizch
+INFO  20:06:29,645 - #40 [
+INFO  20:06:29,645 - #41 ]
+INFO  20:06:29,645 - #34 ;
+INFO  20:06:29,646 - #47 int
+INFO  20:06:29,646 - #47 mat
+INFO  20:06:29,646 - #40 [
+INFO  20:06:29,646 - #41 ]
+INFO  20:06:29,646 - #40 [
+INFO  20:06:29,646 - #41 ]
+INFO  20:06:29,646 - #34 ;
+INFO  20:06:29,648 - #47 int
+INFO  20:06:29,648 - #47 a
+INFO  20:06:29,648 - #34 ;
+INFO  20:06:29,649 - #42 {
+INFO  20:06:29,650 - #12 void
+INFO  20:06:29,651 - #47 main
+INFO  20:06:29,652 - #38 (
+INFO  20:06:29,655 - #39 )
+INFO  20:06:29,657 - #47 int
+INFO  20:06:29,658 - #47 bodovi
+INFO  20:06:29,659 - #34 ;
+INFO  20:06:29,659 - #47 bool
+INFO  20:06:29,659 - #47 bt
+INFO  20:06:29,659 - #34 ;
+INFO  20:06:29,659 - #42 {
+INFO  20:06:29,659 - #43 }
+INFO  20:06:29,661 - #12 void
+INFO  20:06:29,663 - #47 ma
+INFO  20:06:29,663 - #38 (
+INFO  20:06:29,663 - #39 )
+INFO  20:06:29,663 - #42 {
+INFO  20:06:29,663 - #43 }
+INFO  20:06:29,663 - #12 void
+INFO  20:06:29,663 - #47 ma
+INFO  20:06:29,663 - #38 (
+INFO  20:06:29,663 - #39 )
+INFO  20:06:29,664 - #42 {
+INFO  20:06:29,664 - #43 }
+INFO  20:06:29,664 - #43 }
+INFO  20:06:29,679 - ===================================
+INFO  20:06:29,680 - Deklarisana konstanta nula na liniji 3
+INFO  20:06:29,680 - Deklarisana konstanta jedan na liniji 4
+INFO  20:06:29,680 - Deklarisana konstanta pet na liniji 5
+INFO  20:06:29,680 - Deklarisana promenljiva niz na liniji 7
+INFO  20:06:29,680 - Deklarisana promenljiva nizch na liniji 8
+INFO  20:06:29,680 - Deklarisana promenljiva mat na liniji 9
+INFO  20:06:29,680 - Deklarisana promenljiva a na liniji 11
+ERROR 20:06:29,680 - Vec postoji metoda sa zadatim imenom main na liniji 14
+INFO  20:06:29,680 - Deklarisana promenljiva bodovi na liniji 15
+INFO  20:06:29,681 - Deklarisana promenljiva bt na liniji 16
+ERROR 20:06:29,681 - Vec postoji metoda sa zadatim imenom ma na liniji 24
+ERROR 20:06:29,681 - Vec postoji metoda sa zadatim imenom ma na liniji 28
+INFO  20:06:29,681 - ===================================
+ERROR 20:06:29,682 - Parsiranje NIJE uspesno zavrseno!

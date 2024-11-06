@@ -1,0 +1,105 @@
+INFO  04:30:11,984 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  04:30:12,053 - #2 program
+INFO  04:30:12,053 - #47 test301
+INFO  04:30:12,055 - #6 const
+INFO  04:30:12,056 - #47 int
+INFO  04:30:12,056 - #47 nula
+INFO  04:30:12,057 - #29 =
+INFO  04:30:12,057 - #45 0
+INFO  04:30:12,057 - #34 ;
+INFO  04:30:12,058 - #6 const
+INFO  04:30:12,059 - #47 int
+INFO  04:30:12,060 - #47 jedan
+INFO  04:30:12,060 - #29 =
+INFO  04:30:12,060 - #45 1
+INFO  04:30:12,060 - #34 ;
+INFO  04:30:12,060 - #6 const
+INFO  04:30:12,060 - #47 int
+INFO  04:30:12,060 - #47 pet
+INFO  04:30:12,060 - #29 =
+INFO  04:30:12,060 - #45 5
+INFO  04:30:12,060 - #34 ;
+INFO  04:30:12,060 - #47 int
+INFO  04:30:12,060 - #47 niz
+INFO  04:30:12,080 - #40 [
+INFO  04:30:12,080 - #41 ]
+INFO  04:30:12,080 - #34 ;
+INFO  04:30:12,083 - #47 char
+INFO  04:30:12,085 - #47 nizch
+INFO  04:30:12,085 - #40 [
+INFO  04:30:12,085 - #41 ]
+INFO  04:30:12,085 - #34 ;
+INFO  04:30:12,085 - #47 int
+INFO  04:30:12,085 - #47 mat
+INFO  04:30:12,085 - #40 [
+INFO  04:30:12,085 - #41 ]
+INFO  04:30:12,085 - #40 [
+INFO  04:30:12,085 - #41 ]
+INFO  04:30:12,086 - #34 ;
+INFO  04:30:12,087 - #47 int
+INFO  04:30:12,087 - #47 a
+INFO  04:30:12,087 - #34 ;
+INFO  04:30:12,088 - #47 float
+INFO  04:30:12,088 - #47 x
+INFO  04:30:12,088 - #34 ;
+INFO  04:30:12,088 - #42 {
+INFO  04:30:12,088 - #12 void
+INFO  04:30:12,091 - #47 main
+INFO  04:30:12,092 - #38 (
+INFO  04:30:12,093 - #39 )
+INFO  04:30:12,094 - #47 int
+INFO  04:30:12,096 - #47 bodovi
+INFO  04:30:12,096 - #34 ;
+INFO  04:30:12,096 - #47 bool
+INFO  04:30:12,097 - #47 bt
+INFO  04:30:12,097 - #34 ;
+INFO  04:30:12,097 - #42 {
+INFO  04:30:12,097 - #47 bodovi
+INFO  04:30:12,098 - #29 =
+INFO  04:30:12,100 - #45 0
+INFO  04:30:12,102 - #34 ;
+INFO  04:30:12,106 - #47 bodovi
+INFO  04:30:12,107 - #30 ++
+INFO  04:30:12,107 - #34 ;
+INFO  04:30:12,107 - #47 bodovi
+INFO  04:30:12,107 - #29 =
+INFO  04:30:12,107 - #47 bodovi
+INFO  04:30:12,107 - #31 +
+INFO  04:30:12,108 - #47 jedan
+INFO  04:30:12,109 - #34 ;
+INFO  04:30:12,109 - #47 bodovi
+INFO  04:30:12,109 - #29 =
+INFO  04:30:12,109 - #47 bodovi
+INFO  04:30:12,109 - #17 *
+INFO  04:30:12,109 - #47 pet
+INFO  04:30:12,112 - #34 ;
+INFO  04:30:12,112 - #47 bodovi
+INFO  04:30:12,112 - #32 --
+INFO  04:30:12,112 - #34 ;
+INFO  04:30:12,112 - #9 print
+INFO  04:30:12,112 - #38 (
+INFO  04:30:12,112 - #47 bodovi
+INFO  04:30:12,113 - #39 )
+INFO  04:30:12,113 - #34 ;
+INFO  04:30:12,113 - #10 read
+INFO  04:30:12,113 - #38 (
+INFO  04:30:12,113 - #47 bt
+INFO  04:30:12,113 - #39 )
+INFO  04:30:12,113 - #34 ;
+INFO  04:30:12,113 - #43 }
+INFO  04:30:12,113 - #43 }
+INFO  04:30:12,124 - ===================================
+INFO  04:30:12,125 - Deklarisana konstanta nula na liniji 5
+INFO  04:30:12,125 - Deklarisana konstanta jedan na liniji 6
+INFO  04:30:12,125 - Deklarisana konstanta pet na liniji 7
+INFO  04:30:12,125 - Deklarisana promenljiva niz na liniji 9
+INFO  04:30:12,125 - Deklarisana promenljiva nizch na liniji 10
+INFO  04:30:12,125 - Deklarisana promenljiva mat na liniji 11
+INFO  04:30:12,125 - Deklarisana promenljiva a na liniji 13
+ERROR 04:30:12,125 - Nije pronadjen tip float u tabeli simbola! 
+INFO  04:30:12,125 - Deklarisana promenljiva x na liniji 14
+INFO  04:30:12,125 - Obradjuje se funkcija main na liniji 16
+INFO  04:30:12,126 - Deklarisana promenljiva bodovi na liniji 17
+INFO  04:30:12,126 - Deklarisana promenljiva bt na liniji 18
+INFO  04:30:12,126 - ===================================
+ERROR 04:30:12,127 - Parsiranje NIJE uspesno zavrseno!

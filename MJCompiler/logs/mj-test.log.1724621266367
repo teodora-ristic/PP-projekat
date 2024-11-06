@@ -1,0 +1,86 @@
+INFO  23:27:00,672 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:27:00,719 - #2 program
+INFO  23:27:00,719 - #47 test301
+INFO  23:27:00,719 - #6 const
+INFO  23:27:00,720 - #47 int
+INFO  23:27:00,720 - #47 nula
+INFO  23:27:00,721 - #29 =
+INFO  23:27:00,721 - #45 0
+INFO  23:27:00,721 - #34 ;
+INFO  23:27:00,722 - #6 const
+INFO  23:27:00,723 - #47 int
+INFO  23:27:00,723 - #47 jedan
+INFO  23:27:00,723 - #29 =
+INFO  23:27:00,723 - #45 1
+INFO  23:27:00,723 - #34 ;
+INFO  23:27:00,723 - #6 const
+INFO  23:27:00,724 - #47 int
+INFO  23:27:00,724 - #47 pet
+INFO  23:27:00,724 - #29 =
+INFO  23:27:00,724 - #45 5
+INFO  23:27:00,724 - #34 ;
+INFO  23:27:00,724 - #47 int
+INFO  23:27:00,724 - #47 niz
+INFO  23:27:00,726 - #40 [
+INFO  23:27:00,726 - #41 ]
+INFO  23:27:00,726 - #34 ;
+INFO  23:27:00,729 - #47 char
+INFO  23:27:00,730 - #47 nizch
+INFO  23:27:00,730 - #40 [
+INFO  23:27:00,730 - #41 ]
+INFO  23:27:00,730 - #34 ;
+INFO  23:27:00,730 - #47 int
+INFO  23:27:00,730 - #47 mat
+INFO  23:27:00,730 - #40 [
+INFO  23:27:00,730 - #41 ]
+INFO  23:27:00,731 - #40 [
+INFO  23:27:00,731 - #41 ]
+INFO  23:27:00,731 - #34 ;
+INFO  23:27:00,731 - #47 int
+INFO  23:27:00,731 - #47 a
+INFO  23:27:00,731 - #34 ;
+INFO  23:27:00,732 - #47 float
+INFO  23:27:00,732 - #47 x
+INFO  23:27:00,732 - #29 =
+ERROR 23:27:00,732 - 
+Sintaksna greska na liniji 14
+INFO  23:27:00,732 - #45 1
+INFO  23:27:00,732 - #37 .
+INFO  23:27:00,733 - #45 1
+INFO  23:27:00,733 - #34 ;
+INFO  23:27:00,733 - #42 {
+INFO  23:27:00,734 - #12 void
+INFO  23:27:00,734 - #47 main
+ERROR 23:27:00,734 - Izvrsen oporavak od greske prilikom deklaracije promenljive do ; u liniji 14
+INFO  23:27:00,735 - #38 (
+INFO  23:27:00,736 - #39 )
+INFO  23:27:00,736 - #47 int
+INFO  23:27:00,737 - #47 bodovi
+INFO  23:27:00,737 - #34 ;
+INFO  23:27:00,737 - #47 bool
+INFO  23:27:00,737 - #47 bt
+INFO  23:27:00,737 - #34 ;
+INFO  23:27:00,737 - #42 {
+INFO  23:27:00,737 - #9 print
+INFO  23:27:00,738 - #38 (
+INFO  23:27:00,738 - #47 x
+INFO  23:27:00,738 - #39 )
+INFO  23:27:00,741 - #34 ;
+INFO  23:27:00,741 - #43 }
+INFO  23:27:00,741 - #43 }
+INFO  23:27:00,749 - ===================================
+INFO  23:27:00,750 - Deklarisana konstanta nula na liniji 5
+INFO  23:27:00,750 - Deklarisana konstanta jedan na liniji 6
+INFO  23:27:00,750 - Deklarisana konstanta pet na liniji 7
+INFO  23:27:00,750 - Deklarisana promenljiva niz na liniji 9
+INFO  23:27:00,750 - Deklarisana promenljiva nizch na liniji 10
+INFO  23:27:00,750 - Deklarisana promenljiva mat na liniji 11
+INFO  23:27:00,750 - Deklarisana promenljiva a na liniji 13
+ERROR 23:27:00,750 - Nije pronadjen tip float u tabeli simbola! 
+INFO  23:27:00,750 - Obradjuje se funkcija main na liniji 17
+INFO  23:27:00,750 - Deklarisana promenljiva bodovi na liniji 18
+INFO  23:27:00,750 - Deklarisana promenljiva bt na liniji 19
+ERROR 23:27:00,750 - Greska na liniji 21 : ime x nije deklarisano! 
+ERROR 23:27:00,750 - Greska na liniji 21: nekompatibilni tipovi u izrazu!
+INFO  23:27:00,750 - ===================================
+ERROR 23:27:00,751 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,189 @@
+INFO  20:11:05,863 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:11:05,908 - #2 program
+INFO  20:11:05,909 - #47 test301
+INFO  20:11:05,909 - #6 const
+INFO  20:11:05,910 - #47 int
+INFO  20:11:05,910 - #47 nula
+INFO  20:11:05,910 - #45 0
+ERROR 20:11:05,910 - 
+Sintaksna greska na liniji 5
+INFO  20:11:05,910 - #34 ;
+INFO  20:11:05,910 - #6 const
+INFO  20:11:05,910 - #47 int
+INFO  20:11:05,911 - #47 jedan
+INFO  20:11:05,911 - #29 =
+ERROR 20:11:05,911 - Izvrsen oporavak do ; u liniji 8
+INFO  20:11:05,912 - #45 1
+INFO  20:11:05,912 - #34 ;
+INFO  20:11:05,914 - #6 const
+INFO  20:11:05,914 - #47 int
+INFO  20:11:05,914 - #47 pet
+INFO  20:11:05,914 - #29 =
+INFO  20:11:05,914 - #45 5
+INFO  20:11:05,915 - #34 ;
+INFO  20:11:05,915 - #47 int
+INFO  20:11:05,915 - #47 niz
+INFO  20:11:05,915 - #40 [
+INFO  20:11:05,915 - #41 ]
+INFO  20:11:05,915 - #34 ;
+INFO  20:11:05,916 - #47 char
+INFO  20:11:05,917 - #47 nizch
+INFO  20:11:05,917 - #40 [
+INFO  20:11:05,917 - #41 ]
+INFO  20:11:05,917 - #34 ;
+INFO  20:11:05,917 - #47 int
+INFO  20:11:05,917 - #47 mat
+INFO  20:11:05,917 - #40 [
+INFO  20:11:05,917 - #41 ]
+INFO  20:11:05,917 - #40 [
+INFO  20:11:05,917 - #41 ]
+INFO  20:11:05,917 - #34 ;
+INFO  20:11:05,917 - #47 int
+INFO  20:11:05,917 - #47 a
+INFO  20:11:05,918 - #36 ,
+INFO  20:11:05,918 - #47 b
+INFO  20:11:05,918 - #34 ;
+INFO  20:11:05,918 - #42 {
+INFO  20:11:05,918 - #12 void
+INFO  20:11:05,920 - #47 main
+INFO  20:11:05,921 - #38 (
+INFO  20:11:05,921 - #39 )
+INFO  20:11:05,921 - #47 int
+INFO  20:11:05,922 - #47 bodovi
+INFO  20:11:05,922 - #34 ;
+INFO  20:11:05,922 - #47 bool
+INFO  20:11:05,922 - #47 bt
+INFO  20:11:05,923 - #34 ;
+INFO  20:11:05,923 - #42 {
+INFO  20:11:05,923 - #43 }
+INFO  20:11:05,925 - #43 }
+INFO  20:11:05,926 - ProgramDerived1(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclListDerived1(
+    DeclListDerived1(
+      DeclListDerived1(
+        DeclListDerived1(
+          DeclListDerived1(
+            DeclListDerived1(
+              DeclListDerived1(
+                DeclListDerived2(
+                ) [DeclListDerived2]
+                DeclDerived2(
+                  VarDeclDerived4(
+                  ) [VarDeclDerived4]
+                ) [DeclDerived2]
+              ) [DeclListDerived1]
+              DeclDerived1(
+                ConstDeclDerived1(
+                  TypeDerived2(
+                   int
+                  ) [TypeDerived2]
+                 jedan
+                  ConstDerived1(
+                   1
+                  ) [ConstDerived1]
+                  ConstDeclListDerived2(
+                  ) [ConstDeclListDerived2]
+                ) [ConstDeclDerived1]
+              ) [DeclDerived1]
+            ) [DeclListDerived1]
+            DeclDerived1(
+              ConstDeclDerived1(
+                TypeDerived2(
+                 int
+                ) [TypeDerived2]
+               pet
+                ConstDerived1(
+                 5
+                ) [ConstDerived1]
+                ConstDeclListDerived2(
+                ) [ConstDeclListDerived2]
+              ) [ConstDeclDerived1]
+            ) [DeclDerived1]
+          ) [DeclListDerived1]
+          DeclDerived2(
+            VarDeclDerived1(
+              TypeDerived2(
+               int
+              ) [TypeDerived2]
+             niz
+              VarDeclRListDerived2(
+              ) [VarDeclRListDerived2]
+            ) [VarDeclDerived1]
+          ) [DeclDerived2]
+        ) [DeclListDerived1]
+        DeclDerived2(
+          VarDeclDerived1(
+            TypeDerived2(
+             char
+            ) [TypeDerived2]
+           nizch
+            VarDeclRListDerived2(
+            ) [VarDeclRListDerived2]
+          ) [VarDeclDerived1]
+        ) [DeclDerived2]
+      ) [DeclListDerived1]
+      DeclDerived2(
+        VarDeclDerived3(
+          TypeDerived2(
+           int
+          ) [TypeDerived2]
+         mat
+          VarDeclRListDerived2(
+          ) [VarDeclRListDerived2]
+        ) [VarDeclDerived3]
+      ) [DeclDerived2]
+    ) [DeclListDerived1]
+    DeclDerived2(
+      VarDeclDerived2(
+        TypeDerived2(
+         int
+        ) [TypeDerived2]
+       a
+        VarDeclRListDerived1(
+          VarDeclRListDerived2(
+          ) [VarDeclRListDerived2]
+          VarDeclRDerived2(
+           b
+          ) [VarDeclRDerived2]
+        ) [VarDeclRListDerived1]
+      ) [VarDeclDerived2]
+    ) [DeclDerived2]
+  ) [DeclListDerived1]
+  MethodDeclListDerived1(
+    MethodDeclListDerived2(
+    ) [MethodDeclListDerived2]
+    MethodDeclDerived2(
+      BeforeDerived2(
+      ) [BeforeDerived2]
+     main
+      VarDeclListDerived1(
+        VarDeclListDerived1(
+          VarDeclListDerived2(
+          ) [VarDeclListDerived2]
+          VarDeclDerived2(
+            TypeDerived2(
+             int
+            ) [TypeDerived2]
+           bodovi
+            VarDeclRListDerived2(
+            ) [VarDeclRListDerived2]
+          ) [VarDeclDerived2]
+        ) [VarDeclListDerived1]
+        VarDeclDerived2(
+          TypeDerived2(
+           bool
+          ) [TypeDerived2]
+         bt
+          VarDeclRListDerived2(
+          ) [VarDeclRListDerived2]
+        ) [VarDeclDerived2]
+      ) [VarDeclListDerived1]
+      StatementListDerived2(
+      ) [StatementListDerived2]
+    ) [MethodDeclDerived2]
+  ) [MethodDeclListDerived1]
+) [ProgramDerived1]
+INFO  20:11:05,926 - ===================================

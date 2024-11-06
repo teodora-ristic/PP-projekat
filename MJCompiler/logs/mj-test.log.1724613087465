@@ -1,0 +1,72 @@
+INFO  21:11:21,829 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:11:21,916 - #2 program
+INFO  21:11:21,917 - #47 test301
+INFO  21:11:21,917 - #6 const
+INFO  21:11:21,919 - #47 int
+INFO  21:11:21,919 - #47 nula
+INFO  21:11:21,921 - #29 =
+INFO  21:11:21,921 - #45 0
+INFO  21:11:21,921 - #34 ;
+INFO  21:11:21,923 - #6 const
+INFO  21:11:21,925 - #47 int
+INFO  21:11:21,925 - #47 jedan
+INFO  21:11:21,925 - #29 =
+INFO  21:11:21,925 - #45 1
+INFO  21:11:21,926 - #34 ;
+INFO  21:11:21,926 - #6 const
+INFO  21:11:21,926 - #47 int
+INFO  21:11:21,926 - #47 pet
+INFO  21:11:21,926 - #29 =
+INFO  21:11:21,926 - #45 5
+INFO  21:11:21,926 - #34 ;
+INFO  21:11:21,926 - #47 int
+INFO  21:11:21,926 - #47 niz
+INFO  21:11:21,945 - #40 [
+INFO  21:11:21,945 - #41 ]
+INFO  21:11:21,945 - #34 ;
+INFO  21:11:21,949 - #47 char
+INFO  21:11:21,951 - #47 nizch
+INFO  21:11:21,951 - #40 [
+INFO  21:11:21,951 - #41 ]
+INFO  21:11:21,951 - #34 ;
+INFO  21:11:21,951 - #47 int
+INFO  21:11:21,951 - #47 mat
+INFO  21:11:21,952 - #40 [
+INFO  21:11:21,952 - #41 ]
+INFO  21:11:21,952 - #40 [
+INFO  21:11:21,952 - #41 ]
+INFO  21:11:21,952 - #34 ;
+INFO  21:11:21,954 - #47 int
+INFO  21:11:21,954 - #47 a
+INFO  21:11:21,954 - #34 ;
+INFO  21:11:21,956 - #42 {
+INFO  21:11:21,956 - #12 void
+INFO  21:11:21,957 - #47 main
+INFO  21:11:21,959 - #38 (
+INFO  21:11:21,961 - #39 )
+INFO  21:11:21,962 - #47 int
+INFO  21:11:21,964 - #47 bodovi
+INFO  21:11:21,964 - #34 ;
+INFO  21:11:21,964 - #47 bool
+INFO  21:11:21,964 - #47 bt
+INFO  21:11:21,964 - #34 ;
+INFO  21:11:21,966 - #42 {
+INFO  21:11:21,966 - #47 bt
+INFO  21:11:21,967 - #32 --
+INFO  21:11:21,970 - #34 ;
+INFO  21:11:21,970 - #43 }
+INFO  21:11:21,970 - #43 }
+INFO  21:11:21,983 - ===================================
+INFO  21:11:21,983 - Deklarisana konstanta nula na liniji 3
+INFO  21:11:21,983 - Deklarisana konstanta jedan na liniji 4
+INFO  21:11:21,984 - Deklarisana konstanta pet na liniji 5
+INFO  21:11:21,984 - Deklarisana promenljiva niz na liniji 7
+INFO  21:11:21,984 - Deklarisana promenljiva nizch na liniji 8
+INFO  21:11:21,984 - Deklarisana promenljiva mat na liniji 9
+INFO  21:11:21,984 - Deklarisana promenljiva a na liniji 11
+INFO  21:11:21,984 - Obradjuje se funkcija main na liniji 14
+INFO  21:11:21,984 - Deklarisana promenljiva bodovi na liniji 15
+INFO  21:11:21,984 - Deklarisana promenljiva bt na liniji 16
+ERROR 21:11:21,985 - Greska na liniji 18 : designator nije ceo broj! 
+INFO  21:11:21,985 - ===================================
+ERROR 21:11:21,985 - Parsiranje NIJE uspesno zavrseno!

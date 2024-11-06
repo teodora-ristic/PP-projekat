@@ -1,0 +1,2127 @@
+INFO  23:35:30,616 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:35:30,663 - #2 program
+INFO  23:35:30,663 - #47 test301
+INFO  23:35:30,663 - #6 const
+INFO  23:35:30,665 - #47 int
+INFO  23:35:30,665 - #47 nula
+INFO  23:35:30,667 - #29 =
+INFO  23:35:30,667 - #45 0
+INFO  23:35:30,667 - #34 ;
+INFO  23:35:30,668 - #6 const
+INFO  23:35:30,669 - #47 int
+INFO  23:35:30,669 - #47 jedan
+INFO  23:35:30,669 - #29 =
+INFO  23:35:30,669 - #45 1
+INFO  23:35:30,669 - #34 ;
+INFO  23:35:30,669 - #6 const
+INFO  23:35:30,669 - #47 int
+INFO  23:35:30,669 - #47 pet
+INFO  23:35:30,669 - #29 =
+INFO  23:35:30,669 - #45 5
+INFO  23:35:30,669 - #34 ;
+INFO  23:35:30,669 - #47 int
+INFO  23:35:30,669 - #47 niz
+INFO  23:35:30,671 - #40 [
+INFO  23:35:30,671 - #41 ]
+INFO  23:35:30,671 - #34 ;
+INFO  23:35:30,673 - #47 char
+INFO  23:35:30,674 - #47 nizch
+INFO  23:35:30,674 - #40 [
+INFO  23:35:30,674 - #41 ]
+INFO  23:35:30,674 - #34 ;
+INFO  23:35:30,674 - #47 int
+INFO  23:35:30,674 - #47 mat
+INFO  23:35:30,674 - #40 [
+INFO  23:35:30,674 - #41 ]
+INFO  23:35:30,674 - #40 [
+INFO  23:35:30,674 - #41 ]
+INFO  23:35:30,674 - #34 ;
+INFO  23:35:30,675 - #47 int
+INFO  23:35:30,675 - #47 a
+INFO  23:35:30,675 - #34 ;
+INFO  23:35:30,676 - #42 {
+INFO  23:35:30,676 - #12 void
+INFO  23:35:30,677 - #47 main
+INFO  23:35:30,677 - #38 (
+INFO  23:35:30,678 - #39 )
+INFO  23:35:30,679 - #47 int
+INFO  23:35:30,680 - #47 bodovi
+INFO  23:35:30,680 - #34 ;
+INFO  23:35:30,680 - #47 bool
+INFO  23:35:30,680 - #47 bt
+INFO  23:35:30,680 - #34 ;
+INFO  23:35:30,680 - #42 {
+INFO  23:35:30,680 - #47 bodovi
+INFO  23:35:30,681 - #29 =
+INFO  23:35:30,682 - #45 0
+INFO  23:35:30,683 - #34 ;
+INFO  23:35:30,685 - #47 bodovi
+INFO  23:35:30,685 - #30 ++
+INFO  23:35:30,685 - #34 ;
+INFO  23:35:30,685 - #47 bodovi
+INFO  23:35:30,685 - #29 =
+INFO  23:35:30,685 - #47 bodovi
+INFO  23:35:30,685 - #31 +
+INFO  23:35:30,686 - #47 jedan
+INFO  23:35:30,687 - #34 ;
+INFO  23:35:30,687 - #47 bodovi
+INFO  23:35:30,687 - #29 =
+INFO  23:35:30,687 - #47 bodovi
+INFO  23:35:30,687 - #17 *
+INFO  23:35:30,687 - #47 pet
+INFO  23:35:30,688 - #34 ;
+INFO  23:35:30,688 - #47 bodovi
+INFO  23:35:30,688 - #32 --
+INFO  23:35:30,688 - #34 ;
+INFO  23:35:30,688 - #9 print
+INFO  23:35:30,688 - #38 (
+INFO  23:35:30,688 - #47 bodovi
+INFO  23:35:30,688 - #39 )
+INFO  23:35:30,689 - #34 ;
+INFO  23:35:30,689 - #47 niz
+INFO  23:35:30,689 - #29 =
+INFO  23:35:30,689 - #8 new
+INFO  23:35:30,689 - #47 int
+INFO  23:35:30,689 - #40 [
+INFO  23:35:30,689 - #45 3
+INFO  23:35:30,689 - #41 ]
+INFO  23:35:30,689 - #34 ;
+INFO  23:35:30,689 - #47 niz
+INFO  23:35:30,689 - #40 [
+INFO  23:35:30,689 - #47 nula
+INFO  23:35:30,689 - #41 ]
+INFO  23:35:30,689 - #29 =
+INFO  23:35:30,689 - #47 jedan
+INFO  23:35:30,689 - #34 ;
+INFO  23:35:30,689 - #47 niz
+INFO  23:35:30,690 - #40 [
+INFO  23:35:30,690 - #45 1
+INFO  23:35:30,690 - #41 ]
+INFO  23:35:30,690 - #29 =
+INFO  23:35:30,690 - #45 2
+INFO  23:35:30,690 - #34 ;
+INFO  23:35:30,690 - #47 niz
+INFO  23:35:30,690 - #40 [
+INFO  23:35:30,690 - #47 niz
+INFO  23:35:30,690 - #40 [
+INFO  23:35:30,690 - #47 jedan
+INFO  23:35:30,690 - #41 ]
+INFO  23:35:30,690 - #41 ]
+INFO  23:35:30,690 - #29 =
+INFO  23:35:30,690 - #47 niz
+INFO  23:35:30,690 - #40 [
+INFO  23:35:30,690 - #47 niz
+INFO  23:35:30,690 - #40 [
+INFO  23:35:30,690 - #45 0
+INFO  23:35:30,690 - #41 ]
+INFO  23:35:30,690 - #41 ]
+INFO  23:35:30,691 - #17 *
+INFO  23:35:30,691 - #45 3
+INFO  23:35:30,691 - #34 ;
+INFO  23:35:30,691 - #47 bodovi
+INFO  23:35:30,691 - #29 =
+INFO  23:35:30,691 - #47 niz
+INFO  23:35:30,691 - #40 [
+INFO  23:35:30,691 - #45 2
+INFO  23:35:30,691 - #41 ]
+INFO  23:35:30,691 - #18 /
+INFO  23:35:30,691 - #47 niz
+INFO  23:35:30,692 - #40 [
+INFO  23:35:30,692 - #45 0
+INFO  23:35:30,692 - #41 ]
+INFO  23:35:30,692 - #34 ;
+INFO  23:35:30,692 - #9 print
+INFO  23:35:30,692 - #38 (
+INFO  23:35:30,692 - #47 bodovi
+INFO  23:35:30,692 - #39 )
+INFO  23:35:30,692 - #34 ;
+INFO  23:35:30,692 - #9 print
+INFO  23:35:30,692 - #38 (
+INFO  23:35:30,692 - #47 niz
+INFO  23:35:30,692 - #40 [
+INFO  23:35:30,692 - #45 2
+INFO  23:35:30,692 - #41 ]
+INFO  23:35:30,693 - #39 )
+INFO  23:35:30,693 - #34 ;
+INFO  23:35:30,693 - #47 nizch
+INFO  23:35:30,693 - #29 =
+INFO  23:35:30,693 - #8 new
+INFO  23:35:30,693 - #47 char
+INFO  23:35:30,693 - #40 [
+INFO  23:35:30,693 - #45 3
+INFO  23:35:30,693 - #41 ]
+INFO  23:35:30,693 - #34 ;
+INFO  23:35:30,693 - #47 nizch
+INFO  23:35:30,693 - #40 [
+INFO  23:35:30,693 - #45 0
+INFO  23:35:30,693 - #41 ]
+INFO  23:35:30,693 - #29 =
+INFO  23:35:30,693 - #46 a
+INFO  23:35:30,693 - #34 ;
+INFO  23:35:30,693 - #47 nizch
+INFO  23:35:30,693 - #40 [
+INFO  23:35:30,694 - #47 jedan
+INFO  23:35:30,694 - #41 ]
+INFO  23:35:30,694 - #29 =
+INFO  23:35:30,694 - #46 b
+INFO  23:35:30,694 - #34 ;
+INFO  23:35:30,694 - #47 nizch
+INFO  23:35:30,694 - #40 [
+INFO  23:35:30,694 - #47 pet
+INFO  23:35:30,694 - #33 -
+INFO  23:35:30,694 - #45 3
+INFO  23:35:30,695 - #41 ]
+INFO  23:35:30,695 - #29 =
+INFO  23:35:30,695 - #46 c
+INFO  23:35:30,695 - #34 ;
+INFO  23:35:30,695 - #9 print
+INFO  23:35:30,695 - #38 (
+INFO  23:35:30,695 - #47 nizch
+INFO  23:35:30,695 - #40 [
+INFO  23:35:30,695 - #45 1
+INFO  23:35:30,695 - #41 ]
+INFO  23:35:30,695 - #39 )
+INFO  23:35:30,695 - #34 ;
+INFO  23:35:30,695 - #9 print
+INFO  23:35:30,695 - #38 (
+INFO  23:35:30,695 - #47 nizch
+INFO  23:35:30,695 - #40 [
+INFO  23:35:30,695 - #47 jedan
+INFO  23:35:30,695 - #17 *
+INFO  23:35:30,695 - #45 2
+INFO  23:35:30,696 - #41 ]
+INFO  23:35:30,696 - #39 )
+INFO  23:35:30,696 - #34 ;
+INFO  23:35:30,696 - #47 a
+INFO  23:35:30,696 - #29 =
+INFO  23:35:30,696 - #45 1
+INFO  23:35:30,696 - #34 ;
+INFO  23:35:30,696 - #10 read
+INFO  23:35:30,696 - #38 (
+INFO  23:35:30,696 - #47 bodovi
+INFO  23:35:30,696 - #39 )
+INFO  23:35:30,696 - #34 ;
+INFO  23:35:30,696 - #47 bodovi
+INFO  23:35:30,696 - #29 =
+INFO  23:35:30,696 - #33 -
+INFO  23:35:30,696 - #47 bodovi
+INFO  23:35:30,696 - #31 +
+INFO  23:35:30,696 - #38 (
+INFO  23:35:30,696 - #47 pet
+INFO  23:35:30,696 - #17 *
+INFO  23:35:30,696 - #47 a
+INFO  23:35:30,696 - #18 /
+INFO  23:35:30,696 - #45 2
+INFO  23:35:30,696 - #33 -
+INFO  23:35:30,696 - #47 jedan
+INFO  23:35:30,697 - #39 )
+INFO  23:35:30,697 - #17 *
+INFO  23:35:30,697 - #47 bodovi
+INFO  23:35:30,697 - #33 -
+INFO  23:35:30,697 - #38 (
+INFO  23:35:30,697 - #45 3
+INFO  23:35:30,697 - #19 %
+INFO  23:35:30,697 - #45 2
+INFO  23:35:30,697 - #31 +
+INFO  23:35:30,698 - #45 3
+INFO  23:35:30,698 - #17 *
+INFO  23:35:30,698 - #45 2
+INFO  23:35:30,698 - #33 -
+INFO  23:35:30,698 - #45 3
+INFO  23:35:30,698 - #39 )
+INFO  23:35:30,698 - #34 ;
+INFO  23:35:30,698 - #9 print
+INFO  23:35:30,698 - #38 (
+INFO  23:35:30,698 - #47 bodovi
+INFO  23:35:30,698 - #39 )
+INFO  23:35:30,698 - #34 ;
+INFO  23:35:30,698 - #47 mat
+INFO  23:35:30,698 - #29 =
+INFO  23:35:30,698 - #8 new
+INFO  23:35:30,698 - #47 int
+INFO  23:35:30,698 - #40 [
+INFO  23:35:30,698 - #45 2
+INFO  23:35:30,698 - #41 ]
+INFO  23:35:30,698 - #40 [
+INFO  23:35:30,698 - #45 3
+INFO  23:35:30,698 - #41 ]
+INFO  23:35:30,698 - #34 ;
+INFO  23:35:30,698 - #47 mat
+INFO  23:35:30,698 - #40 [
+INFO  23:35:30,698 - #47 nula
+INFO  23:35:30,698 - #41 ]
+INFO  23:35:30,699 - #40 [
+INFO  23:35:30,699 - #47 jedan
+INFO  23:35:30,699 - #33 -
+INFO  23:35:30,699 - #45 1
+INFO  23:35:30,699 - #41 ]
+INFO  23:35:30,699 - #29 =
+INFO  23:35:30,699 - #47 jedan
+INFO  23:35:30,699 - #34 ;
+INFO  23:35:30,699 - #47 mat
+INFO  23:35:30,699 - #40 [
+INFO  23:35:30,699 - #45 0
+INFO  23:35:30,699 - #41 ]
+INFO  23:35:30,699 - #40 [
+INFO  23:35:30,699 - #47 mat
+INFO  23:35:30,699 - #40 [
+INFO  23:35:30,699 - #45 0
+INFO  23:35:30,699 - #41 ]
+INFO  23:35:30,699 - #40 [
+INFO  23:35:30,699 - #45 0
+INFO  23:35:30,699 - #41 ]
+INFO  23:35:30,699 - #41 ]
+INFO  23:35:30,699 - #29 =
+INFO  23:35:30,699 - #45 2
+INFO  23:35:30,699 - #34 ;
+INFO  23:35:30,699 - #47 mat
+INFO  23:35:30,699 - #40 [
+INFO  23:35:30,699 - #45 0
+INFO  23:35:30,699 - #41 ]
+INFO  23:35:30,700 - #40 [
+INFO  23:35:30,700 - #47 mat
+INFO  23:35:30,700 - #40 [
+INFO  23:35:30,700 - #45 0
+INFO  23:35:30,700 - #41 ]
+INFO  23:35:30,700 - #40 [
+INFO  23:35:30,700 - #45 1
+INFO  23:35:30,700 - #41 ]
+INFO  23:35:30,700 - #41 ]
+INFO  23:35:30,700 - #29 =
+INFO  23:35:30,700 - #45 5
+INFO  23:35:30,700 - #34 ;
+INFO  23:35:30,700 - #47 mat
+INFO  23:35:30,700 - #40 [
+INFO  23:35:30,700 - #45 1
+INFO  23:35:30,700 - #41 ]
+INFO  23:35:30,700 - #40 [
+INFO  23:35:30,700 - #47 mat
+INFO  23:35:30,700 - #40 [
+INFO  23:35:30,700 - #45 0
+INFO  23:35:30,700 - #41 ]
+INFO  23:35:30,700 - #40 [
+INFO  23:35:30,700 - #45 0
+INFO  23:35:30,700 - #41 ]
+INFO  23:35:30,700 - #17 *
+INFO  23:35:30,700 - #45 2
+INFO  23:35:30,701 - #41 ]
+INFO  23:35:30,701 - #29 =
+INFO  23:35:30,701 - #45 4
+INFO  23:35:30,701 - #34 ;
+INFO  23:35:30,701 - #47 mat
+INFO  23:35:30,701 - #40 [
+INFO  23:35:30,701 - #47 mat
+INFO  23:35:30,701 - #40 [
+INFO  23:35:30,701 - #45 0
+INFO  23:35:30,701 - #41 ]
+INFO  23:35:30,701 - #40 [
+INFO  23:35:30,701 - #45 0
+INFO  23:35:30,701 - #41 ]
+INFO  23:35:30,701 - #41 ]
+INFO  23:35:30,701 - #40 [
+INFO  23:35:30,701 - #45 1
+INFO  23:35:30,701 - #41 ]
+INFO  23:35:30,701 - #29 =
+INFO  23:35:30,701 - #45 3
+INFO  23:35:30,701 - #34 ;
+INFO  23:35:30,701 - #47 mat
+INFO  23:35:30,701 - #40 [
+INFO  23:35:30,701 - #45 1
+INFO  23:35:30,701 - #41 ]
+INFO  23:35:30,701 - #40 [
+INFO  23:35:30,701 - #45 0
+INFO  23:35:30,701 - #41 ]
+INFO  23:35:30,701 - #29 =
+INFO  23:35:30,701 - #45 2
+INFO  23:35:30,701 - #34 ;
+INFO  23:35:30,702 - #9 print
+INFO  23:35:30,702 - #38 (
+INFO  23:35:30,702 - #47 mat
+INFO  23:35:30,702 - #40 [
+INFO  23:35:30,702 - #45 1
+INFO  23:35:30,702 - #41 ]
+INFO  23:35:30,702 - #40 [
+INFO  23:35:30,702 - #45 2
+INFO  23:35:30,702 - #41 ]
+INFO  23:35:30,702 - #39 )
+INFO  23:35:30,702 - #34 ;
+INFO  23:35:30,702 - #9 print
+INFO  23:35:30,702 - #38 (
+INFO  23:35:30,702 - #47 mat
+INFO  23:35:30,702 - #40 [
+INFO  23:35:30,702 - #45 0
+INFO  23:35:30,702 - #41 ]
+INFO  23:35:30,702 - #40 [
+INFO  23:35:30,702 - #45 2
+INFO  23:35:30,702 - #41 ]
+INFO  23:35:30,702 - #39 )
+INFO  23:35:30,702 - #34 ;
+INFO  23:35:30,702 - #43 }
+INFO  23:35:30,702 - #43 }
+INFO  23:35:30,709 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  ListDecl(
+    ListDecl(
+      ListDecl(
+        ListDecl(
+          ListDecl(
+            ListDecl(
+              ListDecl(
+                EmptyDecList(
+                ) [EmptyDecList]
+                DeclConst(
+                  ConstDecl(
+                    Type(
+                     int
+                    ) [Type]
+                    SingleConstDecl(
+                      ConstDeclSingle(
+                       nula
+                        Num(
+                         0
+                        ) [Num]
+                      ) [ConstDeclSingle]
+                    ) [SingleConstDecl]
+                  ) [ConstDecl]
+                ) [DeclConst]
+              ) [ListDecl]
+              DeclConst(
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  SingleConstDecl(
+                    ConstDeclSingle(
+                     jedan
+                      Num(
+                       1
+                      ) [Num]
+                    ) [ConstDeclSingle]
+                  ) [SingleConstDecl]
+                ) [ConstDecl]
+              ) [DeclConst]
+            ) [ListDecl]
+            DeclConst(
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleConstDecl(
+                  ConstDeclSingle(
+                   pet
+                    Num(
+                     5
+                    ) [Num]
+                  ) [ConstDeclSingle]
+                ) [SingleConstDecl]
+              ) [ConstDecl]
+            ) [DeclConst]
+          ) [ListDecl]
+          DeclVar(
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              SingleVarDeclR(
+                VarDeclRSingle(
+                 niz
+                  BracketVarDeclR(
+                  ) [BracketVarDeclR]
+                ) [VarDeclRSingle]
+              ) [SingleVarDeclR]
+            ) [VarDecl]
+          ) [DeclVar]
+        ) [ListDecl]
+        DeclVar(
+          VarDecl(
+            Type(
+             char
+            ) [Type]
+            SingleVarDeclR(
+              VarDeclRSingle(
+               nizch
+                BracketVarDeclR(
+                ) [BracketVarDeclR]
+              ) [VarDeclRSingle]
+            ) [SingleVarDeclR]
+          ) [VarDecl]
+        ) [DeclVar]
+      ) [ListDecl]
+      DeclVar(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          SingleVarDeclR(
+            VarDeclRSingle(
+             mat
+              DoubleBracketVarDeclR(
+              ) [DoubleBracketVarDeclR]
+            ) [VarDeclRSingle]
+          ) [SingleVarDeclR]
+        ) [VarDecl]
+      ) [DeclVar]
+    ) [ListDecl]
+    DeclVar(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDeclR(
+          VarDeclRSingle(
+           a
+            NoBracketVarDeclR(
+            ) [NoBracketVarDeclR]
+          ) [VarDeclRSingle]
+        ) [SingleVarDeclR]
+      ) [VarDecl]
+    ) [DeclVar]
+  ) [ListDecl]
+  ListMethodDecl(
+    EmptyMethodDeclList(
+    ) [EmptyMethodDeclList]
+    MethodDecl(
+      BeforeVoid(
+      ) [BeforeVoid]
+      MethodDeclName(
+       main
+      ) [MethodDeclName]
+      NoFormPars(
+      ) [NoFormPars]
+      ListVarDecl(
+        ListVarDecl(
+          EmptyVarDeclList(
+          ) [EmptyVarDeclList]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDeclR(
+              VarDeclRSingle(
+               bodovi
+                NoBracketVarDeclR(
+                ) [NoBracketVarDeclR]
+              ) [VarDeclRSingle]
+            ) [SingleVarDeclR]
+          ) [VarDecl]
+        ) [ListVarDecl]
+        VarDecl(
+          Type(
+           bool
+          ) [Type]
+          SingleVarDeclR(
+            VarDeclRSingle(
+             bt
+              NoBracketVarDeclR(
+              ) [NoBracketVarDeclR]
+            ) [VarDeclRSingle]
+          ) [SingleVarDeclR]
+        ) [VarDecl]
+      ) [ListVarDecl]
+      ListStatement(
+        ListStatement(
+          ListStatement(
+            ListStatement(
+              ListStatement(
+                ListStatement(
+                  ListStatement(
+                    ListStatement(
+                      ListStatement(
+                        ListStatement(
+                          ListStatement(
+                            ListStatement(
+                              ListStatement(
+                                ListStatement(
+                                  ListStatement(
+                                    ListStatement(
+                                      ListStatement(
+                                        ListStatement(
+                                          ListStatement(
+                                            ListStatement(
+                                              ListStatement(
+                                                ListStatement(
+                                                  ListStatement(
+                                                    ListStatement(
+                                                      ListStatement(
+                                                        ListStatement(
+                                                          ListStatement(
+                                                            ListStatement(
+                                                              ListStatement(
+                                                                ListStatement(
+                                                                  ListStatement(
+                                                                    ListStatement(
+                                                                      EmptyStatementList(
+                                                                      ) [EmptyStatementList]
+                                                                      DesignatorStmt(
+                                                                        DesignatorStatementAssign(
+                                                                          Designator(
+                                                                           bodovi
+                                                                            EmptyDesignatorList(
+                                                                            ) [EmptyDesignatorList]
+                                                                          ) [Designator]
+                                                                          Assignop(
+                                                                          ) [Assignop]
+                                                                          ExprTerm(
+                                                                            Term(
+                                                                              NumFactor(
+                                                                               0
+                                                                              ) [NumFactor]
+                                                                              EmptyTermList(
+                                                                              ) [EmptyTermList]
+                                                                            ) [Term]
+                                                                            EmptyExprList(
+                                                                            ) [EmptyExprList]
+                                                                          ) [ExprTerm]
+                                                                        ) [DesignatorStatementAssign]
+                                                                      ) [DesignatorStmt]
+                                                                    ) [ListStatement]
+                                                                    DesignatorStmt(
+                                                                      DesignatorStatementInc(
+                                                                        Designator(
+                                                                         bodovi
+                                                                          EmptyDesignatorList(
+                                                                          ) [EmptyDesignatorList]
+                                                                        ) [Designator]
+                                                                      ) [DesignatorStatementInc]
+                                                                    ) [DesignatorStmt]
+                                                                  ) [ListStatement]
+                                                                  DesignatorStmt(
+                                                                    DesignatorStatementAssign(
+                                                                      Designator(
+                                                                       bodovi
+                                                                        EmptyDesignatorList(
+                                                                        ) [EmptyDesignatorList]
+                                                                      ) [Designator]
+                                                                      Assignop(
+                                                                      ) [Assignop]
+                                                                      ExprTerm(
+                                                                        Term(
+                                                                          DesignatorFactor(
+                                                                            Designator(
+                                                                             bodovi
+                                                                              EmptyDesignatorList(
+                                                                              ) [EmptyDesignatorList]
+                                                                            ) [Designator]
+                                                                          ) [DesignatorFactor]
+                                                                          EmptyTermList(
+                                                                          ) [EmptyTermList]
+                                                                        ) [Term]
+                                                                        ListExpr(
+                                                                          EmptyExprList(
+                                                                          ) [EmptyExprList]
+                                                                          AddopPlus(
+                                                                          ) [AddopPlus]
+                                                                          Term(
+                                                                            DesignatorFactor(
+                                                                              Designator(
+                                                                               jedan
+                                                                                EmptyDesignatorList(
+                                                                                ) [EmptyDesignatorList]
+                                                                              ) [Designator]
+                                                                            ) [DesignatorFactor]
+                                                                            EmptyTermList(
+                                                                            ) [EmptyTermList]
+                                                                          ) [Term]
+                                                                        ) [ListExpr]
+                                                                      ) [ExprTerm]
+                                                                    ) [DesignatorStatementAssign]
+                                                                  ) [DesignatorStmt]
+                                                                ) [ListStatement]
+                                                                DesignatorStmt(
+                                                                  DesignatorStatementAssign(
+                                                                    Designator(
+                                                                     bodovi
+                                                                      EmptyDesignatorList(
+                                                                      ) [EmptyDesignatorList]
+                                                                    ) [Designator]
+                                                                    Assignop(
+                                                                    ) [Assignop]
+                                                                    ExprTerm(
+                                                                      Term(
+                                                                        DesignatorFactor(
+                                                                          Designator(
+                                                                           bodovi
+                                                                            EmptyDesignatorList(
+                                                                            ) [EmptyDesignatorList]
+                                                                          ) [Designator]
+                                                                        ) [DesignatorFactor]
+                                                                        ListTerm(
+                                                                          EmptyTermList(
+                                                                          ) [EmptyTermList]
+                                                                          MulopMul(
+                                                                          ) [MulopMul]
+                                                                          DesignatorFactor(
+                                                                            Designator(
+                                                                             pet
+                                                                              EmptyDesignatorList(
+                                                                              ) [EmptyDesignatorList]
+                                                                            ) [Designator]
+                                                                          ) [DesignatorFactor]
+                                                                        ) [ListTerm]
+                                                                      ) [Term]
+                                                                      EmptyExprList(
+                                                                      ) [EmptyExprList]
+                                                                    ) [ExprTerm]
+                                                                  ) [DesignatorStatementAssign]
+                                                                ) [DesignatorStmt]
+                                                              ) [ListStatement]
+                                                              DesignatorStmt(
+                                                                DesignatorStatementDec(
+                                                                  Designator(
+                                                                   bodovi
+                                                                    EmptyDesignatorList(
+                                                                    ) [EmptyDesignatorList]
+                                                                  ) [Designator]
+                                                                ) [DesignatorStatementDec]
+                                                              ) [DesignatorStmt]
+                                                            ) [ListStatement]
+                                                            PrintStmt(
+                                                              ExprTerm(
+                                                                Term(
+                                                                  DesignatorFactor(
+                                                                    Designator(
+                                                                     bodovi
+                                                                      EmptyDesignatorList(
+                                                                      ) [EmptyDesignatorList]
+                                                                    ) [Designator]
+                                                                  ) [DesignatorFactor]
+                                                                  EmptyTermList(
+                                                                  ) [EmptyTermList]
+                                                                ) [Term]
+                                                                EmptyExprList(
+                                                                ) [EmptyExprList]
+                                                              ) [ExprTerm]
+                                                            ) [PrintStmt]
+                                                          ) [ListStatement]
+                                                          DesignatorStmt(
+                                                            DesignatorStatementAssign(
+                                                              Designator(
+                                                               niz
+                                                                EmptyDesignatorList(
+                                                                ) [EmptyDesignatorList]
+                                                              ) [Designator]
+                                                              Assignop(
+                                                              ) [Assignop]
+                                                              ExprTerm(
+                                                                Term(
+                                                                  NewFactor(
+                                                                    Type(
+                                                                     int
+                                                                    ) [Type]
+                                                                    BracketFactorPars(
+                                                                      ExprTerm(
+                                                                        Term(
+                                                                          NumFactor(
+                                                                           3
+                                                                          ) [NumFactor]
+                                                                          EmptyTermList(
+                                                                          ) [EmptyTermList]
+                                                                        ) [Term]
+                                                                        EmptyExprList(
+                                                                        ) [EmptyExprList]
+                                                                      ) [ExprTerm]
+                                                                    ) [BracketFactorPars]
+                                                                  ) [NewFactor]
+                                                                  EmptyTermList(
+                                                                  ) [EmptyTermList]
+                                                                ) [Term]
+                                                                EmptyExprList(
+                                                                ) [EmptyExprList]
+                                                              ) [ExprTerm]
+                                                            ) [DesignatorStatementAssign]
+                                                          ) [DesignatorStmt]
+                                                        ) [ListStatement]
+                                                        DesignatorStmt(
+                                                          DesignatorStatementAssign(
+                                                            Designator(
+                                                             niz
+                                                              ListDesignator(
+                                                                EmptyDesignatorList(
+                                                                ) [EmptyDesignatorList]
+                                                                BracketDesignatorR(
+                                                                  ExprTerm(
+                                                                    Term(
+                                                                      DesignatorFactor(
+                                                                        Designator(
+                                                                         nula
+                                                                          EmptyDesignatorList(
+                                                                          ) [EmptyDesignatorList]
+                                                                        ) [Designator]
+                                                                      ) [DesignatorFactor]
+                                                                      EmptyTermList(
+                                                                      ) [EmptyTermList]
+                                                                    ) [Term]
+                                                                    EmptyExprList(
+                                                                    ) [EmptyExprList]
+                                                                  ) [ExprTerm]
+                                                                ) [BracketDesignatorR]
+                                                              ) [ListDesignator]
+                                                            ) [Designator]
+                                                            Assignop(
+                                                            ) [Assignop]
+                                                            ExprTerm(
+                                                              Term(
+                                                                DesignatorFactor(
+                                                                  Designator(
+                                                                   jedan
+                                                                    EmptyDesignatorList(
+                                                                    ) [EmptyDesignatorList]
+                                                                  ) [Designator]
+                                                                ) [DesignatorFactor]
+                                                                EmptyTermList(
+                                                                ) [EmptyTermList]
+                                                              ) [Term]
+                                                              EmptyExprList(
+                                                              ) [EmptyExprList]
+                                                            ) [ExprTerm]
+                                                          ) [DesignatorStatementAssign]
+                                                        ) [DesignatorStmt]
+                                                      ) [ListStatement]
+                                                      DesignatorStmt(
+                                                        DesignatorStatementAssign(
+                                                          Designator(
+                                                           niz
+                                                            ListDesignator(
+                                                              EmptyDesignatorList(
+                                                              ) [EmptyDesignatorList]
+                                                              BracketDesignatorR(
+                                                                ExprTerm(
+                                                                  Term(
+                                                                    NumFactor(
+                                                                     1
+                                                                    ) [NumFactor]
+                                                                    EmptyTermList(
+                                                                    ) [EmptyTermList]
+                                                                  ) [Term]
+                                                                  EmptyExprList(
+                                                                  ) [EmptyExprList]
+                                                                ) [ExprTerm]
+                                                              ) [BracketDesignatorR]
+                                                            ) [ListDesignator]
+                                                          ) [Designator]
+                                                          Assignop(
+                                                          ) [Assignop]
+                                                          ExprTerm(
+                                                            Term(
+                                                              NumFactor(
+                                                               2
+                                                              ) [NumFactor]
+                                                              EmptyTermList(
+                                                              ) [EmptyTermList]
+                                                            ) [Term]
+                                                            EmptyExprList(
+                                                            ) [EmptyExprList]
+                                                          ) [ExprTerm]
+                                                        ) [DesignatorStatementAssign]
+                                                      ) [DesignatorStmt]
+                                                    ) [ListStatement]
+                                                    DesignatorStmt(
+                                                      DesignatorStatementAssign(
+                                                        Designator(
+                                                         niz
+                                                          ListDesignator(
+                                                            EmptyDesignatorList(
+                                                            ) [EmptyDesignatorList]
+                                                            BracketDesignatorR(
+                                                              ExprTerm(
+                                                                Term(
+                                                                  DesignatorFactor(
+                                                                    Designator(
+                                                                     niz
+                                                                      ListDesignator(
+                                                                        EmptyDesignatorList(
+                                                                        ) [EmptyDesignatorList]
+                                                                        BracketDesignatorR(
+                                                                          ExprTerm(
+                                                                            Term(
+                                                                              DesignatorFactor(
+                                                                                Designator(
+                                                                                 jedan
+                                                                                  EmptyDesignatorList(
+                                                                                  ) [EmptyDesignatorList]
+                                                                                ) [Designator]
+                                                                              ) [DesignatorFactor]
+                                                                              EmptyTermList(
+                                                                              ) [EmptyTermList]
+                                                                            ) [Term]
+                                                                            EmptyExprList(
+                                                                            ) [EmptyExprList]
+                                                                          ) [ExprTerm]
+                                                                        ) [BracketDesignatorR]
+                                                                      ) [ListDesignator]
+                                                                    ) [Designator]
+                                                                  ) [DesignatorFactor]
+                                                                  EmptyTermList(
+                                                                  ) [EmptyTermList]
+                                                                ) [Term]
+                                                                EmptyExprList(
+                                                                ) [EmptyExprList]
+                                                              ) [ExprTerm]
+                                                            ) [BracketDesignatorR]
+                                                          ) [ListDesignator]
+                                                        ) [Designator]
+                                                        Assignop(
+                                                        ) [Assignop]
+                                                        ExprTerm(
+                                                          Term(
+                                                            DesignatorFactor(
+                                                              Designator(
+                                                               niz
+                                                                ListDesignator(
+                                                                  EmptyDesignatorList(
+                                                                  ) [EmptyDesignatorList]
+                                                                  BracketDesignatorR(
+                                                                    ExprTerm(
+                                                                      Term(
+                                                                        DesignatorFactor(
+                                                                          Designator(
+                                                                           niz
+                                                                            ListDesignator(
+                                                                              EmptyDesignatorList(
+                                                                              ) [EmptyDesignatorList]
+                                                                              BracketDesignatorR(
+                                                                                ExprTerm(
+                                                                                  Term(
+                                                                                    NumFactor(
+                                                                                     0
+                                                                                    ) [NumFactor]
+                                                                                    EmptyTermList(
+                                                                                    ) [EmptyTermList]
+                                                                                  ) [Term]
+                                                                                  EmptyExprList(
+                                                                                  ) [EmptyExprList]
+                                                                                ) [ExprTerm]
+                                                                              ) [BracketDesignatorR]
+                                                                            ) [ListDesignator]
+                                                                          ) [Designator]
+                                                                        ) [DesignatorFactor]
+                                                                        EmptyTermList(
+                                                                        ) [EmptyTermList]
+                                                                      ) [Term]
+                                                                      EmptyExprList(
+                                                                      ) [EmptyExprList]
+                                                                    ) [ExprTerm]
+                                                                  ) [BracketDesignatorR]
+                                                                ) [ListDesignator]
+                                                              ) [Designator]
+                                                            ) [DesignatorFactor]
+                                                            ListTerm(
+                                                              EmptyTermList(
+                                                              ) [EmptyTermList]
+                                                              MulopMul(
+                                                              ) [MulopMul]
+                                                              NumFactor(
+                                                               3
+                                                              ) [NumFactor]
+                                                            ) [ListTerm]
+                                                          ) [Term]
+                                                          EmptyExprList(
+                                                          ) [EmptyExprList]
+                                                        ) [ExprTerm]
+                                                      ) [DesignatorStatementAssign]
+                                                    ) [DesignatorStmt]
+                                                  ) [ListStatement]
+                                                  DesignatorStmt(
+                                                    DesignatorStatementAssign(
+                                                      Designator(
+                                                       bodovi
+                                                        EmptyDesignatorList(
+                                                        ) [EmptyDesignatorList]
+                                                      ) [Designator]
+                                                      Assignop(
+                                                      ) [Assignop]
+                                                      ExprTerm(
+                                                        Term(
+                                                          DesignatorFactor(
+                                                            Designator(
+                                                             niz
+                                                              ListDesignator(
+                                                                EmptyDesignatorList(
+                                                                ) [EmptyDesignatorList]
+                                                                BracketDesignatorR(
+                                                                  ExprTerm(
+                                                                    Term(
+                                                                      NumFactor(
+                                                                       2
+                                                                      ) [NumFactor]
+                                                                      EmptyTermList(
+                                                                      ) [EmptyTermList]
+                                                                    ) [Term]
+                                                                    EmptyExprList(
+                                                                    ) [EmptyExprList]
+                                                                  ) [ExprTerm]
+                                                                ) [BracketDesignatorR]
+                                                              ) [ListDesignator]
+                                                            ) [Designator]
+                                                          ) [DesignatorFactor]
+                                                          ListTerm(
+                                                            EmptyTermList(
+                                                            ) [EmptyTermList]
+                                                            MulopDiv(
+                                                            ) [MulopDiv]
+                                                            DesignatorFactor(
+                                                              Designator(
+                                                               niz
+                                                                ListDesignator(
+                                                                  EmptyDesignatorList(
+                                                                  ) [EmptyDesignatorList]
+                                                                  BracketDesignatorR(
+                                                                    ExprTerm(
+                                                                      Term(
+                                                                        NumFactor(
+                                                                         0
+                                                                        ) [NumFactor]
+                                                                        EmptyTermList(
+                                                                        ) [EmptyTermList]
+                                                                      ) [Term]
+                                                                      EmptyExprList(
+                                                                      ) [EmptyExprList]
+                                                                    ) [ExprTerm]
+                                                                  ) [BracketDesignatorR]
+                                                                ) [ListDesignator]
+                                                              ) [Designator]
+                                                            ) [DesignatorFactor]
+                                                          ) [ListTerm]
+                                                        ) [Term]
+                                                        EmptyExprList(
+                                                        ) [EmptyExprList]
+                                                      ) [ExprTerm]
+                                                    ) [DesignatorStatementAssign]
+                                                  ) [DesignatorStmt]
+                                                ) [ListStatement]
+                                                PrintStmt(
+                                                  ExprTerm(
+                                                    Term(
+                                                      DesignatorFactor(
+                                                        Designator(
+                                                         bodovi
+                                                          EmptyDesignatorList(
+                                                          ) [EmptyDesignatorList]
+                                                        ) [Designator]
+                                                      ) [DesignatorFactor]
+                                                      EmptyTermList(
+                                                      ) [EmptyTermList]
+                                                    ) [Term]
+                                                    EmptyExprList(
+                                                    ) [EmptyExprList]
+                                                  ) [ExprTerm]
+                                                ) [PrintStmt]
+                                              ) [ListStatement]
+                                              PrintStmt(
+                                                ExprTerm(
+                                                  Term(
+                                                    DesignatorFactor(
+                                                      Designator(
+                                                       niz
+                                                        ListDesignator(
+                                                          EmptyDesignatorList(
+                                                          ) [EmptyDesignatorList]
+                                                          BracketDesignatorR(
+                                                            ExprTerm(
+                                                              Term(
+                                                                NumFactor(
+                                                                 2
+                                                                ) [NumFactor]
+                                                                EmptyTermList(
+                                                                ) [EmptyTermList]
+                                                              ) [Term]
+                                                              EmptyExprList(
+                                                              ) [EmptyExprList]
+                                                            ) [ExprTerm]
+                                                          ) [BracketDesignatorR]
+                                                        ) [ListDesignator]
+                                                      ) [Designator]
+                                                    ) [DesignatorFactor]
+                                                    EmptyTermList(
+                                                    ) [EmptyTermList]
+                                                  ) [Term]
+                                                  EmptyExprList(
+                                                  ) [EmptyExprList]
+                                                ) [ExprTerm]
+                                              ) [PrintStmt]
+                                            ) [ListStatement]
+                                            DesignatorStmt(
+                                              DesignatorStatementAssign(
+                                                Designator(
+                                                 nizch
+                                                  EmptyDesignatorList(
+                                                  ) [EmptyDesignatorList]
+                                                ) [Designator]
+                                                Assignop(
+                                                ) [Assignop]
+                                                ExprTerm(
+                                                  Term(
+                                                    NewFactor(
+                                                      Type(
+                                                       char
+                                                      ) [Type]
+                                                      BracketFactorPars(
+                                                        ExprTerm(
+                                                          Term(
+                                                            NumFactor(
+                                                             3
+                                                            ) [NumFactor]
+                                                            EmptyTermList(
+                                                            ) [EmptyTermList]
+                                                          ) [Term]
+                                                          EmptyExprList(
+                                                          ) [EmptyExprList]
+                                                        ) [ExprTerm]
+                                                      ) [BracketFactorPars]
+                                                    ) [NewFactor]
+                                                    EmptyTermList(
+                                                    ) [EmptyTermList]
+                                                  ) [Term]
+                                                  EmptyExprList(
+                                                  ) [EmptyExprList]
+                                                ) [ExprTerm]
+                                              ) [DesignatorStatementAssign]
+                                            ) [DesignatorStmt]
+                                          ) [ListStatement]
+                                          DesignatorStmt(
+                                            DesignatorStatementAssign(
+                                              Designator(
+                                               nizch
+                                                ListDesignator(
+                                                  EmptyDesignatorList(
+                                                  ) [EmptyDesignatorList]
+                                                  BracketDesignatorR(
+                                                    ExprTerm(
+                                                      Term(
+                                                        NumFactor(
+                                                         0
+                                                        ) [NumFactor]
+                                                        EmptyTermList(
+                                                        ) [EmptyTermList]
+                                                      ) [Term]
+                                                      EmptyExprList(
+                                                      ) [EmptyExprList]
+                                                    ) [ExprTerm]
+                                                  ) [BracketDesignatorR]
+                                                ) [ListDesignator]
+                                              ) [Designator]
+                                              Assignop(
+                                              ) [Assignop]
+                                              ExprTerm(
+                                                Term(
+                                                  CharFactor(
+                                                   a
+                                                  ) [CharFactor]
+                                                  EmptyTermList(
+                                                  ) [EmptyTermList]
+                                                ) [Term]
+                                                EmptyExprList(
+                                                ) [EmptyExprList]
+                                              ) [ExprTerm]
+                                            ) [DesignatorStatementAssign]
+                                          ) [DesignatorStmt]
+                                        ) [ListStatement]
+                                        DesignatorStmt(
+                                          DesignatorStatementAssign(
+                                            Designator(
+                                             nizch
+                                              ListDesignator(
+                                                EmptyDesignatorList(
+                                                ) [EmptyDesignatorList]
+                                                BracketDesignatorR(
+                                                  ExprTerm(
+                                                    Term(
+                                                      DesignatorFactor(
+                                                        Designator(
+                                                         jedan
+                                                          EmptyDesignatorList(
+                                                          ) [EmptyDesignatorList]
+                                                        ) [Designator]
+                                                      ) [DesignatorFactor]
+                                                      EmptyTermList(
+                                                      ) [EmptyTermList]
+                                                    ) [Term]
+                                                    EmptyExprList(
+                                                    ) [EmptyExprList]
+                                                  ) [ExprTerm]
+                                                ) [BracketDesignatorR]
+                                              ) [ListDesignator]
+                                            ) [Designator]
+                                            Assignop(
+                                            ) [Assignop]
+                                            ExprTerm(
+                                              Term(
+                                                CharFactor(
+                                                 b
+                                                ) [CharFactor]
+                                                EmptyTermList(
+                                                ) [EmptyTermList]
+                                              ) [Term]
+                                              EmptyExprList(
+                                              ) [EmptyExprList]
+                                            ) [ExprTerm]
+                                          ) [DesignatorStatementAssign]
+                                        ) [DesignatorStmt]
+                                      ) [ListStatement]
+                                      DesignatorStmt(
+                                        DesignatorStatementAssign(
+                                          Designator(
+                                           nizch
+                                            ListDesignator(
+                                              EmptyDesignatorList(
+                                              ) [EmptyDesignatorList]
+                                              BracketDesignatorR(
+                                                ExprTerm(
+                                                  Term(
+                                                    DesignatorFactor(
+                                                      Designator(
+                                                       pet
+                                                        EmptyDesignatorList(
+                                                        ) [EmptyDesignatorList]
+                                                      ) [Designator]
+                                                    ) [DesignatorFactor]
+                                                    EmptyTermList(
+                                                    ) [EmptyTermList]
+                                                  ) [Term]
+                                                  ListExpr(
+                                                    EmptyExprList(
+                                                    ) [EmptyExprList]
+                                                    AddopMinus(
+                                                    ) [AddopMinus]
+                                                    Term(
+                                                      NumFactor(
+                                                       3
+                                                      ) [NumFactor]
+                                                      EmptyTermList(
+                                                      ) [EmptyTermList]
+                                                    ) [Term]
+                                                  ) [ListExpr]
+                                                ) [ExprTerm]
+                                              ) [BracketDesignatorR]
+                                            ) [ListDesignator]
+                                          ) [Designator]
+                                          Assignop(
+                                          ) [Assignop]
+                                          ExprTerm(
+                                            Term(
+                                              CharFactor(
+                                               c
+                                              ) [CharFactor]
+                                              EmptyTermList(
+                                              ) [EmptyTermList]
+                                            ) [Term]
+                                            EmptyExprList(
+                                            ) [EmptyExprList]
+                                          ) [ExprTerm]
+                                        ) [DesignatorStatementAssign]
+                                      ) [DesignatorStmt]
+                                    ) [ListStatement]
+                                    PrintStmt(
+                                      ExprTerm(
+                                        Term(
+                                          DesignatorFactor(
+                                            Designator(
+                                             nizch
+                                              ListDesignator(
+                                                EmptyDesignatorList(
+                                                ) [EmptyDesignatorList]
+                                                BracketDesignatorR(
+                                                  ExprTerm(
+                                                    Term(
+                                                      NumFactor(
+                                                       1
+                                                      ) [NumFactor]
+                                                      EmptyTermList(
+                                                      ) [EmptyTermList]
+                                                    ) [Term]
+                                                    EmptyExprList(
+                                                    ) [EmptyExprList]
+                                                  ) [ExprTerm]
+                                                ) [BracketDesignatorR]
+                                              ) [ListDesignator]
+                                            ) [Designator]
+                                          ) [DesignatorFactor]
+                                          EmptyTermList(
+                                          ) [EmptyTermList]
+                                        ) [Term]
+                                        EmptyExprList(
+                                        ) [EmptyExprList]
+                                      ) [ExprTerm]
+                                    ) [PrintStmt]
+                                  ) [ListStatement]
+                                  PrintStmt(
+                                    ExprTerm(
+                                      Term(
+                                        DesignatorFactor(
+                                          Designator(
+                                           nizch
+                                            ListDesignator(
+                                              EmptyDesignatorList(
+                                              ) [EmptyDesignatorList]
+                                              BracketDesignatorR(
+                                                ExprTerm(
+                                                  Term(
+                                                    DesignatorFactor(
+                                                      Designator(
+                                                       jedan
+                                                        EmptyDesignatorList(
+                                                        ) [EmptyDesignatorList]
+                                                      ) [Designator]
+                                                    ) [DesignatorFactor]
+                                                    ListTerm(
+                                                      EmptyTermList(
+                                                      ) [EmptyTermList]
+                                                      MulopMul(
+                                                      ) [MulopMul]
+                                                      NumFactor(
+                                                       2
+                                                      ) [NumFactor]
+                                                    ) [ListTerm]
+                                                  ) [Term]
+                                                  EmptyExprList(
+                                                  ) [EmptyExprList]
+                                                ) [ExprTerm]
+                                              ) [BracketDesignatorR]
+                                            ) [ListDesignator]
+                                          ) [Designator]
+                                        ) [DesignatorFactor]
+                                        EmptyTermList(
+                                        ) [EmptyTermList]
+                                      ) [Term]
+                                      EmptyExprList(
+                                      ) [EmptyExprList]
+                                    ) [ExprTerm]
+                                  ) [PrintStmt]
+                                ) [ListStatement]
+                                DesignatorStmt(
+                                  DesignatorStatementAssign(
+                                    Designator(
+                                     a
+                                      EmptyDesignatorList(
+                                      ) [EmptyDesignatorList]
+                                    ) [Designator]
+                                    Assignop(
+                                    ) [Assignop]
+                                    ExprTerm(
+                                      Term(
+                                        NumFactor(
+                                         1
+                                        ) [NumFactor]
+                                        EmptyTermList(
+                                        ) [EmptyTermList]
+                                      ) [Term]
+                                      EmptyExprList(
+                                      ) [EmptyExprList]
+                                    ) [ExprTerm]
+                                  ) [DesignatorStatementAssign]
+                                ) [DesignatorStmt]
+                              ) [ListStatement]
+                              ReadStmt(
+                                Designator(
+                                 bodovi
+                                  EmptyDesignatorList(
+                                  ) [EmptyDesignatorList]
+                                ) [Designator]
+                              ) [ReadStmt]
+                            ) [ListStatement]
+                            DesignatorStmt(
+                              DesignatorStatementAssign(
+                                Designator(
+                                 bodovi
+                                  EmptyDesignatorList(
+                                  ) [EmptyDesignatorList]
+                                ) [Designator]
+                                Assignop(
+                                ) [Assignop]
+                                ExprTermMin(
+                                  Term(
+                                    DesignatorFactor(
+                                      Designator(
+                                       bodovi
+                                        EmptyDesignatorList(
+                                        ) [EmptyDesignatorList]
+                                      ) [Designator]
+                                    ) [DesignatorFactor]
+                                    EmptyTermList(
+                                    ) [EmptyTermList]
+                                  ) [Term]
+                                  ListExpr(
+                                    ListExpr(
+                                      EmptyExprList(
+                                      ) [EmptyExprList]
+                                      AddopPlus(
+                                      ) [AddopPlus]
+                                      Term(
+                                        ParenFactor(
+                                          ExprTerm(
+                                            Term(
+                                              DesignatorFactor(
+                                                Designator(
+                                                 pet
+                                                  EmptyDesignatorList(
+                                                  ) [EmptyDesignatorList]
+                                                ) [Designator]
+                                              ) [DesignatorFactor]
+                                              ListTerm(
+                                                ListTerm(
+                                                  EmptyTermList(
+                                                  ) [EmptyTermList]
+                                                  MulopMul(
+                                                  ) [MulopMul]
+                                                  DesignatorFactor(
+                                                    Designator(
+                                                     a
+                                                      EmptyDesignatorList(
+                                                      ) [EmptyDesignatorList]
+                                                    ) [Designator]
+                                                  ) [DesignatorFactor]
+                                                ) [ListTerm]
+                                                MulopDiv(
+                                                ) [MulopDiv]
+                                                NumFactor(
+                                                 2
+                                                ) [NumFactor]
+                                              ) [ListTerm]
+                                            ) [Term]
+                                            ListExpr(
+                                              EmptyExprList(
+                                              ) [EmptyExprList]
+                                              AddopMinus(
+                                              ) [AddopMinus]
+                                              Term(
+                                                DesignatorFactor(
+                                                  Designator(
+                                                   jedan
+                                                    EmptyDesignatorList(
+                                                    ) [EmptyDesignatorList]
+                                                  ) [Designator]
+                                                ) [DesignatorFactor]
+                                                EmptyTermList(
+                                                ) [EmptyTermList]
+                                              ) [Term]
+                                            ) [ListExpr]
+                                          ) [ExprTerm]
+                                        ) [ParenFactor]
+                                        ListTerm(
+                                          EmptyTermList(
+                                          ) [EmptyTermList]
+                                          MulopMul(
+                                          ) [MulopMul]
+                                          DesignatorFactor(
+                                            Designator(
+                                             bodovi
+                                              EmptyDesignatorList(
+                                              ) [EmptyDesignatorList]
+                                            ) [Designator]
+                                          ) [DesignatorFactor]
+                                        ) [ListTerm]
+                                      ) [Term]
+                                    ) [ListExpr]
+                                    AddopMinus(
+                                    ) [AddopMinus]
+                                    Term(
+                                      ParenFactor(
+                                        ExprTerm(
+                                          Term(
+                                            NumFactor(
+                                             3
+                                            ) [NumFactor]
+                                            ListTerm(
+                                              EmptyTermList(
+                                              ) [EmptyTermList]
+                                              MulopPercent(
+                                              ) [MulopPercent]
+                                              NumFactor(
+                                               2
+                                              ) [NumFactor]
+                                            ) [ListTerm]
+                                          ) [Term]
+                                          ListExpr(
+                                            ListExpr(
+                                              EmptyExprList(
+                                              ) [EmptyExprList]
+                                              AddopPlus(
+                                              ) [AddopPlus]
+                                              Term(
+                                                NumFactor(
+                                                 3
+                                                ) [NumFactor]
+                                                ListTerm(
+                                                  EmptyTermList(
+                                                  ) [EmptyTermList]
+                                                  MulopMul(
+                                                  ) [MulopMul]
+                                                  NumFactor(
+                                                   2
+                                                  ) [NumFactor]
+                                                ) [ListTerm]
+                                              ) [Term]
+                                            ) [ListExpr]
+                                            AddopMinus(
+                                            ) [AddopMinus]
+                                            Term(
+                                              NumFactor(
+                                               3
+                                              ) [NumFactor]
+                                              EmptyTermList(
+                                              ) [EmptyTermList]
+                                            ) [Term]
+                                          ) [ListExpr]
+                                        ) [ExprTerm]
+                                      ) [ParenFactor]
+                                      EmptyTermList(
+                                      ) [EmptyTermList]
+                                    ) [Term]
+                                  ) [ListExpr]
+                                ) [ExprTermMin]
+                              ) [DesignatorStatementAssign]
+                            ) [DesignatorStmt]
+                          ) [ListStatement]
+                          PrintStmt(
+                            ExprTerm(
+                              Term(
+                                DesignatorFactor(
+                                  Designator(
+                                   bodovi
+                                    EmptyDesignatorList(
+                                    ) [EmptyDesignatorList]
+                                  ) [Designator]
+                                ) [DesignatorFactor]
+                                EmptyTermList(
+                                ) [EmptyTermList]
+                              ) [Term]
+                              EmptyExprList(
+                              ) [EmptyExprList]
+                            ) [ExprTerm]
+                          ) [PrintStmt]
+                        ) [ListStatement]
+                        DesignatorStmt(
+                          DesignatorStatementAssign(
+                            Designator(
+                             mat
+                              EmptyDesignatorList(
+                              ) [EmptyDesignatorList]
+                            ) [Designator]
+                            Assignop(
+                            ) [Assignop]
+                            ExprTerm(
+                              Term(
+                                NewFactor(
+                                  Type(
+                                   int
+                                  ) [Type]
+                                  DoubleBracketFactorPars(
+                                    ExprTerm(
+                                      Term(
+                                        NumFactor(
+                                         2
+                                        ) [NumFactor]
+                                        EmptyTermList(
+                                        ) [EmptyTermList]
+                                      ) [Term]
+                                      EmptyExprList(
+                                      ) [EmptyExprList]
+                                    ) [ExprTerm]
+                                    ExprTerm(
+                                      Term(
+                                        NumFactor(
+                                         3
+                                        ) [NumFactor]
+                                        EmptyTermList(
+                                        ) [EmptyTermList]
+                                      ) [Term]
+                                      EmptyExprList(
+                                      ) [EmptyExprList]
+                                    ) [ExprTerm]
+                                  ) [DoubleBracketFactorPars]
+                                ) [NewFactor]
+                                EmptyTermList(
+                                ) [EmptyTermList]
+                              ) [Term]
+                              EmptyExprList(
+                              ) [EmptyExprList]
+                            ) [ExprTerm]
+                          ) [DesignatorStatementAssign]
+                        ) [DesignatorStmt]
+                      ) [ListStatement]
+                      DesignatorStmt(
+                        DesignatorStatementAssign(
+                          Designator(
+                           mat
+                            ListDesignator(
+                              ListDesignator(
+                                EmptyDesignatorList(
+                                ) [EmptyDesignatorList]
+                                BracketDesignatorR(
+                                  ExprTerm(
+                                    Term(
+                                      DesignatorFactor(
+                                        Designator(
+                                         nula
+                                          EmptyDesignatorList(
+                                          ) [EmptyDesignatorList]
+                                        ) [Designator]
+                                      ) [DesignatorFactor]
+                                      EmptyTermList(
+                                      ) [EmptyTermList]
+                                    ) [Term]
+                                    EmptyExprList(
+                                    ) [EmptyExprList]
+                                  ) [ExprTerm]
+                                ) [BracketDesignatorR]
+                              ) [ListDesignator]
+                              BracketDesignatorR(
+                                ExprTerm(
+                                  Term(
+                                    DesignatorFactor(
+                                      Designator(
+                                       jedan
+                                        EmptyDesignatorList(
+                                        ) [EmptyDesignatorList]
+                                      ) [Designator]
+                                    ) [DesignatorFactor]
+                                    EmptyTermList(
+                                    ) [EmptyTermList]
+                                  ) [Term]
+                                  ListExpr(
+                                    EmptyExprList(
+                                    ) [EmptyExprList]
+                                    AddopMinus(
+                                    ) [AddopMinus]
+                                    Term(
+                                      NumFactor(
+                                       1
+                                      ) [NumFactor]
+                                      EmptyTermList(
+                                      ) [EmptyTermList]
+                                    ) [Term]
+                                  ) [ListExpr]
+                                ) [ExprTerm]
+                              ) [BracketDesignatorR]
+                            ) [ListDesignator]
+                          ) [Designator]
+                          Assignop(
+                          ) [Assignop]
+                          ExprTerm(
+                            Term(
+                              DesignatorFactor(
+                                Designator(
+                                 jedan
+                                  EmptyDesignatorList(
+                                  ) [EmptyDesignatorList]
+                                ) [Designator]
+                              ) [DesignatorFactor]
+                              EmptyTermList(
+                              ) [EmptyTermList]
+                            ) [Term]
+                            EmptyExprList(
+                            ) [EmptyExprList]
+                          ) [ExprTerm]
+                        ) [DesignatorStatementAssign]
+                      ) [DesignatorStmt]
+                    ) [ListStatement]
+                    DesignatorStmt(
+                      DesignatorStatementAssign(
+                        Designator(
+                         mat
+                          ListDesignator(
+                            ListDesignator(
+                              EmptyDesignatorList(
+                              ) [EmptyDesignatorList]
+                              BracketDesignatorR(
+                                ExprTerm(
+                                  Term(
+                                    NumFactor(
+                                     0
+                                    ) [NumFactor]
+                                    EmptyTermList(
+                                    ) [EmptyTermList]
+                                  ) [Term]
+                                  EmptyExprList(
+                                  ) [EmptyExprList]
+                                ) [ExprTerm]
+                              ) [BracketDesignatorR]
+                            ) [ListDesignator]
+                            BracketDesignatorR(
+                              ExprTerm(
+                                Term(
+                                  DesignatorFactor(
+                                    Designator(
+                                     mat
+                                      ListDesignator(
+                                        ListDesignator(
+                                          EmptyDesignatorList(
+                                          ) [EmptyDesignatorList]
+                                          BracketDesignatorR(
+                                            ExprTerm(
+                                              Term(
+                                                NumFactor(
+                                                 0
+                                                ) [NumFactor]
+                                                EmptyTermList(
+                                                ) [EmptyTermList]
+                                              ) [Term]
+                                              EmptyExprList(
+                                              ) [EmptyExprList]
+                                            ) [ExprTerm]
+                                          ) [BracketDesignatorR]
+                                        ) [ListDesignator]
+                                        BracketDesignatorR(
+                                          ExprTerm(
+                                            Term(
+                                              NumFactor(
+                                               0
+                                              ) [NumFactor]
+                                              EmptyTermList(
+                                              ) [EmptyTermList]
+                                            ) [Term]
+                                            EmptyExprList(
+                                            ) [EmptyExprList]
+                                          ) [ExprTerm]
+                                        ) [BracketDesignatorR]
+                                      ) [ListDesignator]
+                                    ) [Designator]
+                                  ) [DesignatorFactor]
+                                  EmptyTermList(
+                                  ) [EmptyTermList]
+                                ) [Term]
+                                EmptyExprList(
+                                ) [EmptyExprList]
+                              ) [ExprTerm]
+                            ) [BracketDesignatorR]
+                          ) [ListDesignator]
+                        ) [Designator]
+                        Assignop(
+                        ) [Assignop]
+                        ExprTerm(
+                          Term(
+                            NumFactor(
+                             2
+                            ) [NumFactor]
+                            EmptyTermList(
+                            ) [EmptyTermList]
+                          ) [Term]
+                          EmptyExprList(
+                          ) [EmptyExprList]
+                        ) [ExprTerm]
+                      ) [DesignatorStatementAssign]
+                    ) [DesignatorStmt]
+                  ) [ListStatement]
+                  DesignatorStmt(
+                    DesignatorStatementAssign(
+                      Designator(
+                       mat
+                        ListDesignator(
+                          ListDesignator(
+                            EmptyDesignatorList(
+                            ) [EmptyDesignatorList]
+                            BracketDesignatorR(
+                              ExprTerm(
+                                Term(
+                                  NumFactor(
+                                   0
+                                  ) [NumFactor]
+                                  EmptyTermList(
+                                  ) [EmptyTermList]
+                                ) [Term]
+                                EmptyExprList(
+                                ) [EmptyExprList]
+                              ) [ExprTerm]
+                            ) [BracketDesignatorR]
+                          ) [ListDesignator]
+                          BracketDesignatorR(
+                            ExprTerm(
+                              Term(
+                                DesignatorFactor(
+                                  Designator(
+                                   mat
+                                    ListDesignator(
+                                      ListDesignator(
+                                        EmptyDesignatorList(
+                                        ) [EmptyDesignatorList]
+                                        BracketDesignatorR(
+                                          ExprTerm(
+                                            Term(
+                                              NumFactor(
+                                               0
+                                              ) [NumFactor]
+                                              EmptyTermList(
+                                              ) [EmptyTermList]
+                                            ) [Term]
+                                            EmptyExprList(
+                                            ) [EmptyExprList]
+                                          ) [ExprTerm]
+                                        ) [BracketDesignatorR]
+                                      ) [ListDesignator]
+                                      BracketDesignatorR(
+                                        ExprTerm(
+                                          Term(
+                                            NumFactor(
+                                             1
+                                            ) [NumFactor]
+                                            EmptyTermList(
+                                            ) [EmptyTermList]
+                                          ) [Term]
+                                          EmptyExprList(
+                                          ) [EmptyExprList]
+                                        ) [ExprTerm]
+                                      ) [BracketDesignatorR]
+                                    ) [ListDesignator]
+                                  ) [Designator]
+                                ) [DesignatorFactor]
+                                EmptyTermList(
+                                ) [EmptyTermList]
+                              ) [Term]
+                              EmptyExprList(
+                              ) [EmptyExprList]
+                            ) [ExprTerm]
+                          ) [BracketDesignatorR]
+                        ) [ListDesignator]
+                      ) [Designator]
+                      Assignop(
+                      ) [Assignop]
+                      ExprTerm(
+                        Term(
+                          NumFactor(
+                           5
+                          ) [NumFactor]
+                          EmptyTermList(
+                          ) [EmptyTermList]
+                        ) [Term]
+                        EmptyExprList(
+                        ) [EmptyExprList]
+                      ) [ExprTerm]
+                    ) [DesignatorStatementAssign]
+                  ) [DesignatorStmt]
+                ) [ListStatement]
+                DesignatorStmt(
+                  DesignatorStatementAssign(
+                    Designator(
+                     mat
+                      ListDesignator(
+                        ListDesignator(
+                          EmptyDesignatorList(
+                          ) [EmptyDesignatorList]
+                          BracketDesignatorR(
+                            ExprTerm(
+                              Term(
+                                NumFactor(
+                                 1
+                                ) [NumFactor]
+                                EmptyTermList(
+                                ) [EmptyTermList]
+                              ) [Term]
+                              EmptyExprList(
+                              ) [EmptyExprList]
+                            ) [ExprTerm]
+                          ) [BracketDesignatorR]
+                        ) [ListDesignator]
+                        BracketDesignatorR(
+                          ExprTerm(
+                            Term(
+                              DesignatorFactor(
+                                Designator(
+                                 mat
+                                  ListDesignator(
+                                    ListDesignator(
+                                      EmptyDesignatorList(
+                                      ) [EmptyDesignatorList]
+                                      BracketDesignatorR(
+                                        ExprTerm(
+                                          Term(
+                                            NumFactor(
+                                             0
+                                            ) [NumFactor]
+                                            EmptyTermList(
+                                            ) [EmptyTermList]
+                                          ) [Term]
+                                          EmptyExprList(
+                                          ) [EmptyExprList]
+                                        ) [ExprTerm]
+                                      ) [BracketDesignatorR]
+                                    ) [ListDesignator]
+                                    BracketDesignatorR(
+                                      ExprTerm(
+                                        Term(
+                                          NumFactor(
+                                           0
+                                          ) [NumFactor]
+                                          EmptyTermList(
+                                          ) [EmptyTermList]
+                                        ) [Term]
+                                        EmptyExprList(
+                                        ) [EmptyExprList]
+                                      ) [ExprTerm]
+                                    ) [BracketDesignatorR]
+                                  ) [ListDesignator]
+                                ) [Designator]
+                              ) [DesignatorFactor]
+                              ListTerm(
+                                EmptyTermList(
+                                ) [EmptyTermList]
+                                MulopMul(
+                                ) [MulopMul]
+                                NumFactor(
+                                 2
+                                ) [NumFactor]
+                              ) [ListTerm]
+                            ) [Term]
+                            EmptyExprList(
+                            ) [EmptyExprList]
+                          ) [ExprTerm]
+                        ) [BracketDesignatorR]
+                      ) [ListDesignator]
+                    ) [Designator]
+                    Assignop(
+                    ) [Assignop]
+                    ExprTerm(
+                      Term(
+                        NumFactor(
+                         4
+                        ) [NumFactor]
+                        EmptyTermList(
+                        ) [EmptyTermList]
+                      ) [Term]
+                      EmptyExprList(
+                      ) [EmptyExprList]
+                    ) [ExprTerm]
+                  ) [DesignatorStatementAssign]
+                ) [DesignatorStmt]
+              ) [ListStatement]
+              DesignatorStmt(
+                DesignatorStatementAssign(
+                  Designator(
+                   mat
+                    ListDesignator(
+                      ListDesignator(
+                        EmptyDesignatorList(
+                        ) [EmptyDesignatorList]
+                        BracketDesignatorR(
+                          ExprTerm(
+                            Term(
+                              DesignatorFactor(
+                                Designator(
+                                 mat
+                                  ListDesignator(
+                                    ListDesignator(
+                                      EmptyDesignatorList(
+                                      ) [EmptyDesignatorList]
+                                      BracketDesignatorR(
+                                        ExprTerm(
+                                          Term(
+                                            NumFactor(
+                                             0
+                                            ) [NumFactor]
+                                            EmptyTermList(
+                                            ) [EmptyTermList]
+                                          ) [Term]
+                                          EmptyExprList(
+                                          ) [EmptyExprList]
+                                        ) [ExprTerm]
+                                      ) [BracketDesignatorR]
+                                    ) [ListDesignator]
+                                    BracketDesignatorR(
+                                      ExprTerm(
+                                        Term(
+                                          NumFactor(
+                                           0
+                                          ) [NumFactor]
+                                          EmptyTermList(
+                                          ) [EmptyTermList]
+                                        ) [Term]
+                                        EmptyExprList(
+                                        ) [EmptyExprList]
+                                      ) [ExprTerm]
+                                    ) [BracketDesignatorR]
+                                  ) [ListDesignator]
+                                ) [Designator]
+                              ) [DesignatorFactor]
+                              EmptyTermList(
+                              ) [EmptyTermList]
+                            ) [Term]
+                            EmptyExprList(
+                            ) [EmptyExprList]
+                          ) [ExprTerm]
+                        ) [BracketDesignatorR]
+                      ) [ListDesignator]
+                      BracketDesignatorR(
+                        ExprTerm(
+                          Term(
+                            NumFactor(
+                             1
+                            ) [NumFactor]
+                            EmptyTermList(
+                            ) [EmptyTermList]
+                          ) [Term]
+                          EmptyExprList(
+                          ) [EmptyExprList]
+                        ) [ExprTerm]
+                      ) [BracketDesignatorR]
+                    ) [ListDesignator]
+                  ) [Designator]
+                  Assignop(
+                  ) [Assignop]
+                  ExprTerm(
+                    Term(
+                      NumFactor(
+                       3
+                      ) [NumFactor]
+                      EmptyTermList(
+                      ) [EmptyTermList]
+                    ) [Term]
+                    EmptyExprList(
+                    ) [EmptyExprList]
+                  ) [ExprTerm]
+                ) [DesignatorStatementAssign]
+              ) [DesignatorStmt]
+            ) [ListStatement]
+            DesignatorStmt(
+              DesignatorStatementAssign(
+                Designator(
+                 mat
+                  ListDesignator(
+                    ListDesignator(
+                      EmptyDesignatorList(
+                      ) [EmptyDesignatorList]
+                      BracketDesignatorR(
+                        ExprTerm(
+                          Term(
+                            NumFactor(
+                             1
+                            ) [NumFactor]
+                            EmptyTermList(
+                            ) [EmptyTermList]
+                          ) [Term]
+                          EmptyExprList(
+                          ) [EmptyExprList]
+                        ) [ExprTerm]
+                      ) [BracketDesignatorR]
+                    ) [ListDesignator]
+                    BracketDesignatorR(
+                      ExprTerm(
+                        Term(
+                          NumFactor(
+                           0
+                          ) [NumFactor]
+                          EmptyTermList(
+                          ) [EmptyTermList]
+                        ) [Term]
+                        EmptyExprList(
+                        ) [EmptyExprList]
+                      ) [ExprTerm]
+                    ) [BracketDesignatorR]
+                  ) [ListDesignator]
+                ) [Designator]
+                Assignop(
+                ) [Assignop]
+                ExprTerm(
+                  Term(
+                    NumFactor(
+                     2
+                    ) [NumFactor]
+                    EmptyTermList(
+                    ) [EmptyTermList]
+                  ) [Term]
+                  EmptyExprList(
+                  ) [EmptyExprList]
+                ) [ExprTerm]
+              ) [DesignatorStatementAssign]
+            ) [DesignatorStmt]
+          ) [ListStatement]
+          PrintStmt(
+            ExprTerm(
+              Term(
+                DesignatorFactor(
+                  Designator(
+                   mat
+                    ListDesignator(
+                      ListDesignator(
+                        EmptyDesignatorList(
+                        ) [EmptyDesignatorList]
+                        BracketDesignatorR(
+                          ExprTerm(
+                            Term(
+                              NumFactor(
+                               1
+                              ) [NumFactor]
+                              EmptyTermList(
+                              ) [EmptyTermList]
+                            ) [Term]
+                            EmptyExprList(
+                            ) [EmptyExprList]
+                          ) [ExprTerm]
+                        ) [BracketDesignatorR]
+                      ) [ListDesignator]
+                      BracketDesignatorR(
+                        ExprTerm(
+                          Term(
+                            NumFactor(
+                             2
+                            ) [NumFactor]
+                            EmptyTermList(
+                            ) [EmptyTermList]
+                          ) [Term]
+                          EmptyExprList(
+                          ) [EmptyExprList]
+                        ) [ExprTerm]
+                      ) [BracketDesignatorR]
+                    ) [ListDesignator]
+                  ) [Designator]
+                ) [DesignatorFactor]
+                EmptyTermList(
+                ) [EmptyTermList]
+              ) [Term]
+              EmptyExprList(
+              ) [EmptyExprList]
+            ) [ExprTerm]
+          ) [PrintStmt]
+        ) [ListStatement]
+        PrintStmt(
+          ExprTerm(
+            Term(
+              DesignatorFactor(
+                Designator(
+                 mat
+                  ListDesignator(
+                    ListDesignator(
+                      EmptyDesignatorList(
+                      ) [EmptyDesignatorList]
+                      BracketDesignatorR(
+                        ExprTerm(
+                          Term(
+                            NumFactor(
+                             0
+                            ) [NumFactor]
+                            EmptyTermList(
+                            ) [EmptyTermList]
+                          ) [Term]
+                          EmptyExprList(
+                          ) [EmptyExprList]
+                        ) [ExprTerm]
+                      ) [BracketDesignatorR]
+                    ) [ListDesignator]
+                    BracketDesignatorR(
+                      ExprTerm(
+                        Term(
+                          NumFactor(
+                           2
+                          ) [NumFactor]
+                          EmptyTermList(
+                          ) [EmptyTermList]
+                        ) [Term]
+                        EmptyExprList(
+                        ) [EmptyExprList]
+                      ) [ExprTerm]
+                    ) [BracketDesignatorR]
+                  ) [ListDesignator]
+                ) [Designator]
+              ) [DesignatorFactor]
+              EmptyTermList(
+              ) [EmptyTermList]
+            ) [Term]
+            EmptyExprList(
+            ) [EmptyExprList]
+          ) [ExprTerm]
+        ) [PrintStmt]
+      ) [ListStatement]
+    ) [MethodDecl]
+  ) [ListMethodDecl]
+) [Program]
+INFO  23:35:30,711 - ===================================
